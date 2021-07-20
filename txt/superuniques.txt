@@ -1,0 +1,69 @@
+Superunique	Name	Class	hcIdx	MonSound	Mod1	Mod2	Mod3	MinGrp	MaxGrp	EClass	AutoPos	Stacks	Replaceable	Utrans	Utrans(N)	Utrans(H)	TC	TC(N)	TC(H)	*eol
+su0	Bishibosh	ms58		mo0	8	9		2	2		1			11	11	11	Act 1 Super A	Act 1 (N) Super A	Act 1 (H) Super A	0
+su1	Bonebreak	ms0	1	mo0	5	8		5	5		1			5	5	5	Act 1 Super A	Act 1 (N) Super A	Act 1 (H) Super A	0
+su2	Coldcrow	ms160	2	mo0	18			4	4		1			18	18	18	Act 1 Super A	Act 1 (N) Super A	Act 1 (H) Super A	0
+su3	Rakanishu	ms20	3	mo0	17	6		8	8				1	29	29	29	Act 1 Super B	Act 1 (N) Super B	Act 1 (H) Super B	0
+su4	Treehead WoodFist	ms24	4	mo0	5	6		2	2		1		1	4	4	4	Act 1 Super B	Act 1 (N) Super B	Act 1 (H) Super B	0
+su5	Griswold	ms365	5	mo0	7						1		1	17	17	17	Griswold	Griswold (N)	Griswold (H)	0
+su6	The Countess	ms734	6	mo36	9			6	6		1			16	16	16	Countess	Countess (N)	Countess (H)	0
+su7	Pitspawn Fouldog	ms11	7	mo0	7	18		4	4		1			31	31	31	Act 1 Super B	Act 1 (N) Super B	Act 1 (H) Super B	0
+su8	Flamespike the Crawler	ms66	8	mo0	9	7		6	6		1			16	16	16	Act 1 Unique C	Act 1 (N) Unique C	Act 1 (H) Unique C	0
+su9	Boneash	ms276	9	mo0	8	5	18				1			15	15	15	Act 1 Super C	Act 1 (N) Super C	Act 1 (H) Super C	0
+su10	Radament	ms229	10	mo0	6			3	3		1			30	30	30	Radament	Radament (N)	Radament (H)	0
+su11	Bloodwitch the Wild	ms736	11	mo0	5	7		5	5		1			29	29	29	Act 2 Super A	Act 2 (N) Super A	Bloodwitch (H)	0
+su12	Fangskin	ms75	12	mo0	17	6		4	4		1			14	14	14	Act 2 Super B	Act 2 (N) Super B	Act 2 (H) Super B	0
+su13	Beetleburst	ms92	13	mo0	8			3	3		1		1	13	13	13	Act 2 Super B	Act 2 (N) Super B	Act 2 (H) Super B	0
+su14	Leatherarm	ms97	14	mo0	5	18		5	5		1			25	25	25	Act 2 Super A	Act 2 (N) Super A	Act 2 (H) Super A	0
+su15	Coldworm the Burrower	ms284	15	mo0	18	8								13	13	13	Act 2 Super B	Act 2 (N) Super B	Act 2 (H) Super B	0
+su16	Fire Eye	ms31	16	mo0	9	6		3	3		1			12	12	12	Act 2 Super B	Act 2 (N) Super B	Act 2 (H) Super B	0
+su17	Dark Elder	ms9	17	mo0	6	8		4	4		1		1	27	27	27	Act 2 Super B	Act 2 (N) Super B	Act 2 (H) Super B	0
+su18	The Summoner	ms250	18	mo0	5	6					1			26	26	26	Summoner	Summoner (N)	Summoner (H)	0
+su19	Ancient Kaa the Soulless	ms103	19	mo0	25	5	17	3	3		1			11	11	11	Act 2 Super C	Act 2 (N) Super C	Act 2 (H) Super C	0
+su20	The Smith	ms402	20	mo111	5						1			26	26	26	Smith	Smith (N)	Smith (H)	0
+su21	Web Mage the Burning	ms125	21	mo0	5	7		5	5		1			19	19	19	Act 3 Super A	Act 3 (N) Super A	Act 3 (H) Super A	0
+su22	Witch Doctor Endugu	ms281	22	mo0	8	9		6	6		1			20	20	20	Act 3 Super B	Act 3 (N) Super B	Act 3 (H) Super B	0
+su23	Stormtree	ms129	23	mo0	6	17		4	4		1		1	35	35	35	Act 3 Super B	Act 3 (N) Super B	Act 3 (H) Super B	0
+su24	Sarina the Battlemaid	ms47	24	mo0	6	27		9	9		1		1	36	36	36	Act 3 Super B	Act 3 (N) Super B	Act 3 (H) Super B	0
+su25	Icehawk Riftwing	ms138	25	mo0	18	26		7	7		1			21	21	21	Act 3 Super A	Act 3 (N) Super A	Act 3 (H) Super A	0
+su26	Ismail Vilehand	ms345	26	mo0	6	7		2	2		1			36	36	36	Council	Council (N)	Council (H)	0
+su27	Geleb Flamefinger	ms346	27	mo0	5	9		2	2		1			37	37	37	Council	Council (N)	Council (H)	0
+su28	Bremm Sparkfist	ms347	28	mo0	30	17		2	2		1			22	22	22	Council	Council (N)	Council (H)	0
+su29	Toorc Icefist	ms345	29	mo0	18	28					1			23	23	23	Council	Council (N)	Council (H)	0
+su30	Wyand Voidfinger	ms346	30	mo0	25	26					1			38	38	38	Council	Council (N)	Council (H)	0
+su31	Maffer Dragonhand	ms347	31	mo0	5	6					1			23	23	23	Council	Council (N)	Council (H)	0
+su32	Winged Death	ms362	32	mo0	5	7		7	7		1			24	24	24	Act 4 Super A	Act 4 (N) Super A	Act 4 (H) Super A	0
+su33	The Tormentor	ms120	33	mo0	8	9		5	5		1			9	9	9	Act 4 Super A	Act 4 (N) Super A	Act 4 (H) Super A	0
+su34	Taintbreeder	ms299	34	mo0	6			6	6		1			10	10	10	Act 4 Super A	Act 4 (N) Super A	Act 4 (H) Super A	0
+su35	Riftwraith the Cannibal	ms308	35	mo0	18	26		8	8		1			25	25	25	Act 4 Super A	Act 4 (N) Super A	Act 4 (H) Super A	0
+su36	Infector of Souls	ms362	36	mo0	6	27		9	9		1			26	26	26	Act 4 Super B	Act 4 (N) Super B	Act 4 (H) Super B	0
+su37	Lord De Seis	ms312	37	mo0	5	30	24	5	5		1			11	11	11	Act 4 Super C	Act 4 (N) Super C	Act 4 (H) Super C	0
+su38	Grand Vizier of Chaos	ms306	38	mo0	5	9		9	9		1			26	26	26	Act 4 Super B	Act 4 (N) Super B	Act 4 (H) Super B	0
+su39	The Cow King	ms391	39	mo0	8	17		6	6		1			27	27	27	Cow King	Cow King (N)	Cow King (H)	0
+su40	Corpsefire	ms5	40	mo0	27			5	5		1			25	25	25	Act 1 Super A	Act 1 (N) Super A	Act 1 (H) Super A	0
+su41	The Feature Creep	ms409	41	mo113	27	30					1			20	20	20	Haphesto	Haphesto (N)	Haphesto (H)	0
+Expansion																				0
+su42	Siege Boss	ms479	42	mo0	5					1		1		7	7	7	Act 5 Super A	Act 5 (N) Super A	Act 5 (H) Super A	0
+su43	Ancient Barbarian 1	ms540	43	mo0						1		1		25	25	25				0
+su44	Ancient Barbarian 2	ms541	44	mo0						1		1		26	26	26				0
+su45	Ancient Barbarian 3	ms542	45	mo0						1		1		11	11	11				0
+su46	Axe Dweller	ms508	46	mo0	8	9		2	2	1				20	20	20	Act 5 Super C	Act 5 (N) Super C	Act 5 (H) Super C	0
+su47	Bonesaw Breaker	ms437	47	mo0	5	8		5	5	1				35	35	35	Act 5 Super A	Act 5 (N) Super A	Act 5 (H) Super A	0
+su48	Dac Farren	ms494	48	mo0	18			4	4	1			1	36	36	36	Act 5 Super B	Act 5 (N) Super B	Act 5 (H) Super B	0
+su49	Megaflow Rectifier	ms453	49	mo0	1	6		8	8	1			1	21	21	21	Act 5 Super A	Act 5 (N) Super A	Act 5 (H) Super A	0
+su50	Eyeback Unleashed	ms529	50	mo0	5	6		2	2	1				8	8	8	Act 5 Super A	Act 5 (N) Super A	Act 5 (H) Super A	0
+su51	Threash Socket	ms443	51	mo0	7					1				37	37	37	Act 5 Super Cx	Act 5 (N) Super Cx	Act 5 (H) Super Cx	0
+su52	Pindleskin	ms440	52	mo0	9			6	6	1				22	22	22	Act 5 Super Cx	Act 5 (N) Super Cx	Act 5 (H) Super Cx	0
+su53	Snapchip Shatter	ms501	53	mo0	7	18		4	4	1				23	23	23	Act 5 Super C	Act 5 (N) Super C	Act 5 (H) Super C	0
+su54	Anodized Elite	ms472	54	mo0	9	7		6	6	1				38	38	38	Act 5 Super C	Act 5 (N) Super C	Act 5 (H) Super C	0
+su55	Vinvear Molech	ms475	55	mo0	8	5	18			1				23	23	23	Act 5 Super A	Act 5 (N) Super A	Act 5 (H) Super A	0
+su56	Sharp Tooth Sayer	ms481	56	mo0	6			3	3	1			1	24	24	24	Act 5 Super B	Act 5 (N) Super B	Act 5 (H) Super B	0
+su57	Magma Torquer	ms496	57	mo0	5	7		5	5	1				9	9	9	Act 5 Super C	Act 5 (N) Super C	Act 5 (H) Super C	0
+su58	Blaze Ripper	ms533	58	mo0	17	6		4	4	1				10	10	10	Act 5 Super C	Act 5 (N) Super C	Act 5 (H) Super C	0
+su59	Frozenstein	ms449	59	mo0	18	25		5	6	1				19	19	19	Act 5 Super C	Act 5 (N) Super C	Act 5 (H) Super C	0
+su60	Nihlathak	ms526	60	mo0						1		1		28	28	28	Nihlathak	Nihlathak (N)	Nihlathak (H)	0
+su61	Baal Subject 1	ms62	61	mo0	9			5	5			1		29	29	29	Act 5 Champ C	Act 5 (N) Champ C	Act 5 (H) Champ C	0
+su62	Baal Subject 2	ms105	62	mo0	23			3	3			1		21	21	21	Act 5 Champ C	Act 5 (N) Champ C	Act 5 (H) Champ C	0
+su63	Baal Subject 3	ms557	63	mo0	17			5	5	1		1		36	36	36	Act 5 Champ C	Act 5 (N) Champ C	Act 5 (H) Champ C	0
+su64	Baal Subject 4	ms558	64	mo0	6			8	8	1		1		20	20	20	Act 5 Champ C	Act 5 (N) Champ C	Act 5 (H) Champ C	0
+su65	Baal Subject 5	ms571	65	mo0	27			5	5	1		1		20	20	20	Act 5 Champ C	Act 5 (N) Champ C	Act 5 (H) Champ C	0
+su66	Wisp Boss	ms743	66	mo0	15	28	8	4	4	1		1		28	28	28	Nihlathak	Nihlathak (N)	Nihlathak (H)	0
