@@ -63,7 +63,7 @@ Gul Rune	Gul	18	r25	1	pr96		20	20									pr40		4	4									pr40		4	4
 Vex Rune	Vex	18	r26	1	pr65		7	7									pr32		4	4									pr32		4	4								
 Ohm Rune	Ohm	18	r27	1	pr29		50	50									pr36		4	4									pr36		4	4								
 Lo Rune	Lo	18	r28	1	pr113		20	20									pr34		4	4									pr34		4	4								
-Sur Rune	Sur	18	r29	1	pr253		4	4									pr12		5	5									pr11		50	50								
+Sur Rune	Sur	18	r29	1	pr254		4	4									pr12		5	5									pr11		50	50								
 Ber Rune	Ber	18	r30	1	pr108		20	20									pr4		4	4									pr4		4	4								
 Jah Rune	Jah	18	r31	1	pr92		1	1									pr14		5	5									pr13		50	50								
 Cham Rune	Cham	18	r32	1	pr106		3	3									pr115		1	1									pr115		1	1								

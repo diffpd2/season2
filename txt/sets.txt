@@ -16,19 +16,19 @@ se13	Angelical Raiment		17	pr8	0	10	10					pr11	0	50	50																					pr41
 se14	Arctic Gear		3	pr7	0	5	5					pr13	0	50	50																					pr17	0	6	6	pr18	0	14	14	pr19	0	100	100	pr115	0	1	1	pr118	0	30	30													0
 se15	Arcanna's Tricks		20	pr11	0	25	25					pr13	0	50	50																					pr87	0	30	30	pr65	0	5	5	pr11	0	25	25	pr104	0	1	1																	0
 Expansion																																																																				
-se16	Natalya's Odium	100	22	pr6	0	15	15					pr0	0	200	200					pr39	0	20	20													pr41	0	30	30	pr122	0	3	3	pr0	0	150	150	pr66	0	6	6	pr65	0	6	6	pr4	0	20	20	pr262	0	1	1					0
-se17	Aldur's Watchtower	100	29	pr96	0	150	150	pr86	0	10	10	pr59	0	50	50	pr86	0	20	20	pr66	0	10	10													pr41	0	50	50	pr121	0	3	3	pr0	0	150	150	pr65	0	10	10	pr11	0	150	150	pr29	0	350	350	pr266	175	1	1	pr10	0	15	15	0
-se18	Immortal King	100	37	pr15	0	50	50					pr15	0	75	75					pr15	0	125	125					pr15	0	200	200					pr41	0	50	50	pr71	0	3	3	pr13	0	150	150	pr6	0	10	10	pr266	175	1	1													0
-se19	Tal Rasha's Wrappings	100	26	pr53	0	10	10					pr59	0	40	40					pr80	0	25	25													pr41	0	25	25	pr70	0	3	3	pr0	0	150	150	pr13	0	150	150	pr1	0	50	50	pr266	175	1	1									0
-se20	Griswold's Legacy	100	44	pr7	0	20	20					pr8	0	30	30																					pr41	0	30	30	pr68	0	3	3	pr15	0	200	200	pr13	0	150	150	pr266	175	1	1	pr80	0	30	30	pr86	0	20	20	pr59	0	25	25	0
-se21	Trang-Oul's Avatar	100	32	pr62	0	20	20	pr265	47	18	18	pr62	0	15	15	pr265	51	26	26	pr265	47	10	10													pr41	0	50	50	pr69	0	3	3	pr11	0	100	100	pr265	61	6	6	pr66	0	20	20	pr62	0	15	15	pr53	0	10	10	pr266	175	1	1	0
-se22	M'avina's Battle Hymn	100	21	pr7	0	20	20					pr8	0	30	30																					pr41	0	50	50	pr67	0	2	2	pr0	0	100	100	pr15	0	100	100	pr59	0	100	100	pr266	175	1	1									0
+se16	Natalya's Odium	100	22	pr6	0	15	15					pr0	0	200	200					pr39	0	20	20													pr41	0	30	30	pr122	0	3	3	pr0	0	150	150	pr66	0	6	6	pr65	0	6	6	pr4	0	20	20	pr263	0	1	1					0
+se17	Aldur's Watchtower	100	29	pr96	0	150	150	pr86	0	10	10	pr59	0	50	50	pr86	0	20	20	pr66	0	10	10													pr41	0	50	50	pr121	0	3	3	pr0	0	150	150	pr65	0	10	10	pr11	0	150	150	pr29	0	350	350	pr267	175	1	1	pr10	0	15	15	0
+se18	Immortal King	100	37	pr15	0	50	50					pr15	0	75	75					pr15	0	125	125					pr15	0	200	200					pr41	0	50	50	pr71	0	3	3	pr13	0	150	150	pr6	0	10	10	pr267	175	1	1													0
+se19	Tal Rasha's Wrappings	100	26	pr53	0	10	10					pr59	0	40	40					pr80	0	25	25													pr41	0	25	25	pr70	0	3	3	pr0	0	150	150	pr13	0	150	150	pr1	0	50	50	pr267	175	1	1									0
+se20	Griswold's Legacy	100	44	pr7	0	20	20					pr8	0	30	30																					pr41	0	30	30	pr68	0	3	3	pr15	0	200	200	pr13	0	150	150	pr267	175	1	1	pr80	0	30	30	pr86	0	20	20	pr59	0	25	25	0
+se21	Trang-Oul's Avatar	100	32	pr62	0	20	20	pr266	47	18	18	pr62	0	15	15	pr266	51	26	26	pr266	47	10	10													pr41	0	50	50	pr69	0	3	3	pr11	0	100	100	pr266	61	6	6	pr66	0	20	20	pr62	0	15	15	pr53	0	10	10	pr267	175	1	1	0
+se22	M'avina's Battle Hymn	100	21	pr7	0	20	20					pr8	0	30	30																					pr41	0	50	50	pr67	0	2	2	pr0	0	100	100	pr15	0	100	100	pr59	0	100	100	pr267	175	1	1									0
 se23	The Disciple	100	39	pr0	0	150	150													pr7	0	10	10					pr8	0	10	10					pr41	0	50	50	pr104	0	2	2	pr11	0	100	100	pr99	0	150	150	pr98	0	150	150													0
 se24	Heaven's Brethren	100	55	pr61	0	50	50					pr53	0	30	30					pr134	0	30	30													pr41	0	50	50	pr104	0	2	2	pr115	0	1	1	pr73	0	5	5	pr53	0	40	40	pr86	0	20	20									0
 se25	Orphan's Call	100	41	pr13	0	35	35					pr54	0	250	250					pr0	0	100	100													pr13	0	50	50	pr8	0	10	10	pr7	0	20	20	pr0	0	100	100	pr41	0	30	30	pr59	0	80	80									0
 se26	Hwanin's Majesty	100	28	pr0	0	100	100					pr0	0	200	200																					pr104	0	2	2	pr66	0	20	20	pr78	0	30	30	pr41	0	30	30	pr98	0	100	100													0
 se27	Sazabi's Grand Tribute	100	34	pr78	0	40	40	pr86	0	40	40																									pr41	0	30	30	pr66	0	15	15	pr14	0	27	27	pr104	0	2	2																	0
 se28	Bul-Kathos' Children	100	50																																	pr134	0	200	200	pr104	0	2	2	pr15	0	200	200	pr0	0	500	500	pr99	0	200	200	pr98	0	200	200	pr113	0	25	25	pr108	0	25	25	0
-se29	Cow King's Leathers	100	20	pr39	0	25	25																													pr63	0	100	100	pr7	0	20	20	pr58	0	100	100	pr59	0	100	100	pr128	42	25	18	pr57	0	30	30	pr266	204	1	1					0
+se29	Cow King's Leathers	100	20	pr39	0	25	25																													pr63	0	100	100	pr7	0	20	20	pr58	0	100	100	pr59	0	100	100	pr128	42	25	18	pr57	0	30	30	pr267	204	1	1					0
 se30	Naj's Ancient Set	100	43	pr0	0	175	175																													pr104	0	3	3	pr53	0	10	10	pr8	0	15	15	pr41	0	50	50	pr7	0	20	20	pr11	0	100	100									0
 se31	McAuley's Folly	100	20	pr0	0	50	50					pr15	0	75	75																					pr104	0	1	1	pr59	0	50	50	pr11	0	50	50	pr66	0	4	4																	0

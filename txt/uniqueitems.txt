@@ -1,113 +1,113 @@
 index	version	enabled	ladder	rarity	nolimit	lvl	lvl req	code	*type	*uber	carry1	cost mult	cost add	chrtransform	invtransform	flippyfile	invfile	dropsound	dropsfxframe	usesound	prop1	par1	min1	max1	prop2	par2	min2	max2	prop3	par3	min3	max3	prop4	par4	min4	max4	prop5	par5	min5	max5	prop6	par6	min6	max6	prop7	par7	min7	max7	prop8	par8	min8	max8	prop9	par9	min9	max9	prop10	par10	min10	max10	prop11	par11	min11	max11	prop12	par12	min12	max12	*eol
-The Gnasher		1		1		7	5	hax	Hand Axe			5	5000	dyel			invhaxu	so0		so0	pr7		8	8	pr107		50	50	pr108		20	20	pr29		60	70																													pr268	358	100	1	0
-Deathspade		1		1		12	9	axe	Axe			5	5000	dgld			invaxeu	so0		so0	pr91		1	1	pr27		8	8	pr96		15	15	pr110		4	4	pr29		60	70																									pr268	358	100	1	0
-Bladebone		1		1		20	15	2ax	Double Axe			5	5000	lgry	lgry			so0		so0	pr99		100	100	pr101		40	40	pr56		20	20	pr0		20	60	pr20		16	16	pr21		24	24	pr29		30	50																	pr268	358	100	1	0
-Mindrend		1		1		28	21	mpi	Military Pick			5	5000	lgrn			invmpiu	so0		so0	pr91		2	2	pr62		20	20	pr22		1	1	pr23		24	30	pr15		50	100	pr29		60	100	pr107		15	15																	pr268	358	100	1	0
-Rakescar		1		1		36	27	wax	War Axe			5	5000	dgry	dgry			so0		so0	pr24		194	194	pr25		194	194	pr26		50	50	pr15		50	100	pr39		50	50	pr29		75	150	pr56		30	30																	pr268	358	100	1	0
-Fechmars Axe		1		1		11	8	lax	Large Axe			5	5000	lpur	lpur			so0		so0	pr29		70	90	pr106		3	3	pr35		50	50	pr73		2	2																													pr268	358	100	1	0
-Goreshovel		1		1		19	14	bax	Broad Axe			5	5000	dpur	dpur			so0		so0	pr57		30	30	pr7		25	25	pr107		60	60	pr29		50	70	pr28		9	9																									pr268	358	100	1	0
-The Chieftan		1		1		26	19	btx	Battle Axe			5	5000	oran			invbtxu	so0		so0	pr29		100	100	pr41		10	20	pr110		6	6	pr56		20	40	pr135		1	40																									pr268	358	100	1	0
-Brainhew		1		1		34	25	gax	Great Axe			5	5000	whit			invgaxu	so0		so0	pr27		14	14	pr11		25	25	pr73		4	4	pr65		10	13	pr29		50	80	pr134		15	35	pr56		40	40																	pr268	358	100	1	0
-The Humongous		1		1		39	29	gix	Giant Axe			5	5000	blac	blac			so0		so0	pr7		20	30	pr27		8	8	pr28		15	25	pr108		33	33	pr75		20	20	pr29		180	240																					pr268	358	100	1	0
+The Gnasher		1		1		7	5	hax	Hand Axe			5	5000	dyel			invhaxu	so0		so0	pr7		8	8	pr107		50	50	pr108		20	20	pr29		60	70																													pr269	358	100	1	0
+Deathspade		1		1		12	9	axe	Axe			5	5000	dgld			invaxeu	so0		so0	pr91		1	1	pr27		8	8	pr96		15	15	pr110		4	4	pr29		60	70																									pr269	358	100	1	0
+Bladebone		1		1		20	15	2ax	Double Axe			5	5000	lgry	lgry			so0		so0	pr99		100	100	pr101		40	40	pr56		20	20	pr0		20	60	pr20		16	16	pr21		24	24	pr29		30	50																	pr269	358	100	1	0
+Mindrend		1		1		28	21	mpi	Military Pick			5	5000	lgrn			invmpiu	so0		so0	pr91		2	2	pr62		20	20	pr22		1	1	pr23		24	30	pr15		50	100	pr29		60	100	pr107		15	15																	pr269	358	100	1	0
+Rakescar		1		1		36	27	wax	War Axe			5	5000	dgry	dgry			so0		so0	pr24		194	194	pr25		194	194	pr26		50	50	pr15		50	100	pr39		50	50	pr29		75	150	pr56		30	30																	pr269	358	100	1	0
+Fechmars Axe		1		1		11	8	lax	Large Axe			5	5000	lpur	lpur			so0		so0	pr29		70	90	pr106		3	3	pr35		50	50	pr73		2	2	pr56		20	20																									pr269	358	100	1	0
+Goreshovel		1		1		19	14	bax	Broad Axe			5	5000	dpur	dpur			so0		so0	pr57		30	30	pr7		25	25	pr107		60	60	pr29		50	70	pr28		9	9																									pr269	358	100	1	0
+The Chieftan		1		1		26	19	btx	Battle Axe			5	5000	oran			invbtxu	so0		so0	pr29		100	100	pr41		10	20	pr110		6	6	pr56		40	40	pr135		1	40																									pr269	358	100	1	0
+Brainhew		1		1		34	25	gax	Great Axe			5	5000	whit			invgaxu	so0		so0	pr27		14	14	pr11		25	25	pr73		4	4	pr65		10	13	pr29		90	120	pr134		15	35	pr56		40	40																	pr269	358	100	1	0
+The Humongous		1		1		39	29	gix	Giant Axe			5	5000	blac	blac			so0		so0	pr7		20	30	pr27		8	8	pr28		15	25	pr108		33	33	pr75		20	20	pr29		180	240	pr56		20	20																	pr269	358	100	1	0
 Iros Torch		1		1		7	5	wnd	Wand			5	5000	cred			invwndu	so0		so0	pr69		1	1	pr66		6	6	pr134		5	9	pr73		3	3	pr10		10	10	pr62		5	5	pr86		10	10																					0
 Maelstromwrath		1		1		19	14	ywn	Yew Wand			5	5000	dblu	dblu			so0		so0	pr33		40	40	pr11		13	13	pr86		30	30	pr123	74	1	3	pr123	77	1	3	pr123	66	1	3	pr123	76	1	3	pr110		1	2																	0
 Gravenspine		1		1		27	20	bwn	Bone Wand			5	5000	cgrn			invbwnu	so0		so0	pr7		10	10	pr8		10	10	pr17		4	4	pr18		8	8	pr19		75	75	pr65		5	5	pr69		2	2	pr11		25	50	pr123	70	1	2	pr123	80	1	2									0
 Umes Lament		1		1		38	28	gwn	Grim Wand			5	5000	lblu	lblu			so0		so0	pr69		2	2	pr11		40	40	pr86		20	20	pr90		64	64	pr123	77	3	3	pr123	87	2	2																									0
-Felloak		1		1		4	3	clb	Club			5	5000	lgry			invclbu	so0		so0	pr33		30	50	pr31		15	30	pr60		1	1	pr20		6	6	pr21		8	8	pr29		70	80	pr123	225	1	2																	pr268	358	100	1	0
-Knell Striker		1		1		7	5	scp	Scepter			5	5000	dred	dred			so0		so0	pr108		25	25	pr31		20	20	pr39		20	20	pr11		15	15	pr15		35	35	pr29		70	80																					pr268	358	100	1	0
-Rusthandle		1		1		23	17	gsc	Grand Scepter			5	5000	lgld	lgld			so0		so0	pr68		1	1	pr140		3	7	pr6		1	1	pr66		8	8	pr29		50	60	pr99		50	60	pr123	111	1	3	pr123	103	3	3													pr268	358	100	1	0
-Stormeye		1		1		31	23	wsp	War Scepter			5	5000	cred	cred			so0		so0	pr22		1	1	pr23		20	30	pr137	75	3	5	pr53		10	10	pr29		80	120	pr123	110	3	5	pr123	118	3	3	pr123	121	1	1													pr268	358	100	1	0
-Stoutnail		1		1		7	5	spc	Spiked Club			5	5000	dgry			invspcu	so0		so0	pr54		3	10	pr29		100	100	pr9		7	14	pr6		2	4	pr123	224	1	2																									pr268	358	100	1	0
-Crushflange		1		1		12	9	mac	Mace			5	5000	blac	blac			so0		so0	pr7		15	15	pr73		2	2	pr31		40	50	pr29		50	100	pr108		33	33																									pr268	358	100	1	0
-Bloodrise		1		1		20	15	mst	Morning Star			5	5000	lblu			invmstu	so0		so0	pr29		120	120	pr96		50	50	pr107		25	25	pr73		2	2	pr55		10	30	pr123	96	3	3	pr66		4	6																	pr268	358	100	1	0
-The Generals Tan Do Li Ga		1		1		28	21	fla	Flail			5	5000	dblu	dblu			so0		so0	pr27		1	1	pr28		20	30	pr114		50	50	pr0		25	75	pr65		5	5	pr29		50	60	pr56		20	20																	pr268	358	100	1	0
-Ironstone		1		1		36	27	whm	War Hammer			5	5000	cblu	cblu			so0		so0	pr15		100	150	pr29		100	150	pr22		1	1	pr23		30	50	pr7		10	10			-5	-5																					pr268	358	100	1	0
-Bonesob		1		1		32	24	mau	Maul			5	5000	lred			invmauu	so0		so0	pr29		200	300	pr108		20	40	pr31		20	30	pr35		20	30	pr99		50	50																									pr268	358	100	1	0
-Steeldriver		1		1		39	29	gma	Great Maul			5	5000	cgrn	cgrn		invgma	so0		so0	pr75		-50	-50	pr57		40	40	pr61		25	25	pr29		150	250																													pr268	358	100	1	0
-Rixots Keen		1		1		3	2	ssd	Short Sword			5	5000	blac	blac			so0		so0	pr27		5	5	pr96		20	20	pr73		2	2	pr108		25	25	pr0		25	25	pr29		100	100																					pr268	358	100	1	0
-Blood Crescent		1		1		10	7	scm	Scimitar			5	5000	lblu			invscmu	so0		so0	pr41		15	15	pr29		60	80	pr13		15	15	pr73		4	4	pr107		33	33	pr56		15	15	pr66		15	15																	pr268	358	100	1	0
-Krintizs Skewer		1		1		14	10	sbr	Saber			5	5000	cblu			inv9sbu	so0		so0	pr92		1	1	pr7		10	10	pr8		10	10	pr65		7	7	pr29		50	70	pr140		3	7																					pr268	358	100	1	0
-Gleamscythe		1		1		18	13	flc	Falchion			5	5000	lred			invflcu	so0		so0	pr73		3	3	pr11		30	30	pr0		20	20	pr56		20	20	pr29		60	100	pr17		3	6	pr18		6	10	pr19		50	50													pr268	358	100	1	0
-Azurewrath				1		18	13	crs	Crystal Sword			5	5000	lgry			invcrsu	so0		so0	pr113		50	50	pr59		10	10	pr137	100	3	6	pr29		100	100	pr51		25	25	pr136		5	10																					pr268	358	100	1	0
-Griswolds Edge		1		1		23	17	bsd	Broad Sword			5	5000	cred			invbsdu	so0		so0	pr20		10	12	pr21		15	25	pr15		100	100	pr55		30	30	pr29		80	120	pr7		12	12																					pr268	358	100	1	0
-Hellplague		1		1		30	22	lsd	Long Sword			5	5000	dred			invlsdu	so0		so0	pr65		5	5	pr66		5	5	pr24		48	48	pr25		96	96	pr26		150	150	pr29		70	80	pr134		25	75	pr103		2	2													pr268	358	100	1	0
-Culwens Point		1		1		39	29	wsd	War Sword			5	5000	whit	whit			so0		so0	pr104		1	1	pr88		50	50	pr80		20	20	pr56		20	20	pr15		60	120	pr29		90	150																					pr268	358	100	1	0
-Shadowfang		1		1		16	12	2hs	2-Handed Sword			5	5000	cgrn			inv2hsu	so0		so0	pr65		9	9	pr35		20	20	pr73		-2	-2	pr137	150	10	30	pr29		100	140	pr66		9	9																					pr268	358	100	1	0
-Soulflay		1		1		26	19	clm	Claymore			5	5000	dgrn	dgrn			so0		so0	pr65		4	10	pr66		4	10	pr29		70	100	pr41		10	15	pr56		30	30																									pr268	358	100	1	0
-Kinemils Awl		1		1		31	23	gis	Giant Sword			5	5000	dblu			invgisu	so0		so0	pr15		100	150	pr56		20	20	pr20		6	6	pr21		20	40	pr29		80	100	pr123	102	4	6																					pr268	358	100	1	0
-Blacktongue		1		1		35	26	bsw	Bastard Sword			5	5000	lgrn			invbswu	so0		so0	pr138	75	511	613	pr94		1	1	pr15		50	100	pr39		30	50	pr29		50	80																									pr268	358	100	1	0
-Ripsaw		1		1		35	26	flb	Flamberge			5	5000	cblu	cblu			so0		so0	pr107		80	80	pr28		15	15	pr65		6	6	pr29		100	150																													pr268	358	100	1	0
-The Patriarch		1		1		39	29	gsd	Great Sword			5	5000	cred			invgsdu	so0		so0	pr3		2	5	pr6		2	5	pr91		1	1	pr58		100	100	pr29		220	280	pr7		10	10	pr56		-20	-20																	pr268	358	100	1	0
-Gull		1		1		6	4	dgr	Dagger			5	5000	lgry	lgry			so0		so0	pr27		1	1	pr28		15	15	pr59		100	100	pr11		-5	-5																									pr113		20	20	pr268	358	100	1	0
-The Diggler		1		1		15	11	dir	Dirk			5	5000	dgry	dgry			so0		so0	pr8		10	10	pr29		50	50	pr57		30	30	pr35		25	25	pr31		25	25	pr92		1	1																	pr113		20	20	pr268	358	100	1	0
-The Jade Tan Do		1		1		26	19	kri	Kris			5	5000	oran			invkrsu	so0		so0	pr15		100	150	pr115		1	1	pr138	50	460	460	pr39		50	75	pr40		10	10	pr123	73	1	2	pr275		1	2													pr113		20	20	pr268	358	100	1	0
-Irices Shard		1		1		34	25	bld	Blade			5	5000	dblu	dblu			so0		so0	pr87		50	50	pr11		50	50	pr15		55	55	pr41		10	20																									pr113		20	20	pr268	358	100	1	0
-The Dragon Chang		1		1		11	8	spr	Spear			5	5000	dpur	dpur			so0		so0	pr15		35	35	pr27		10	10	pr73		2	2	pr99		100	100	pr134		3	6	pr123	19	3	5																					pr268	358	100	1	0
-Razortine		1		1		16	12	tri	Trident			5	5000	oran			invtriu	so0		so0	pr114		25	25	pr93		50	50	pr7		15	15	pr8		8	8	pr56		30	30	pr29		30	50																					pr268	358	100	1	0
-Bloodthief		1		1		23	17	brn	Brandistock			5	5000	whit	whit			so0		so0	pr107		35	35	pr7		10	10	pr66		8	12	pr13		26	26	pr29		50	110																									pr268	358	100	1	0
-Lance of Yaggai		1		1		30	22	spt	Spetum			5	5000	lred	lred			so0		so0	pr54		24	24	pr22		1	1	pr23		60	60	pr41		15	15	pr56		40	40	pr123	14	2	3	pr123	24	1	2																	pr268	358	100	1	0
-The Tannr Gorerod		1		1		36	27	pik	Pike			5	5000	lgry	lgry			so0		so0	pr20		23	23	pr21		54	54	pr32		5	10	pr13		30	30	pr15		80	160	pr73		3	3	pr31		15	15	pr29		140	160													pr268	358	100	1	0
-Dimoaks Hew		1		1		11	8	bar	Bardiche			5	5000	blac	blac			so0		so0	pr8		15	15	pr29		100	100	pr56		20	20	pr0		-8	-8																													pr268	358	100	1	0
-Steelgoad		1		1		19	14	vou	Voulge			5	5000	cgrn	cgrn			so0		so0	pr90		14	14	pr113		30	30	pr15		30	30	pr41		5	5	pr29		60	80	pr51		20	40																					pr268	358	100	1	0
-Soul Harvest		1		1		26	19	scy	Scythe			5	5000	dgry			invscyu	so0		so0	pr107		30	30	pr15		45	45	pr41		20	20	pr29		50	90	pr65		10	10	pr123	381	3	4																					pr268	358	100	1	0
-The Battlebranch		1		1		34	25	pax	Poleaxe			5	5000	lblu	lblu			so0		so0	pr57		30	30	pr8		10	10	pr29		70	130	pr15		50	100	pr66		7	7																									pr268	358	100	1	0
-Woestave		1		1		38	28	hal	Halberd			5	5000	dblu	dblu			so0		so0	pr114		50	50	pr107		50	50	pr91		3	3	pr97		-50	-50	pr106		1	1	pr73		-3	-3	pr94		1	1	pr29		40	80													pr268	358	100	1	0
-The Grim Reaper		1		1		39	29	wsc	War Scythe			5	5000	lpur	lpur			so0		so0	pr113		100	100	pr265	70	4	6	pr265	80	4	6	pr65		5	5	pr29		90	140	pr27		15	15																					pr268	358	100	1	0
-Bane Ash		1		1		7	5	sst	Short Staff			5	5000	lgrn	lgrn			so0		so0	pr20		4	4	pr21		6	6	pr31		50	50	pr11		30	30	pr56		20	20	pr29		50	60	pr123	36	5	5	pr123	37	2	2													pr268	358	100	1	0
-Serpent Lord		1		1		12	9	lst	Long Staff			5	5000	cgrn	cgrn			so0		so0	pr138	75	40	40	pr39		50	50	pr123	235	2	3	pr11		10	10	pr29		30	40	pr65		100	100	pr93		50	50	pr123	230	2	4													pr268	358	100	1	0
-Lazarus Spire		1		1		24	18	cst	Gnarled Staff			5	5000	lgry			invcstu	so0		so0	pr33		75	75	pr3		5	5	pr10		15	15	pr123	53	1	1	pr123	49	2	2	pr123	42	3	3	pr62		43	43	pr135		1	28	pr70		1	1									pr268	358	100	1	0
-The Salamander		1		1		28	21	bst	Battle Staff			5	5000	dred	dred			so0		so0	pr134		15	32	pr31		30	30	pr123	51	1	1	pr123	47	1	2	pr123	37	2	3	pr103		2	3	pr123	383	1	2																	pr268	358	100	1	0
-The Iron Jang Bong		1		1		38	28	wst	War Staff			5	5000	dyel	dyel			so0		so0	pr0		30	30	pr87		30	50	pr29		100	100	pr96		50	50	pr123	48	2	2	pr123	46	2	2	pr123	44	3	3	pr70		2	2													pr268	358	100	1	0
+Felloak		1		1		4	3	clb	Club			5	5000	lgry			invclbu	so0		so0	pr33		30	50	pr31		15	30	pr60		1	1	pr20		6	6	pr21		8	8	pr29		70	80	pr123	225	2	3																	pr269	358	100	1	0
+Knell Striker		1		1		7	5	scp	Scepter			5	5000	dred	dred			so0		so0	pr108		25	25	pr31		20	20	pr39		20	20	pr11		15	15	pr15		35	35	pr29		70	80																					pr269	358	100	1	0
+Rusthandle		1		1		23	17	gsc	Grand Scepter			5	5000	lgld	lgld			so0		so0	pr68		1	1	pr140		3	7	pr6		1	1	pr66		8	8	pr29		50	60	pr99		50	60	pr123	111	1	3	pr123	103	3	3													pr269	358	100	1	0
+Stormeye		1		1		31	23	wsp	War Scepter			5	5000	cred	cred			so0		so0	pr22		1	1	pr23		30	30	pr137	75	17	25	pr53		10	10	pr29		80	120	pr123	110	3	5	pr123	118	3	3	pr123	121	2	3													pr269	358	100	1	0
+Stoutnail		1		1		7	5	spc	Spiked Club			5	5000	dgry			invspcu	so0		so0	pr54		3	10	pr29		100	100	pr9		7	14	pr6		2	4	pr123	224	3	4																									pr269	358	100	1	0
+Crushflange		1		1		12	9	mac	Mace			5	5000	blac	blac			so0		so0	pr7		15	15	pr73		2	2	pr31		40	50	pr29		80	100	pr108		33	33																									pr269	358	100	1	0
+Bloodrise		1		1		20	15	mst	Morning Star			5	5000	lblu			invmstu	so0		so0	pr29		120	120	pr96		50	50	pr107		25	25	pr73		2	2	pr55		20	30	pr123	96	3	3	pr66		4	6																	pr269	358	100	1	0
+The Generals Tan Do Li Ga		1		1		28	21	fla	Flail			5	5000	dblu	dblu			so0		so0	pr27		1	1	pr28		20	30	pr114		10	10	pr0		25	75	pr65		5	5	pr29		50	60	pr56		20	20																	pr269	358	100	1	0
+Ironstone		1		1		36	27	whm	War Hammer			5	5000	cblu	cblu			so0		so0	pr15		100	150	pr29		100	150	pr22		1	1	pr23		50	50	pr7		10	10			-5	-5	pr56		20	20																	pr269	358	100	1	0
+Bonesob		1		1		32	24	mau	Maul			5	5000	lred			invmauu	so0		so0	pr29		200	300	pr108		20	40	pr31		20	30	pr35		20	30	pr99		50	50																									pr269	358	100	1	0
+Steeldriver		1		1		39	29	gma	Great Maul			5	5000	cgrn	cgrn		invgma	so0		so0	pr75		-50	-50	pr57		40	40	pr61		25	25	pr29		180	280																													pr269	358	100	1	0
+Rixots Keen		1		1		3	2	ssd	Short Sword			5	5000	blac	blac			so0		so0	pr27		5	5	pr96		20	20	pr73		2	2	pr108		25	25	pr0		25	25	pr29		100	100																					pr269	358	100	1	0
+Blood Crescent		1		1		10	7	scm	Scimitar			5	5000	lblu			invscmu	so0		so0	pr41		15	15	pr29		60	80	pr13		15	15	pr73		4	4	pr107		33	33	pr56		15	15	pr66		15	15																	pr269	358	100	1	0
+Krintizs Skewer		1		1		14	10	sbr	Saber			5	5000	cblu			inv9sbu	so0		so0	pr92		1	1	pr7		10	10	pr8		10	10	pr65		7	7	pr29		50	70	pr140		5	10																					pr269	358	100	1	0
+Gleamscythe		1		1		18	13	flc	Falchion			5	5000	lred			invflcu	so0		so0	pr73		3	3	pr11		30	30	pr0		20	20	pr56		20	20	pr29		60	100	pr17		3	6	pr18		6	10	pr19		50	50													pr269	358	100	1	0
+Azurewrath				1		18	13	crs	Crystal Sword			5	5000	lgry			invcrsu	so0		so0	pr113		50	50	pr59		10	10	pr137	100	3	6	pr29		100	100	pr51		25	25	pr136		5	10																					pr269	358	100	1	0
+Griswolds Edge		1		1		23	17	bsd	Broad Sword			5	5000	cred			invbsdu	so0		so0	pr20		20	25	pr21		30	35	pr15		100	100	pr55		30	30	pr29		80	120	pr7		12	12																					pr269	358	100	1	0
+Hellplague		1		1		30	22	lsd	Long Sword			5	5000	dred			invlsdu	so0		so0	pr65		5	5	pr66		5	5	pr24		48	48	pr25		96	96	pr26		150	150	pr29		70	80	pr134		25	75	pr103		2	2													pr269	358	100	1	0
+Culwens Point		1		1		39	29	wsd	War Sword			5	5000	whit	whit			so0		so0	pr104		1	1	pr88		50	50	pr80		20	20	pr56		20	20	pr15		60	120	pr29		90	150																					pr269	358	100	1	0
+Shadowfang		1		1		16	12	2hs	2-Handed Sword			5	5000	cgrn			inv2hsu	so0		so0	pr65		9	9	pr35		20	20	pr73		-2	-2	pr137	150	10	30	pr29		100	140	pr66		9	9																					pr269	358	100	1	0
+Soulflay		1		1		26	19	clm	Claymore			5	5000	dgrn	dgrn			so0		so0	pr65		4	10	pr66		4	10	pr29		70	100	pr41		10	15	pr56		30	30																									pr269	358	100	1	0
+Kinemils Awl		1		1		31	23	gis	Giant Sword			5	5000	dblu			invgisu	so0		so0	pr15		100	150	pr56		20	20	pr20		6	6	pr21		20	40	pr29		80	100	pr123	102	4	6																					pr269	358	100	1	0
+Blacktongue		1		1		35	26	bsw	Bastard Sword			5	5000	lgrn			invbswu	so0		so0	pr138	75	511	613	pr94		1	1	pr15		50	100	pr39		30	50	pr29		50	80																									pr269	358	100	1	0
+Ripsaw		1		1		35	26	flb	Flamberge			5	5000	cblu	cblu			so0		so0	pr107		80	80	pr28		15	15	pr65		6	6	pr29		100	150																													pr269	358	100	1	0
+The Patriarch		1		1		39	29	gsd	Great Sword			5	5000	cred			invgsdu	so0		so0	pr3		2	5	pr6		2	5	pr91		1	1	pr58		100	100	pr29		260	320	pr7		10	10	pr56		-20	-20																	pr269	358	100	1	0
+Gull		1		1		6	4	dgr	Dagger			5	5000	lgry	lgry			so0		so0	pr27		1	1	pr28		15	15	pr59		100	100	pr11		-5	-5																									pr113		20	20	pr269	358	100	1	0
+The Diggler		1		1		15	11	dir	Dirk			5	5000	dgry	dgry			so0		so0	pr8		10	10	pr29		70	90	pr57		30	30	pr35		25	25	pr31		25	25	pr92		1	1																	pr113		20	20	pr269	358	100	1	0
+The Jade Tan Do		1		1		26	19	kri	Kris			5	5000	oran			invkrsu	so0		so0	pr15		100	150	pr115		1	1	pr138	50	460	460	pr39		50	75	pr40		10	10	pr123	73	2	2	pr276		1	2													pr113		20	20	pr269	358	100	1	0
+Irices Shard		1		1		34	25	bld	Blade			5	5000	dblu	dblu			so0		so0	pr87		50	50	pr11		50	50	pr15		55	55	pr41		10	20																									pr113		20	20	pr269	358	100	1	0
+The Dragon Chang		1		1		11	8	spr	Spear			5	5000	dpur	dpur			so0		so0	pr15		35	35	pr27		10	10	pr73		2	2	pr99		100	100	pr134		3	6	pr123	19	4	6																					pr269	358	100	1	0
+Razortine		1		1		16	12	tri	Trident			5	5000	oran			invtriu	so0		so0	pr114		25	25	pr93		50	50	pr7		15	15	pr8		8	8	pr56		30	30	pr29		30	50																					pr269	358	100	1	0
+Bloodthief		1		1		23	17	brn	Brandistock			5	5000	whit	whit			so0		so0	pr107		35	35	pr7		10	10	pr66		8	12	pr13		26	26	pr29		50	110																									pr269	358	100	1	0
+Lance of Yaggai		1		1		30	22	spt	Spetum			5	5000	lred	lred			so0		so0	pr54		24	24	pr22		1	1	pr23		60	60	pr41		15	15	pr56		40	40	pr123	14	2	3	pr123	24	1	2																	pr269	358	100	1	0
+The Tannr Gorerod		1		1		36	27	pik	Pike			5	5000	lgry	lgry			so0		so0	pr20		23	23	pr21		54	54	pr32		5	10	pr13		30	30	pr15		80	160	pr73		3	3	pr31		15	15	pr29		160	180													pr269	358	100	1	0
+Dimoaks Hew		1		1		11	8	bar	Bardiche			5	5000	blac	blac			so0		so0	pr8		15	15	pr29		100	100	pr56		40	40	pr0		-8	-8																													pr269	358	100	1	0
+Steelgoad		1		1		19	14	vou	Voulge			5	5000	cgrn	cgrn			so0		so0	pr90		14	14	pr113		50	50	pr15		30	30	pr41		5	5	pr29		60	80	pr51		20	40																					pr269	358	100	1	0
+Soul Harvest		1		1		26	19	scy	Scythe			5	5000	dgry			invscyu	so0		so0	pr107		30	30	pr15		45	45	pr41		20	20	pr29		50	90	pr65		10	10	pr123	381	4	5	pr86		20	20																	pr269	358	100	1	0
+The Battlebranch		1		1		34	25	pax	Poleaxe			5	5000	lblu	lblu			so0		so0	pr57		30	30	pr8		10	10	pr29		70	130	pr15		50	100	pr66		7	7																									pr269	358	100	1	0
+Woestave		1		1		38	28	hal	Halberd			5	5000	dblu	dblu			so0		so0	pr114		20	20	pr107		50	50	pr91		3	3	pr97		-50	-50	pr106		1	1	pr73		-3	-3	pr94		1	1	pr29		40	80													pr269	358	100	1	0
+The Grim Reaper		1		1		39	29	wsc	War Scythe			5	5000	lpur	lpur			so0		so0	pr113		100	100	pr266	70	8	10	pr266	80	8	10	pr65		5	5	pr29		90	140	pr27		15	15																					pr269	358	100	1	0
+Bane Ash		1		1		7	5	sst	Short Staff			5	5000	lgrn	lgrn			so0		so0	pr20		4	4	pr21		6	6	pr31		50	50	pr11		30	30	pr56		20	20	pr29		50	60	pr123	36	5	5	pr123	37	2	2	pr86		10	10									pr269	358	100	1	0
+Serpent Lord		1		1		12	9	lst	Long Staff			5	5000	cgrn	cgrn			so0		so0	pr138	75	40	40	pr39		50	50	pr123	235	2	3	pr11		10	10	pr29		30	40	pr65		100	100	pr93		50	50	pr123	230	2	4	pr86		10	10									pr269	358	100	1	0
+Lazarus Spire		1		1		24	18	cst	Gnarled Staff			5	5000	lgry			invcstu	so0		so0	pr33		75	75	pr3		5	5	pr10		15	15	pr123	53	2	3	pr123	49	2	3	pr123	42	3	3	pr62		43	43	pr135		1	28	pr70		1	1	pr86		40	40					pr269	358	100	1	0
+The Salamander		1		1		28	21	bst	Battle Staff			5	5000	dred	dred			so0		so0	pr134		15	32	pr31		30	30	pr123	51	1	1	pr123	47	1	2	pr123	37	2	3	pr103		2	3	pr123	383	1	2																	pr269	358	100	1	0
+The Iron Jang Bong		1		1		38	28	wst	War Staff			5	5000	dyel	dyel			so0		so0	pr0		30	30	pr87		30	50	pr29		100	100	pr96		50	50	pr123	48	2	2	pr123	46	2	2	pr123	44	3	3	pr70		2	2	pr86		10	10									pr269	358	100	1	0
 Pluckeye		1		1		10	7	sbw	Short Bow			5	5000	cblu	cblu			so0		so0	pr15		28	28	pr29		100	100	pr13		10	10	pr73		2	2	pr65		3	3	pr110		2	2	pr123	11	1	2																					0
 Witherstring		1		1		18	13	hbw	Hunter�s Bow			5	5000	lred	lred			so0		so0	pr57		30	30	pr27		3	3	pr28		6	6	pr15		50	50	pr119		3	3	pr29		40	50																									0
 Rimeraven		1		1		20	15	lbw	Long Bow			5	5000	dred	dred			so0		so0	pr96		50	50	pr8		3	3	pr120		1	1	pr7		3	3	pr29		60	70																													0
-Piercerib		1		1		27	20	cbw	Composite Bow			5	5000	cred			invcbwu	so0		so0	pr41		10	10	pr113		30	30	pr15		60	60	pr99		100	100	pr29		80	120	pr56		50	50	pr123	22	2	3																					0
-Pullspite		1		1		34	25	sbb	Short Battle Bow			5	5000	lgrn			invsbbu	so0		so0	pr22		1	1	pr23		30	60	pr7		8	8	pr15		28	84	pr118		25	25	pr33		25	25	pr29		120	160																					0
-Wizendraw		1		1		35	26	lbb	Long Battle Bow			5	5000	dgrn	dgrn			so0		so0	pr119		5	5	pr11		30	30	pr56		20	20	pr35		26	26	pr15		50	100	pr29		70	80	pr10		15	15	pr234		20	35																	0
-Hellclap		1		1		36	27	swb	Short War Bow			5	5000	cgrn			invswbu	so0		so0	pr55		10	10	pr20		15	15	pr21		30	50	pr15		50	75	pr31		40	40	pr8		12	12	pr29		120	160	pr103		1	2																	0
-Blastbark		1		1		38	28	lwb	Long War Bow			5	5000	lyel	lyel			so0		so0	pr29		90	150	pr7		5	5	pr67		1	1	pr65		3	3	pr265	16	1	2																													0
-Leadcrow		1		1		12	9	lxb	Light Crossbow			5	5000	dyel			invlxbu	so0		so0	pr8		10	10	pr13		10	10	pr29		70	70	pr39		30	30	pr113		25	25	pr15		40	40																					pr347		10	10	0
-Ichorsting		1		1		24	18	mxb	Crossbow			5	5000	lgld			invmxbu	so0		so0	pr138	75	170	170	pr8		20	20	pr118		50	50	pr15		50	50	pr29		50	80	pr56		20	20																					pr347		10	10	0
-Hellcast		1		1		36	27	hxb	Heavy Crossbow			5	5000	dgld			invhxbu	so0		so0	pr120		5	5	pr32		15	15	pr31		15	15	pr15		70	70	pr56		40	40	pr29		70	80	pr134		30	50																	pr347		10	10	0
-Doomspittle		1		1		38	28	rxb	Repeating Crossbow			5	5000	lpur			invrxbu	so0		so0	pr67		1	1	pr118		35	35	pr57		30	30	pr13		15	40	pr29		90	140	pr127	47	15	6																					pr347		10	10	0
+Piercerib		1		1		27	20	cbw	Composite Bow			5	5000	cred			invcbwu	so0		so0	pr41		10	10	pr113		30	30	pr15		60	60	pr99		100	100	pr29		80	120	pr56		20	20	pr123	22	2	3																					0
+Pullspite		1		1		34	25	sbb	Short Battle Bow			5	5000	lgrn			invsbbu	so0		so0	pr22		1	1	pr23		60	60	pr7		8	8	pr15		28	84	pr118		25	50	pr33		25	25	pr29		120	160																					0
+Wizendraw		1		1		35	26	lbb	Long Battle Bow			5	5000	dgrn	dgrn			so0		so0	pr119		5	5	pr11		30	30	pr56		30	30	pr35		26	26	pr15		50	100	pr29		70	80	pr10		15	15	pr234		20	35																	0
+Hellclap		1		1		36	27	swb	Short War Bow			5	5000	cgrn			invswbu	so0		so0	pr55		20	20	pr20		15	15	pr21		30	50	pr15		50	75	pr31		40	40	pr8		12	12	pr29		120	160	pr103		2	3																	0
+Blastbark		1		1		38	28	lwb	Long War Bow			5	5000	lyel	lyel			so0		so0	pr29		90	150	pr7		5	5	pr67		1	2	pr65		3	3	pr266	16	2	3																													0
+Leadcrow		1		1		12	9	lxb	Light Crossbow			5	5000	dyel			invlxbu	so0		so0	pr8		10	10	pr13		10	10	pr29		70	70	pr39		30	30	pr113		25	25	pr15		40	40	pr56		20	20																	pr348		10	10	0
+Ichorsting		1		1		24	18	mxb	Crossbow			5	5000	lgld			invmxbu	so0		so0	pr138	75	170	170	pr8		20	20	pr118		50	50	pr15		50	50	pr29		50	80	pr56		20	20																					pr348		10	10	0
+Hellcast		1		1		36	27	hxb	Heavy Crossbow			5	5000	dgld			invhxbu	so0		so0	pr120		5	5	pr32		15	15	pr31		15	15	pr15		70	70	pr56		40	40	pr29		70	80	pr134		30	50																	pr348		10	10	0
+Doomspittle		1		1		38	28	rxb	Repeating Crossbow			5	5000	lpur			invrxbu	so0		so0	pr67		1	1	pr118		35	35	pr57		30	30	pr13		15	40	pr29		90	140	pr127	47	20	12																					pr348		10	10	0
 War Bonnet		1		1		4	3	cap	Cap			5	5000	dpur			invcapu	so0		so0	pr13		15	15	pr15		30	30	pr29		30	30	pr11		15	15	pr0		14	14																													0
 Tarnhelm		1		1		20	15	skp	Skull Cap			5	5000	oran	oran			so0		so0	pr58		75	75	pr59		25	50	pr104		1	1	pr110		1	3																																	0
-Coif of Glory		1		1		19	14	hlm	Helm			5	5000	whit			invhlmu	so0		so0	pr105		17	17	pr91		1	1	pr33		15	15	pr1		100	100	pr0		10	10	pr253		2	3																									0
+Coif of Glory		1		1		19	14	hlm	Helm			5	5000	whit			invhlmu	so0		so0	pr105		17	17	pr91		1	1	pr33		15	15	pr1		100	100	pr0		10	10	pr254		2	3																									0
 Duskdeep		1		1		23	17	fhl	Full Helm			5	5000	lgry			invfhlu	so0		so0	pr73		-2	-2	pr41		15	15	pr3		7	7	pr28		8	8	pr0		10	20	pr5		30	50																									0
 Wormskull		1		1		28	21	bhm	Bone Helm			5	5000	lgrn			invbhmu	so0		so0	pr69		1	1	pr66		5	5	pr11		10	10	pr39		25	25	pr124	7	1	1	pr138	50	204	204																									0
-Howltusk		1		1		34	25	ghm	Great Helm			5	5000	dgry	dgry			so0		so0	pr6		2	2	pr54		30	30	pr5		80	80	pr30		35	35	pr60		1	1	pr90		20	20	pr56		20	20																					0
-Undead Crown		1		1		39	29	crn	Crown			5	5000	blac	blac			so0		so0	pr66		5	5	pr0		40	40	pr39		50	50	pr95		1	1	pr99		50	50	pr101		50	100	pr123	69	2	3	pr123	70	1	3																	0
+Howltusk		1		1		34	25	ghm	Great Helm			5	5000	dgry	dgry			so0		so0	pr6		2	2	pr54		30	30	pr5		80	80	pr30		35	35	pr56		20	20	pr127	130	8	5																									0
+Undead Crown		1		1		39	29	crn	Crown			5	5000	blac	blac			so0		so0	pr66		5	5	pr0		40	40	pr39		50	50	pr95		1	1	pr99		50	50	pr101		50	100	pr123	69	2	3	pr123	70	2	3																	0
 The Face of Horror		1		1		27	20	msk	Mask			5	5000	lblu	lblu			so0		so0	pr90		64	64	pr7		20	20	pr41		14	18	pr99		50	50	pr0		25	25																													0
 Greyform		1		1		10	7	qui	Quilted Armor			5	5000	lgry	lgry			so0		so0	pr6		3	3	pr35		20	20	pr31		20	20	pr8		10	10	pr66		5	5	pr0		20	20																									0
 Blinkbats Form		1		1		16	12	lea	Leather Armor			5	5000	dred	dred			so0		so0	pr1		50	50	pr77		20	20	pr0		25	25	pr20		6	6	pr21		12	12	pr80		40	40																									0
 The Centurion		1		1		19	14	hla	Hard Leather			5	5000	cred	cred			so0		so0	pr0		30	30	pr15		50	50	pr3		2	2	pr13		15	15	pr11		15	15	pr16		15	15	pr53		5	15	pr29		15	25																	0
 Twitchthroe		1		1		22	16	stu	Studded Leather			5	5000	lgrn	lgrn			so0		so0	pr56		20	40	pr8		10	10	pr16		25	25	pr0		25	25	pr7		10	10	pr80		20	20																									0
-Darkglow		1		1		19	14	rng	Ring Mail			5	5000	dgrn	dgrn			so0		so0	pr15		60	120	pr42		5	5	pr73		3	3	pr2		50	50	pr41		10	15	pr5		70	100																									0
+Darkglow		1		1		19	14	rng	Ring Mail			5	5000	dgrn	dgrn			so0		so0	pr15		60	120	pr42		2	5	pr73		3	3	pr2		50	50	pr41		10	15	pr5		70	100																									0
 Hawkmail		1		1		20	15	scl	Scale Mail			5	5000	cgrn	cgrn			so0		so0	pr5		80	100	pr36		5	10	pr35		15	30	pr115		1	1	pr77		25	25	pr123	221	1	3																									0
 Sparking Mail		1		1		23	17	chn	Chain Mail			5	5000	lyel	lyel			so0		so0	pr5		75	85	pr135		1	30	pr105		20	28	pr33		30	30	pr245		5	10																													0
 Venomsward		1		1		27	20	brs	Breast Plate			5	5000	dyel	dyel			so0		so0	pr40		15	15	pr88		50	50	pr39		45	90	pr73		2	2	pr5		60	100	pr235		5	15																									0
-Iceblink		1		1		30	22	spl	Splint Mail			5	5000	lgld	lgld			so0		so0	pr106		1	1	pr35		20	35	pr73		4	4	pr6		2	6	pr5		70	80	pr273		1	2																									0
-Boneflesh		1		1		35	26	plt	Plate Mail			5	5000	dgld	dgld			so0		so0	pr66		5	5	pr5		100	120	pr15		235	235	pr107		25	25	pr265	68	5	10	pr128	68	10	10																									0
-Rockfleece		1		1		38	28	fld	Field Plate			5	5000	dgry	dgry			so0		so0	pr75		-10	-10	pr5		100	130	pr4		10	15	pr3		5	15	pr7		5	15																													0
+Iceblink		1		1		30	22	spl	Splint Mail			5	5000	lgld	lgld			so0		so0	pr106		1	1	pr35		20	35	pr73		4	4	pr6		2	6	pr5		70	80	pr274		1	2																									0
+Boneflesh		1		1		35	26	plt	Plate Mail			5	5000	dgld	dgld			so0		so0	pr66		5	5	pr5		100	120	pr15		235	235	pr107		25	25	pr266	68	5	10	pr128	68	10	10																									0
+Rockfleece		1		1		38	28	fld	Field Plate			5	5000	dgry	dgry			so0		so0	pr75		-10	-10	pr5		100	130	pr4		10	20	pr3		5	15	pr7		5	15																													0
 Rattlecage		1		1		39	29	gth	Gothic Plate			5	5000	dpur	dpur			so0		so0	pr90		10	10	pr15		100	145	pr108		25	25	pr0		200	200	pr29		35	70																													0
 Goldskin		1		1		38	28	ful	Full Plate Mail			5	5000	oran			invfulu	so0		so0	pr5		120	150	pr41		35	35	pr54		10	10	pr73		2	2	pr58		100	100																													0
-Victors Silk		1		1		38	28	aar	AncientArmor			5	5000	dblu			invaaru	so0		so0	pr65		2	5	pr104		1	1	pr73		2	2	pr5		100	120	pr77		25	25	pr253		2	4																									0
-Heavenly Garb		1		1		39	29	ltp	Light Plate			5	5000	cblu	cblu			so0		so0	pr5		100	100	pr41		5	15	pr62		25	25	pr10		15	15	pr99		50	50	pr101		100	100	pr125	119	1	1	pr276		1	1																	0
+Victors Silk		1		1		38	28	aar	AncientArmor			5	5000	dblu			invaaru	so0		so0	pr65		2	5	pr104		1	1	pr73		2	2	pr5		100	120	pr77		25	25	pr254		2	4																									0
+Heavenly Garb		1		1		39	29	ltp	Light Plate			5	5000	cblu	cblu			so0		so0	pr5		100	100	pr41		10	20	pr62		25	25	pr10		15	15	pr99		50	50	pr101		100	100	pr125	119	1	1	pr277		1	1																	0
 Pelta Lunata		1		1		3	2	buc	Buckler			5	5000	whit			invbucu	so0		so0	pr0		30	30	pr9		10	10	pr7		2	2	pr10		10	10	pr5		30	40	pr16		20	20	pr83		40	40	pr51		8	12																	0
 Umbral Disk		1		1		12	9	sml	Small Shield			5	5000	lgry			invsmlu	so0		so0	pr91		1	1	pr8		10	10	pr0		30	30	pr13		20	20	pr140		4	8	pr5		40	50	pr16		30	30	pr51		10	15																	0
 Stormguild		1		1		18	13	lrg	Large Shield			5	5000	dgry			invlrgu	so0		so0	pr6		1	3	pr33		25	25	pr0		30	30	pr135		1	18	pr5		50	60	pr16		30	30	pr105		9	9	pr51		10	15																	0
 Wall of the Eyeless		1		1		27	20	bsh	Bone Shield			5	5000	lgld			invbshu	so0		so0	pr110		2	5	pr65		3	3	pr86		20	20	pr39		10	20	pr5		30	40	pr0		10	10	pr35		10	20	pr31		10	20																	0
-Swordback Hold		1		1		20	15	spk	Spiked Shield			5	5000	lred			invspku	so0		so0	pr54		35	42	pr16		20	20	pr107		50	50	pr112		3	5	pr5		30	60	pr3		2	5	pr0		10	10																					0
+Swordback Hold		1		1		20	15	spk	Spiked Shield			5	5000	lred			invspku	so0		so0	pr54		25	32	pr16		20	20	pr107		50	50	pr112		3	5	pr5		30	60	pr3		2	5	pr0		10	10																					0
 Steelclash		1		1		23	17	kit	Kite Shield			5	5000	blac			invkitu	so0		so0	pr16		25	25	pr104		1	1	pr51		15	20	pr73		3	3	pr5		60	100	pr83		20	20	pr41		5	10	pr0		20	20																	0
 Bverrit Keep		1		1		26	19	tow	Tower Shield			5	5000	lblu			invtowu	so0		so0	pr0		30	30	pr31		30	50	pr7		5	15	pr6		5	5	pr5		80	120	pr16		10	10	pr51		80	100	pr4		5	10																	0
 The Ward		1		1		35	26	gts	Gothic Shield			5	5000	dblu			invgtsu	so0		so0	pr0		40	40	pr6		2	2	pr7		10	10	pr16		10	10	pr5		100	100	pr41		30	50																									0
-The Hand of Broc		1		1		7	5	lgl	Gloves			5	5000	cblu	cblu			so0		so0	pr65		3	3	pr66		3	3	pr39		10	10	pr11		20	20	pr0		10	10	pr5		10	20	pr29		20	30																	pr268	358	100	1	0
-Bloodfist		1		1		12	9	vgl	Heavy Gloves			5	5000	oran	oran			so0		so0	pr28		5	10	pr13		40	40	pr80		30	30	pr0		10	10	pr5		10	20	pr56		10	10																					pr268	358	100	1	0
+The Hand of Broc		1		1		7	5	lgl	Gloves			5	5000	cblu	cblu			so0		so0	pr65		3	3	pr66		3	3	pr39		10	10	pr11		20	20	pr0		10	10	pr5		10	20	pr29		20	30																	pr269	358	100	1	0
+Bloodfist		1		1		12	9	vgl	Heavy Gloves			5	5000	oran	oran			so0		so0	pr28		5	10	pr13		40	40	pr80		30	30	pr0		10	10	pr5		10	20	pr56		10	10																					pr269	358	100	1	0
 Chance Guards		1		1		20	15	mgl	Bracers			5	5000	lred	lred			so0		so0	pr58		200	200	pr59		25	40	pr15		25	25	pr0		15	15	pr73		2	2	pr5		20	30	pr110		1	2																					0
 Magefist		1		1		31	23	tgl	Light Gauntlets			5	5000	lgry	lgry			so0		so0	pr87		20	20	pr62		10	25	pr103		1	1	pr134		6	36	pr0		10	10	pr5		20	30																									0
 Frostburn		1		1		39	29	hgl	Gauntlets			5	5000	dred	dred			so0		so0	pr0		20	40	pr134		14	28	pr12		10	20	pr137	50	6	22	pr5		10	20	pr234		4	6	pr232		4	6																					0
-Hotspur		1		1		7	5	lbt	Leather Boots			5	5000	cred	cred			so0		so0	pr32		10	10	pr13		15	15	pr134		3	6	pr0		6	6	pr31		45	45	pr5		10	20																									0
-Gorefoot		1		1		12	12	vbt	Heavy Boots			5	5000	dblu	dblu			so0		so0	pr112		3	5	pr77		20	20	pr65		2	4	pr107		18	18	pr327		20	30	pr5		20	30	pr123	132	2	2																					0
+Hotspur		1		1		7	5	lbt	Leather Boots			5	5000	cred	cred			so0		so0	pr32		5	10	pr13		15	15	pr134		3	6	pr0		6	6	pr31		45	45	pr5		10	20																									0
+Gorefoot		1		1		12	12	vbt	Heavy Boots			5	5000	dblu	dblu			so0		so0	pr112		3	5	pr77		20	20	pr65		2	4	pr107		18	18	pr328		20	30	pr5		20	30	pr123	132	2	2																					0
 Treads of Cthon		1		1		20	15	mbt	Chain Boots			5	5000	lgrn	lgrn			so0		so0	pr77		30	30	pr1		50	50	pr116		50	50	pr13		10	30	pr0		12	12	pr5		30	40	pr118		10	20																					0
 Goblin Toe		1		1		30	22	tbt	Light Plate Boots			5	5000	dgry	dgry			so0		so0	pr108		15	25	pr3		3	5	pr6		3	5	pr0		15	15	pr77		20	20	pr5		50	60	pr29		15	30																					0
 Tearhaunch		1		1		39	29	hbt	Plate Boots			5	5000	dgrn	dgrn			so0		so0	pr0		35	35	pr7		5	5	pr8		5	5	pr77		20	20	pr41		10	10	pr5		60	80	pr123	115	1	1	pr124	11	1	2																	0
@@ -115,123 +115,123 @@ Lenyms Cord		1		1		10	7	lbl	Sash			5	5000	cgrn	cgrn			so0		so0	pr11		15	15	pr62	
 Snakecord		1		1		16	12	vbl	Light Belt			5	5000	blac	blac			so0		so0	pr247		3	5	pr39		25	25	pr0		10	10	pr5		20	30	pr53		5	15	pr88		50	50																									0
 Nightsmoke		1		1		27	20	mbl	Belt			5	5000	lyel	lyel			so0		so0	pr41		10	10	pr30		50	50	pr11		20	20	pr3		2	2	pr0		15	15	pr5		30	50																									0
 Goldwrap		1		1		36	27	tbl	Heavy Belt			5	5000	lblu	lblu			so0		so0	pr59		20	40	pr73		2	2	pr0		25	25	pr56		20	20	pr5		40	60	pr58		50	80																									0
-Bladebuckle		1		1		39	39	hbl	Girdle			5	5000	dyel	dyel			so0		so0	pr54		420	480	pr0		30	30	pr3		4	7	pr7		5	5	pr8		10	10	pr5		80	100	pr80		20	30	pr4		5	5																	0
+Bladebuckle		1		1		39	39	hbl	Girdle			5	5000	dyel	dyel			so0		so0	pr54		420	480	pr0		30	30	pr3		4	7	pr7		5	5	pr8		10	10	pr5		80	100	pr80		20	30																					0
 Nokozan Relic		1		20		14	10	amu	Amulet			5	5000	lgld				so0		so0	pr20		3	6	pr21		7	12	pr32		10	10	pr31		25	50	pr73		3	3	pr80		20	30																									0
 The Eye of Etlich		1		5		20	15	amu	Amulet			5	5000	dgld				so0		so0	pr1		10	40	pr73		1	5	pr104		1	1	pr66		3	7	pr17		4	6	pr18		12	20	pr19		50	250																					0
-The Mahim-Oak Curio		1		10		34	25	amu	Amulet			5	5000	lpur				so0		so0	pr251		5	10	pr0		5	10	pr96		30	50	pr41		5	10	pr5		5	10	pr86		5	10																									0
+The Mahim-Oak Curio		1		10		34	25	amu	Amulet			5	5000	lpur				so0		so0	pr252		5	10	pr0		5	10	pr96		30	50	pr41		5	10	pr5		5	10	pr86		5	10																									0
 Nagelring		1		15		10	7	rin	Ring			5	5000	dpur				so0		so0	pr6		3	3	pr54		3	3	pr15		50	75	pr59		15	40	pr110		1	1																													0
 Manald Heal		1		15		20	15	rin	Ring			5	5000	oran				so0		so0	pr65		4	7	pr53		5	8	pr13		20	20	pr62		20	20																																	0
 The Stone of Jordan		1		1		39	29	rin	Ring			5	5000	whit				so0		so0	pr11		20	40	pr12		15	20	pr135		1	120	pr104		1	1																																	0
 Amulet of the Viper		1		1				vip	Amulet			5	5000	lgry				so0		so0	pr11		10	10	pr39		25	25	pr13		10	10																																					0
 Staff of Kings		1		1				msf	Staff			5	5000	dgry				so0		so0	pr41		10	10	pr57		50	50																																									0
 Horadric Staff		1		1				hst	Staff			5	5000	blac				so0		so0	pr11		10	10	pr39		25	25	pr13		10	10	pr41		10	10	pr57		50	50																													0
-Hell Forge Hammer		1		1				hfh	Hammer			5	5000	cred				so0		so0	pr20		5	5	pr21		20	20	pr31		40	40	pr0		35	35																													pr268	358	100	1	0
-KhalimFlail		1		1				qf1	Flail			5	5000	dblu				so0		so0	pr22		1	1	pr23		20	20	pr57		50	50	pr15		40	40																													pr268	358	100	1	0
-SuperKhalimFlail		1		1				qf2	Flail			5	5000	dblu				so0		so0	pr22		1	1	pr23		40	40	pr57		50	50	pr15		40	40	pr65		6	6	pr66		6	6																					pr268	358	100	1	0
+Hell Forge Hammer		1		1				hfh	Hammer			5	5000	cred				so0		so0	pr20		5	5	pr21		20	20	pr31		40	40	pr0		35	35																													pr269	358	100	1	0
+KhalimFlail		1		1				qf1	Flail			5	5000	dblu				so0		so0	pr22		1	1	pr23		20	20	pr57		50	50	pr15		40	40																													pr269	358	100	1	0
+SuperKhalimFlail		1		1				qf2	Flail			5	5000	dblu				so0		so0	pr22		1	1	pr23		40	40	pr57		50	50	pr15		40	40	pr65		6	6	pr66		6	6																					pr269	358	100	1	0
 Expansion																																																																					0
-Coldkill	100	1		1		44	36	9ha	Hatchet			5	5000	cblu	cblu		invhaxu	so0		so0	pr137	50	80	120	pr35		15	15	pr36		15	15	pr57		30	30	pr127	45	10	18	pr128	44	10	5	pr29		150	190																	pr268	358	100	1	0
-Butcher's Pupil	100	1		1		47	39	9ax	Cleaver			5	5000	cblu	cblu		invaxeu	so0		so0	pr113		35	35	pr107		25	25	pr29		150	200	pr242		1	1	pr57		30	30	pr140		30	50																					pr268	358	100	1	0
-Islestrike	100	1		1		51	43	92a	Twin Axe			5	5000					so0		so0	pr121		2	2	pr7		10	10	pr8		10	10	pr9		10	10	pr10		10	10	pr57		30	40	pr108		25	25	pr29		170	190	pr123	233	1	3	pr123	248	1	3					pr268	358	100	1	0
-Pompe's Wrath	100	1		1		53	45	9mp	Crowbill			5	5000	cred	cred		invmpiu	so0		so0	pr127	229	8	22	pr114		50	50	pr134		35	150	pr29		170	200																													pr268	358	100	1	0
-Guardian Naga	100	1		1		56	48	9wa	Naga			5	5000					so0		so0	pr127	92	5	14	pr54		75	150	pr39		30	30	pr29		150	180	pr138	50	1280	1280	pr28		20	20																					pr268	358	100	1	0
-Warlord's Trust	100	1		1		43	35	9la	Military Axe			5	5000	whit	whit			so0		so0	pr0		75	75	pr53		20	20	pr150	4			pr41		10	10	pr179	25			pr29		175	255																					pr268	358	100	1	0
-Spellsteel	100	1		1		47	39	9ba	Bearded Axe			5	5000	whit	whit			so0		so0	pr75		-60	-60	pr11		100	100	pr6		12	15	pr85		30	30	pr29		165	245	pr62		25	25	pr243	357	60	1	pr243	442	60	18	pr243	101	60	10	pr243	225	60	12					pr268	358	100	1	0
-Stormrider	100	1		1		49	41	9bt	Tabar			5	5000	lred	lred		inv9btu	so0		so0	pr127	53	5	15	pr127	38	10	27	pr135		1	200	pr140		35	75	pr29		100	100	pr51		50	50	pr105		75	150	pr128	38	15	25													pr268	358	100	1	0
-Boneslayer Blade	100	1		1		50	42	9ga	Gothic Axe			5	5000				invgaxu	so0		so0	pr173	10			pr171	20			pr7		8	8	pr56		20	20	pr96		35	35	pr29		180	220	pr265	106	4	6	pr128	101	50														pr268	358	100	1	0
-The Minataur	100	1		1		53	45	9gi	Ancient Axe			5	5000				inv9giu	so0		so0	pr91		2	2	pr95		1	1	pr7		15	20	pr114		50	50	pr108		30	30	pr140		20	30	pr29		200	260																	pr268	358	100	1	0
-Suicide Branch	100	1		1		41	33	9wn	Burnt Wand			5	5000					so0		so0	pr123	367	1	2	pr86		50	50	pr41		10	10	pr12		10	10	pr13		40	40	pr104		1	1	pr123	85	2	3																					0
-Carin Shard	100	1		1		43	35	9yw	Petrified Wand			5	5000	cblu	cblu			so0		so0	pr143	10			pr86		10	10	pr144	10			pr80		30	30	pr53		15	25	pr69		1	1	pr124	8	1	2	pr123	75	1	2																	0
-Arm of King Leoric	100	1		1		44	36	9bw	Tomb Wand			5	5000				invbwnu	so0		so0	pr124	8	1	2	pr128	93	5	10	pr144	10			pr53		14	32	pr85		20	20	pr124	7	1	2	pr123	80	2	2	pr123	69	2	3	pr123	70	2	3													0
-Blackhand Key	100	1		1		49	41	9gw	Grave Wand			5	5000	blac	blac		inv9gwu	so0		so0	pr124	6	2	3	pr30		20	20	pr13		30	60	pr253		4	7	pr87		30	30	pr31		37	37	pr69		1	2	pr243	150	30	7																	0
-Dark Clan Crusher	100	1		1		42	34	9cl	Cudgel			5	5000	dgld	dgld		invclbu	so0		so0	pr121		2	2	pr98		200	200	pr100		200	200	pr29		195	195	pr96		20	25	pr111		15	15	pr56		20	40																	pr268	358	100	1	0
-Zakarum's Hand	100	1		1		45	37	9sc	Rune Scepter			5	5000	lpur	lpur			so0		so0	pr65		8	8	pr92		1	1	pr62		10	10	pr61		15	15	pr127	59	6	5	pr29		180	220	pr56		30	30	pr123	114	2	2	pr123	118	2	2									pr268	358	100	1	0
-The Fetid Sprinkler	100	1		1		46	38	9qs	Holy Water Sprinkler			5	5000					so0		so0	pr68		2	2	pr127	446	10	10	pr127	81	10	10	pr138	100	409	409	pr29		160	220	pr15		150	200	pr140		15	25																	pr268	358	100	1	0
-Hand of Blessed Light	100	1		1		50	42	9ws	Divine Scepter			5	5000	lyel				so0		so0	pr68		2	2	pr29		130	160	pr96		100	100	pr123	371	2	4	pr62		15	15	pr73		4	4	pr140		20	45	pr123	101	2	4	pr123	121	2	2	pr123	364	2	2					pr268	358	100	1	0
-Fleshrender	100	1		1		46	38	9sp	Barbed Club			5	5000	blac			invspcu	so0		so0	pr107		25	25	pr56		30	30	pr108		20	20	pr113		20	20	pr140		35	50	pr29		130	200	pr121		1	2	pr124	16	2	2	pr51		20	20									pr268	358	100	1	0
-Sureshrill Frost	100	1		1		47	39	9ma	Flanged Mace			5	5000					so0		so0	pr137	125	63	112	pr115		1	1	pr29		150	180	pr140		15	30	pr106		3	3	pr243	64	50	9	pr273		2	3																	pr268	358	100	1	0
-Moonfall	100	1		1		50	42	9mt	Jagged Star			5	5000				invmstu	so0		so0	pr127	56	5	6	pr134		55	115	pr6		9	12	pr29		140	170	pr73		2	2	pr276		2	3	pr140		10	15																	pr268	358	100	1	0
-Baezil's Vortex	100	1		1		53	45	9fl	Knout			5	5000	dblu	dblu			so0		so0	pr127	48	10	25	pr135		1	150	pr11		100	100	pr33		25	25	pr29		160	200	pr56		20	20	pr243	48	80	25																	pr268	358	100	1	0
-Earthshaker	100	1		1		51	43	9wh	Battle Hammer			5	5000					so0		so0	pr127	234	8	24	pr60		1	1	pr57		30	30	pr29		180	230	pr91		1	1	pr124	17	3	4	pr51		50	50	pr86		20	20													pr268	358	100	1	0
-Bloodtree Stump	100	1		1		56	48	9m9	War Club			5	5000	dred				so0		so0	pr108		50	50	pr29		180	250	pr41		20	20	pr7		25	25	pr124	13	2	2	pr123	128	3	3	pr51		40	40	pr331		3	5													pr268	358	100	1	0
-The Gavel of Pain	100	1		1		53	45	9gm	Martel de Fer			5	5000				inv9gmu	so0		so0	pr127	442	15	16	pr128	444	5	1	pr54		26	26	pr326	16			pr140		12	30	pr29		215	245	pr243	442	3	8																	pr268	358	100	1	0
-Bloodletter	100	1		1		38	30	9ss	Gladius			5	5000	cred	cred			so0		so0	pr140		12	45	pr15		90	90	pr66		8	8	pr116		10	10	pr56		-20	-20	pr29		180	240	pr123	128	2	4	pr123	151	1	3	pr51		30	30									pr268	358	100	1	0
-Coldsteel Eye	100	1		1		39	31	9sm	Cutlass			5	5000	dgry			invscmu	so0		so0	pr91		1	1	pr106		1	1	pr113		50	50	pr51		50	50	pr29		200	250	pr56		20	20	pr65		6	6																	pr268	358	100	1	0
-Hexfire	100	1		1		41	33	9sb	Shamshir			5	5000				invsbru	so0		so0	pr86		25	25	pr92		1	1	pr31		25	25	pr32		5	5	pr140		35	40	pr29		180	200	pr103		2	3																	pr268	358	100	1	0
-Blade of Ali Baba	100	1		1		43	35	9fc	Tulwar			5	5000	cred	cred			so0		so0	pr133	3			pr166	20			pr167	8			pr11		15	15	pr29		60	120	pr8		5	15																					pr268	358	100	1	0
-Ginther's Rift	100	1		1		45	37	9cr	Dimensional Blade			5	5000	cblu			inv9cru	so0		so0	pr6		7	12	pr56		30	30	pr179	20			pr51		40	40	pr136		50	120	pr29		100	150																					pr268	358	100	1	0
-Headstriker	100	1		1		47	39	9bs	Battle Sword			5	5000	bwht	bwht			so0		so0	pr94		1	1	pr7		15	15	pr177	12			pr145	8			pr29		150	150																									pr268	358	100	1	0
-Plague Bearer	100	1		1		49	41	9ls	Rune Sword			5	5000				inv9lsu	so0		so0	pr127	92	5	14	pr138	75	1024	1024	pr140		10	45	pr29		150	250	pr39		45	45	pr123	238	4	6	pr55		20	30																	pr268	358	100	1	0
-The Atlantian	100	1		1		50	42	9wd	Ancient Sword			5	5000	lblu	lblu			so0		so0	pr51		100	100	pr0		75	75	pr7		16	16	pr8		12	12	pr9		8	8	pr29		230	280	pr68		2	2	pr96		50	50													pr268	358	100	1	0
-Crainte Vomir	100	1		1		50	42	92h	Espadon			5	5000	lgld			inv2hsu	so0		so0	pr114		15	15	pr97		-70	-70	pr77		20	20	pr4		10	10	pr29		190	230	pr57		50	50																					pr268	358	100	1	0
-Bing Sz Wang	100	1		1		51	43	9cm	Dacian Falx			5	5000					so0		so0	pr75		-30	-30	pr137	75	50	140	pr7		20	20	pr106		2	2	pr127	64	20	3	pr29		180	230	pr234		10	20																	pr268	358	100	1	0
-The Vile Husk	100	1		1		52	44	9gs	Tusk Sword			5	5000	dgry	dgry		invgisu	so0		so0	pr127	442	6	18	pr171	60			pr39		50	50	pr138	50	1280	1280	pr29		150	200	pr173	20			pr56		20	20																	pr268	358	100	1	0
-Cloudcrack	100	1		1		53	45	9b9	Gothic Sword			5	5000				invbswu	so0		so0	pr127	121	6	7	pr135		1	240	pr0		30	30	pr73		2	2	pr34		10	10	pr29		180	230	pr105		15	15	pr124	10	2	4	pr124	11	2	4									pr268	358	100	1	0
-Todesfaelle Flamme	100	1		1		54	46	9fb	Zweihander			5	5000				inv9fbu	so0		so0	pr134		50	200	pr31		40	40	pr44		10	10	pr126	47	10	20	pr29		180	220	pr243	52	45	10	pr243	51	20	20																	pr268	358	100	1	0
-Swordguard	100	1		1		55	48	9gd	Executioner Sword			5	5000	bwht	bwht		invgsdu	so0		so0	pr75		-50	-50	pr141	40			pr41		10	20	pr1		100	100	pr30		30	30	pr29		210	240	pr2		200	200	pr80		20	20	pr16		20	20									pr268	358	100	1	0
-Spineripper	100	1		1		40	32	9dg	Poignard			5	5000					so0		so0	pr92		1	1	pr66		8	8	pr94		1	1	pr57		15	15	pr8		10	10	pr29		200	240	pr140		15	27	pr104		1	1									pr113		20	20	pr268	358	100	1	0
-Heart Carver	100	1		1		44	36	9di	Rondel			5	5000					so0		so0	pr113		35	35	pr92		1	1	pr140		15	35	pr29		190	240	pr123	131	4	4	pr123	142	4	4	pr123	150	4	4													pr113		20	20	pr268	358	100	1	0
-Blackbog's Sharp	100	1		1		46	38	9kr	Cinquedeas			5	5000				invkrsu	so0		so0	pr114		20	20	pr0		50	150	pr140		15	45	pr57		30	30	pr138	50	512	512	pr123	73	2	2	pr275		2	4													pr113		20	20	pr268	358	100	1	0
-Stormspike	100	1		1		49	41	9bl	Stilleto			5	5000	cblu	cblu		inv9blu	so0		so0	pr22		1	1	pr23		120	240	pr105		60	120	pr128	38	75	23	pr29		175	250	pr233		10	20	pr245		10	20													pr113		20	20	pr268	358	100	1	0
-The Impaler	100	1		1		39	31	9sr	War Spear			5	5000	lred	lred			so0		so0	pr92		1	1	pr15		150	150	pr56		20	20	pr107		40	40	pr94		1	1	pr29		140	200	pr265	19	4	6	pr265	30	3	4	pr265	10	4	6									pr268	358	100	1	0
-Kelpie Snare	100	1		1		41	33	9tr	Fuscina			5	5000				invtriu	so0		so0	pr114		75	75	pr31		50	50	pr143	10			pr140		30	50	pr7		10	10	pr29		140	180																					pr268	358	100	1	0
-Soulfeast Tine	100	1		1		43	35	9br	War Fork			5	5000	lyel	lyel		inv9bru	so0		so0	pr75		-20	-20	pr66		7	7	pr65		7	7	pr116		20	20	pr29		190	270	pr15		150	250	pr51		15	15																	pr268	358	100	1	0
-Hone Sundan	100	1		1		45	37	9st	Yari			5	5000					so0		so0	pr133	3			pr140		20	40	pr108		45	45	pr179	10			pr29		160	200																									pr268	358	100	1	0
-Spire of Honor	100	1		1		47	39	9p9	Lance			5	5000	lgry	lgry			so0		so0	pr96		25	25	pr73		3	3	pr53		20	20	pr80		20	20	pr140		20	40	pr170	12			pr29		200	250	pr124	9	3	3	pr5		25	25									pr268	358	100	1	0
-The Meat Scraper	100	1		1		49	41	9b7	Lochaber Axe			5	5000	dred	dred			so0		so0	pr29		150	250	pr56		30	30	pr66		10	10	pr107		50	50	pr59		25	25	pr124	13	3	3																					pr268	358	100	1	0
-Blackleach Blade	100	1		1		50	42	9vo	Bill			5	5000	blac	blac			so0		so0	pr75		-25	-25	pr127	443	5	5	pr73		-2	-2	pr66		8	8	pr145	10			pr29		140	180																					pr268	358	100	1	0
-Athena's Wrath	100	1		1		50	42	9s8	Battle Scythe			5	5000				inv9s8u	so0		so0	pr121		2	3	pr8		15	15	pr56		30	30	pr143	8			pr145	8			pr29		200	230	pr124	15	2	2																	pr268	358	100	1	0
-Pierre Tombale Couant	100	1		1		51	43	9pa	Partizan			5	5000	lgld	lgld			so0		so0	pr113		55	55	pr71		3	3	pr80		30	30	pr65		6	6	pr27		12	36	pr28		20	60	pr29		160	220	pr15		100	200													pr268	358	100	1	0
-Husoldal Evo	100	1		1		52	44	9h9	Bec-de-Corbin			5	5000					so0		so0	pr53		40	60	pr15		200	250	pr94		1	1	pr140		20	32	pr29		220	260	pr56		20	20																					pr268	358	100	1	0
-Grim's Burning Dead	100	1		1		52	45	9wc	Grim Scythe			5	5000	cred	cred			so0		so0	pr134		131	232	pr31		45	45	pr29		220	260	pr123	80	3	5	pr75		-50	-50	pr69		2	3	pr93		50	50	pr5		20	20	pr15		200	250									pr268	358	100	1	0
-Razorswitch	100	1		1		36	28	8ss	Jo Stalf			5	5000	lpur				so0		so0	pr87		30	30	pr54		15	15	pr11		175	175	pr13		80	80	pr6		15	15	pr41		50	50	pr104		1	1																	pr268	358	100	1	0
-Ribcracker	100	1		1		39	31	8ls	Quarterstaff			5	5000	lblu	lblu			so0		so0	pr140		30	65	pr29		200	300	pr108		50	50	pr8		15	15	pr0		100	100	pr5		100	100	pr80		50	50	pr56		50	50	pr51		100	100									pr268	358	100	1	0
-Chromatic Ire	100	1		1		43	35	8cs	Cedar Staff			5	5000				invcstu	so0		so0	pr70		3	3	pr41		20	40	pr85		20	20	pr105		20	20	pr14		20	25	pr123	61	1	1	pr123	63	1	1	pr123	65	1	1													pr268	358	100	1	0
-Warpspear	100	1		1		47	39	8bs	Gothic Staff			5	5000	cblu	cblu			so0		so0	pr70		3	3	pr92		1	1	pr123	54	3	3	pr123	55	1	2	pr123	58	3	3	pr1		250	250	pr123	369	1	2	pr87		45	45													pr268	358	100	1	0
-Skullcollector	100	1		1		49	41	8ws	Rune Staff			5	5000	blac	blac		inv8wsu	so0		so0	pr12		20	20	pr110		10	20	pr104		1	2	pr167	8			pr69		1	2	pr87		60	60																					pr268	358	100	1	0
-Skystrike	100	1		1		36	28	8sb	Edge Bow			5	5000					so0		so0	pr135		1	250	pr15		100	100	pr10		10	10	pr57		30	30	pr29		150	200	pr127	56	8	6	pr67		1	2																					0
-Riphook	100	1		1		39	31	8hb	Razor Bow			5	5000	cred	cred			so0		so0	pr107		30	30	pr29		220	260	pr114		30	30	pr11		35	35	pr56		30	30	pr66		7	10																									0
+Coldkill	100	1		1		44	36	9ha	Hatchet			5	5000	cblu	cblu		invhaxu	so0		so0	pr137	50	160	240	pr35		15	15	pr36		15	15	pr57		30	30	pr127	45	10	18	pr128	44	10	5	pr29		150	190																	pr269	358	100	1	0
+Butcher's Pupil	100	1		1		47	39	9ax	Cleaver			5	5000	cblu	cblu		invaxeu	so0		so0	pr113		35	35	pr107		25	25	pr29		150	200	pr242		1	1	pr57		30	30	pr140		30	50																					pr269	358	100	1	0
+Islestrike	100	1		1		51	43	92a	Twin Axe			5	5000					so0		so0	pr121		2	2	pr7		10	10	pr8		10	10	pr9		10	10	pr10		10	10	pr57		50	50	pr108		25	25	pr29		170	190	pr123	233	1	3	pr123	248	1	3					pr269	358	100	1	0
+Pompe's Wrath	100	1		1		53	45	9mp	Crowbill			5	5000	cred	cred		invmpiu	so0		so0	pr127	229	8	22	pr114		10	10	pr134		60	175	pr29		170	200	pr56		20	20																									pr269	358	100	1	0
+Guardian Naga	100	1		1		56	48	9wa	Naga			5	5000					so0		so0	pr127	92	5	14	pr54		75	150	pr39		30	30	pr29		150	180	pr138	50	1280	1280	pr28		20	20																					pr269	358	100	1	0
+Warlord's Trust	100	1		1		43	35	9la	Military Axe			5	5000	whit	whit			so0		so0	pr0		75	75	pr53		20	20	pr150	4			pr41		10	10	pr179	25			pr29		175	255	pr56		40	40																	pr269	358	100	1	0
+Spellsteel	100	1		1		47	39	9ba	Bearded Axe			5	5000	whit	whit			so0		so0	pr75		-60	-60	pr11		100	100	pr6		12	15	pr85		30	30	pr29		165	245	pr62		25	25	pr243	357	60	1	pr243	442	60	18	pr243	101	60	10	pr243	225	60	12					pr269	358	100	1	0
+Stormrider	100	1		1		49	41	9bt	Tabar			5	5000	lred	lred		inv9btu	so0		so0	pr127	53	5	15	pr127	38	10	27	pr135		1	200	pr140		35	75	pr29		100	100	pr51		50	50	pr105		75	150	pr128	38	15	25													pr269	358	100	1	0
+Boneslayer Blade	100	1		1		50	42	9ga	Gothic Axe			5	5000				invgaxu	so0		so0	pr173	10			pr171	20			pr7		8	8	pr56		20	20	pr96		35	35	pr29		180	220	pr266	106	4	6	pr128	101	50														pr269	358	100	1	0
+The Minataur	100	1		1		53	45	9gi	Ancient Axe			5	5000				inv9giu	so0		so0	pr91		2	2	pr95		1	1	pr7		15	20	pr114		10	10	pr108		30	30	pr140		40	50	pr29		200	260																	pr269	358	100	1	0
+Suicide Branch	100	1		1		41	33	9wn	Burnt Wand			5	5000					so0		so0	pr123	367	1	2	pr86		50	50	pr41		10	10	pr12		10	10	pr13		40	40	pr104		1	1	pr377		2	2																					0
+Carin Shard	100	1		1		43	35	9yw	Petrified Wand			5	5000	cblu	cblu			so0		so0	pr143	10			pr86		10	10	pr144	10			pr80		30	30	pr53		15	25	pr69		1	1	pr124	8	1	2	pr123	75	2	2																	0
+Arm of King Leoric	100	1		1		44	36	9bw	Tomb Wand			5	5000				invbwnu	so0		so0	pr124	8	1	2	pr144	10			pr53		14	32	pr85		20	20	pr124	7	1	2	pr123	80	2	2	pr123	69	2	3	pr123	70	2	3	pr369		2	2	pr370		2	2									0
+Blackhand Key	100	1		1		49	41	9gw	Grave Wand			5	5000	blac	blac		inv9gwu	so0		so0	pr124	6	2	3	pr30		20	20	pr13		30	60	pr254		4	7	pr87		30	30	pr31		37	37	pr69		1	2	pr243	150	30	7																	0
+Dark Clan Crusher	100	1		1		42	34	9cl	Cudgel			5	5000	dgld	dgld		invclbu	so0		so0	pr121		2	2	pr98		200	200	pr100		200	200	pr29		195	195	pr96		20	25	pr111		15	15	pr56		30	40																	pr269	358	100	1	0
+Zakarum's Hand	100	1		1		45	37	9sc	Rune Scepter			5	5000	lpur	lpur			so0		so0	pr65		8	8	pr92		1	1	pr62		10	10	pr61		15	15	pr127	59	10	15	pr29		180	220	pr56		30	30	pr123	114	2	2	pr123	118	2	2									pr269	358	100	1	0
+The Fetid Sprinkler	100	1		1		46	38	9qs	Holy Water Sprinkler			5	5000					so0		so0	pr68		2	2	pr127	446	15	10	pr128	81	10	10	pr138	100	409	409	pr29		160	220	pr15		150	200	pr140		15	25																	pr269	358	100	1	0
+Hand of Blessed Light	100	1		1		50	42	9ws	Divine Scepter			5	5000	lyel				so0		so0	pr68		2	2	pr29		130	160	pr96		100	100	pr123	371	2	4	pr62		15	15	pr73		4	4	pr140		20	45	pr123	101	2	4	pr123	121	2	2	pr123	364	2	2					pr269	358	100	1	0
+Fleshrender	100	1		1		46	38	9sp	Barbed Club			5	5000	blac			invspcu	so0		so0	pr107		25	25	pr56		30	30	pr108		20	20	pr113		20	20	pr140		35	50	pr29		130	200	pr121		1	2	pr124	16	2	2	pr51		20	20									pr269	358	100	1	0
+Sureshrill Frost	100	1		1		47	39	9ma	Flanged Mace			5	5000					so0		so0	pr137	125	63	112	pr115		1	1	pr29		150	180	pr140		15	30	pr106		3	3	pr127	64	7	9	pr274		2	3																	pr269	358	100	1	0
+Moonfall	100	1		1		50	42	9mt	Jagged Star			5	5000				invmstu	so0		so0	pr127	56	5	6	pr134		55	115	pr6		9	12	pr29		140	170	pr73		2	2	pr277		2	3	pr140		10	15																	pr269	358	100	1	0
+Baezil's Vortex	100	1		1		53	45	9fl	Knout			5	5000	dblu	dblu			so0		so0	pr127	48	14	25	pr135		1	150	pr11		100	100	pr33		25	25	pr29		160	200	pr56		20	20	pr243	48	80	25																	pr269	358	100	1	0
+Earthshaker	100	1		1		51	43	9wh	Battle Hammer			5	5000					so0		so0	pr127	234	14	24	pr57		30	30	pr29		180	230	pr91		1	1	pr124	17	3	4	pr51		50	50	pr86		20	20																	pr269	358	100	1	0
+Bloodtree Stump	100	1		1		56	48	9m9	War Club			5	5000	dred				so0		so0	pr108		50	50	pr29		180	250	pr41		20	20	pr7		25	25	pr124	13	2	2	pr123	128	3	3	pr51		40	40	pr332		3	5													pr269	358	100	1	0
+The Gavel of Pain	100	1		1		53	45	9gm	Martel de Fer			5	5000				inv9gmu	so0		so0	pr127	442	15	16	pr128	444	5	1	pr54		260	260	pr327	16			pr140		12	30	pr29		215	245	pr243	442	3	8																	pr269	358	100	1	0
+Bloodletter	100	1		1		38	30	9ss	Gladius			5	5000	cred	cred			so0		so0	pr140		12	45	pr15		90	90	pr66		8	8	pr116		10	10	pr56		-40	-40	pr29		280	340	pr123	128	2	4	pr123	151	2	3	pr51		30	30									pr269	358	100	1	0
+Coldsteel Eye	100	1		1		39	31	9sm	Cutlass			5	5000	dgry			invscmu	so0		so0	pr91		1	1	pr106		1	1	pr113		50	50	pr51		50	50	pr29		225	275	pr56		20	20	pr65		6	6																	pr269	358	100	1	0
+Hexfire	100	1		1		41	33	9sb	Shamshir			5	5000				invsbru	so0		so0	pr86		25	25	pr92		1	1	pr31		25	25	pr32		5	5	pr140		35	40	pr29		180	200	pr103		2	3																	pr269	358	100	1	0
+Blade of Ali Baba	100	1		1		43	35	9fc	Tulwar			5	5000	cred	cred			so0		so0	pr133	3			pr166	20			pr167	8			pr11		15	15	pr29		60	120	pr8		5	15																					pr269	358	100	1	0
+Ginther's Rift	100	1		1		45	37	9cr	Dimensional Blade			5	5000	cblu			inv9cru	so0		so0	pr6		7	12	pr56		30	30	pr179	20			pr51		40	40	pr136		50	120	pr29		150	200																					pr269	358	100	1	0
+Headstriker	100	1		1		47	39	9bs	Battle Sword			5	5000	bwht	bwht			so0		so0	pr94		1	1	pr7		15	15	pr177	12			pr145	8			pr29		150	150																									pr269	358	100	1	0
+Plague Bearer	100	1		1		49	41	9ls	Rune Sword			5	5000				inv9lsu	so0		so0	pr127	92	5	14	pr138	75	1024	1024	pr140		10	45	pr29		150	250	pr39		45	45	pr123	238	4	6	pr55		20	30																	pr269	358	100	1	0
+The Atlantian	100	1		1		50	42	9wd	Ancient Sword			5	5000	lblu	lblu			so0		so0	pr51		100	100	pr0		75	75	pr7		16	16	pr8		12	12	pr9		8	8	pr29		230	280	pr68		2	2	pr96		50	50													pr269	358	100	1	0
+Crainte Vomir	100	1		1		50	42	92h	Espadon			5	5000	lgld			inv2hsu	so0		so0	pr114		15	15	pr97		-70	-70	pr77		20	20	pr4		10	10	pr29		250	290	pr57		50	50																					pr269	358	100	1	0
+Bing Sz Wang	100	1		1		51	43	9cm	Dacian Falx			5	5000					so0		so0	pr75		-30	-30	pr137	75	50	140	pr7		20	20	pr106		2	2	pr127	64	20	15	pr29		180	230	pr234		10	20																	pr269	358	100	1	0
+The Vile Husk	100	1		1		52	44	9gs	Tusk Sword			5	5000	dgry	dgry		invgisu	so0		so0	pr127	442	12	18	pr171	60			pr39		50	50	pr138	50	1280	1280	pr29		150	200	pr173	20			pr56		20	20																	pr269	358	100	1	0
+Cloudcrack	100	1		1		53	45	9b9	Gothic Sword			5	5000				invbswu	so0		so0	pr127	121	6	21	pr135		1	240	pr0		30	30	pr73		2	2	pr34		10	10	pr29		180	230	pr105		15	15	pr124	10	3	4	pr124	11	3	4									pr269	358	100	1	0
+Todesfaelle Flamme	100	1		1		54	46	9fb	Zweihander			5	5000				inv9fbu	so0		so0	pr134		50	200	pr31		40	40	pr44		10	10	pr126	47	10	20	pr29		180	220	pr243	52	45	10	pr243	51	20	20	pr126	376	2	16													pr269	358	100	1	0
+Swordguard	100	1		1		55	48	9gd	Executioner Sword			5	5000	bwht	bwht		invgsdu	so0		so0	pr75		-50	-50	pr141	40			pr41		10	20	pr1		100	100	pr30		30	30	pr29		240	280	pr2		200	200	pr80		20	20	pr16		20	20									pr269	358	100	1	0
+Spineripper	100	1		1		40	32	9dg	Poignard			5	5000					so0		so0	pr92		1	1	pr66		8	8	pr94		1	1	pr57		15	15	pr8		10	10	pr29		200	240	pr140		15	27	pr104		1	1									pr113		20	20	pr269	358	100	1	0
+Heart Carver	100	1		1		44	36	9di	Rondel			5	5000					so0		so0	pr113		35	35	pr92		1	1	pr140		15	35	pr29		190	240	pr123	131	4	4	pr123	142	4	4	pr123	150	4	4													pr113		20	20	pr269	358	100	1	0
+Blackbog's Sharp	100	1		1		46	38	9kr	Cinquedeas			5	5000				invkrsu	so0		so0	pr114		20	20	pr0		50	150	pr140		15	45	pr57		30	30	pr138	50	512	512	pr123	73	2	2	pr276		2	4													pr113		20	20	pr269	358	100	1	0
+Stormspike	100	1		1		49	41	9bl	Stilleto			5	5000	cblu	cblu		inv9blu	so0		so0	pr22		1	1	pr23		240	360	pr105		60	120	pr128	38	75	23	pr29		175	250	pr233		10	20	pr245		10	20													pr113		20	20	pr269	358	100	1	0
+The Impaler	100	1		1		39	31	9sr	War Spear			5	5000	lred	lred			so0		so0	pr92		1	1	pr15		150	150	pr56		20	20	pr107		40	40	pr94		1	1	pr29		140	200	pr266	19	4	6	pr266	30	3	4	pr266	10	4	6									pr269	358	100	1	0
+Kelpie Snare	100	1		1		41	33	9tr	Fuscina			5	5000				invtriu	so0		so0	pr114		25	25	pr31		50	50	pr143	10			pr140		30	50	pr7		10	10	pr29		140	180																					pr269	358	100	1	0
+Soulfeast Tine	100	1		1		43	35	9br	War Fork			5	5000	lyel	lyel		inv9bru	so0		so0	pr75		-20	-20	pr66		7	7	pr65		7	7	pr116		20	20	pr29		190	270	pr15		150	250	pr51		15	15																	pr269	358	100	1	0
+Hone Sundan	100	1		1		45	37	9st	Yari			5	5000					so0		so0	pr133	3			pr140		20	40	pr108		45	45	pr179	10			pr29		160	200																									pr269	358	100	1	0
+Spire of Honor	100	1		1		47	39	9p9	Lance			5	5000	lgry	lgry			so0		so0	pr96		25	25	pr73		3	3	pr53		20	20	pr80		20	20	pr140		20	40	pr170	14			pr29		200	250	pr124	9	3	3	pr5		25	25									pr269	358	100	1	0
+The Meat Scraper	100	1		1		49	41	9b7	Lochaber Axe			5	5000	dred	dred			so0		so0	pr29		200	250	pr56		30	30	pr66		10	10	pr107		50	50	pr59		25	25	pr124	13	3	3																					pr269	358	100	1	0
+Blackleach Blade	100	1		1		50	42	9vo	Bill			5	5000	blac	blac			so0		so0	pr75		-25	-25	pr127	443	5	5	pr73		-2	-2	pr66		8	8	pr145	12			pr29		140	180																					pr269	358	100	1	0
+Athena's Wrath	100	1		1		50	42	9s8	Battle Scythe			5	5000				inv9s8u	so0		so0	pr121		2	3	pr8		15	15	pr56		50	50	pr143	8			pr145	8			pr29		200	230	pr124	15	2	2																	pr269	358	100	1	0
+Pierre Tombale Couant	100	1		1		51	43	9pa	Partizan			5	5000	lgld	lgld			so0		so0	pr113		55	55	pr71		3	3	pr80		30	30	pr65		6	6	pr27		12	36	pr28		20	60	pr29		160	220	pr15		100	200													pr269	358	100	1	0
+Husoldal Evo	100	1		1		52	44	9h9	Bec-de-Corbin			5	5000					so0		so0	pr53		40	60	pr15		200	250	pr94		1	1	pr140		20	32	pr29		240	280	pr56		20	20																					pr269	358	100	1	0
+Grim's Burning Dead	100	1		1		52	45	9wc	Grim Scythe			5	5000	cred	cred			so0		so0	pr134		131	232	pr31		45	45	pr29		220	260	pr123	80	3	5	pr75		-50	-50	pr69		2	3	pr93		50	50	pr375		6	6	pr15		200	250									pr269	358	100	1	0
+Razorswitch	100	1		1		36	28	8ss	Jo Stalf			5	5000	lpur				so0		so0	pr87		40	40	pr54		15	15	pr11		175	175	pr13		80	80	pr6		15	15	pr41		50	50	pr104		1	1																	pr269	358	100	1	0
+Ribcracker	100	1		1		39	31	8ls	Quarterstaff			5	5000	lblu	lblu			so0		so0	pr140		30	65	pr29		200	300	pr108		50	50	pr8		15	15	pr0		100	100	pr5		100	100	pr80		50	50	pr56		50	50	pr51		100	100		30	30						pr269	358	100	1	0
+Chromatic Ire	100	1		1		43	35	8cs	Cedar Staff			5	5000				invcstu	so0		so0	pr70		3	3	pr41		20	40	pr85		45	45	pr105		20	20	pr14		20	25	pr123	61	1	1	pr123	63	1	1	pr123	65	1	1													pr269	358	100	1	0
+Warpspear	100	1		1		47	39	8bs	Gothic Staff			5	5000	cblu	cblu			so0		so0	pr70		3	3	pr92		1	1	pr123	54	3	3	pr123	55	1	2	pr123	58	3	3	pr1		250	250	pr123	369	1	2	pr87		55	55													pr269	358	100	1	0
+Skullcollector	100	1		1		49	41	8ws	Rune Staff			5	5000	blac	blac		inv8wsu	so0		so0	pr12		20	20	pr110		10	20	pr104		2	3	pr167	8			pr69		1	2	pr87		60	60																					pr269	358	100	1	0
+Skystrike	100	1		1		36	28	8sb	Edge Bow			5	5000					so0		so0	pr135		1	250	pr15		100	100	pr10		10	10	pr57		30	30	pr29		150	200	pr127	56	12	8	pr67		1	2																					0
+Riphook	100	1		1		39	31	8hb	Razor Bow			5	5000	cred	cred			so0		so0	pr107		30	30	pr29		220	260	pr114		10	10	pr11		35	35	pr56		50	50	pr66		7	10																									0
 Kuko Shakaku	100	1		1		41	33	8lb	CedarBow			5	5000	lpur	lpur		inv8lbu	so0		so0	pr123	27	3	3	pr120		7	7	pr29		150	180	pr118		50	50	pr134		40	180	pr124		3	3																									0
-Endlesshail	100	1		1		44	36	8cb	Double Bow			5	5000				invcbwu	so0		so0	pr35		35	35	pr11		40	40	pr127	59	8	12	pr265	26	3	5	pr29		180	220	pr137	75	15	30																									0
-Whichwild String	100	1		1		47	39	8s8	Short Siege Bow			5	5000	lblu	lblu		inv8s8u	so0		so0	pr127	442	10	16	pr41		20	40	pr177	8			pr29		150	190	pr119		20	20	pr133	2																											0
-Cliffkiller	100	1		1		49	41	8l8	Long Siege Bow			5	5000	dgld				so0		so0	pr67		2	2	pr29		190	230	pr1		80	80	pr60		1	1	pr13		50	50	pr27		5	10	pr28		20	30	pr56		20	40																	0
-Magewrath	100	1		1		51	43	8sw	Rune Bow			5	5000	oran			invswbu	so0		so0	pr65		5	15	pr6		9	13	pr123	22	2	3	pr15		200	250	pr8		10	10	pr91		1	1	pr140		25	50	pr29		180	210	pr67		1	1	pr123	6	2	3									0
-Godstrike Arch	100	1		1		54	46	8lw	Gothic Bow			5	5000	lgry	lgry			so0		so0	pr29		200	250	pr96		100	150	pr99		150	200	pr98		150	200	pr127	121	5	20	pr56		50	50	pr53		12	24																					0
-Langer Briser	100	1		1		40	32	8lx	Arbalest			5	5000				inv8lxu	so0		so0	pr60		1	1	pr29		170	200	pr59		30	60	pr13		30	30	pr28		10	30	pr107		33	33	pr135		1	212																	pr347		10	10	0
-Pus Spiter	100	1		1		44	36	8mx	Siege Crossbow			5	5000	cgrn	cgrn		inv8mxu	so0		so0	pr138	100	384	384	pr127	447	18	16					pr75		-60	-60	pr128	92	9	6	pr56		10	10	pr29		150	220	pr151	10			pr104		1	3	pr331		10	15					pr347		10	10	0
-Buriza-Do Kyanon	100	1		1		59	41	8hx	Balista			5	5000				invhxbu	so0		so0	pr118		100	100	pr8		35	35	pr0		75	150	pr145	20			pr56		80	80	pr29		200	300	pr106		3	3	pr137	200	32	196													pr347		10	10	0
-Demon Machine	100	1		1		57	49	8rx	Chu-Ko-Nu			5	5000	blac	blac		invrxbu	so0		so0	pr0		333	666	pr11		33	66	pr118		66	66	pr120		6	6	pr28		66	99	pr29		266	299	pr15		666	666	pr117	492	5	5													pr347		10	10	0
+Endlesshail	100	1		1		44	36	8cb	Double Bow			5	5000				invcbwu	so0		so0	pr35		35	35	pr11		40	40	pr127	59	8	12	pr266	26	3	5	pr29		180	220	pr137	75	15	30																									0
+Whichwild String	100	1		1		47	39	8s8	Short Siege Bow			5	5000	lblu	lblu		inv8s8u	so0		so0	pr127	442	14	18	pr41		20	40	pr177	8			pr29		150	190	pr119		20	20	pr133		2	3																									0
+Cliffkiller	100	1		1		49	41	8l8	Long Siege Bow			5	5000	dgld				so0		so0	pr67		2	2	pr29		190	230	pr1		80	80	pr60		1	1	pr13		50	50	pr27		5	10	pr28		20	30	pr56		60	60																	0
+Magewrath	100	1		1		51	43	8sw	Rune Bow			5	5000	oran			invswbu	so0		so0	pr65		5	15	pr6		9	13	pr123	22	2	3	pr15		200	250	pr8		10	10	pr91		1	1	pr140		25	50	pr29		180	210	pr67		2	2	pr123	6	2	3									0
+Godstrike Arch	100	1		1		54	46	8lw	Gothic Bow			5	5000	lgry	lgry			so0		so0	pr29		200	250	pr96		100	150	pr99		200	250	pr98		200	250	pr127	121	15	20	pr56		50	50	pr53		12	24																					0
+Langer Briser	100	1		1		40	32	8lx	Arbalest			5	5000				inv8lxu	so0		so0	pr60		1	1	pr29		170	200	pr59		30	60	pr13		30	30	pr28		10	30	pr107		33	33	pr135		1	212	pr56		20	20													pr348		10	10	0
+Pus Spiter	100	1		1		44	36	8mx	Siege Crossbow			5	5000	cgrn	cgrn		inv8mxu	so0		so0	pr138	100	384	384	pr127	447	28	18	pr75		-60	-60	pr128	92	9	6	pr56		10	10	pr29		150	220	pr151	10			pr104		2	3	pr332		20	25									pr348		10	10	0
+Buriza-Do Kyanon	100	1		1		59	41	8hx	Balista			5	5000				invhxbu	so0		so0	pr118		100	100	pr8		35	35	pr0		75	150	pr145	10			pr56		80	80	pr29		200	300	pr106		3	3	pr137	200	32	196													pr348		10	10	0
+Demon Machine	100	1		1		57	49	8rx	Chu-Ko-Nu			5	5000	blac	blac		invrxbu	so0		so0	pr0		333	666	pr11		33	66	pr118		33	66	pr120		6	6	pr28		33	66	pr29		266	299	pr15		333	666	pr117	492	8	8	pr127	12	12	18									pr348		10	10	0
 Armor																		so0		so0																																																	0
 Peasent Crown	100	1		1		36	28	xap	War Hat			3	5000	lgry				so0		so0	pr10		20	20	pr9		20	20	pr104		1	1	pr77		15	15	pr53		6	12	pr5		100	100																									0
 Rockstopper	100	1		1		39	31	xkp	Sallet			3	5000				invxkpu	so0		so0	pr33		20	40	pr4		10	10	pr80		30	30	pr5		160	220	pr31		20	50	pr35		20	40	pr9		15	15																					0
-Stealskull	100	1		1		43	35	xlm	Casque			3	5000				invhlmu	so0		so0	pr65		5	5	pr66		5	5	pr80		10	10	pr56		10	10	pr5		200	240	pr59		30	50																									0
-Darksight Helm	100	1		1		46	38	xhl	Basinet			3	5000	blac	blac		invfhlu	so0		so0	pr73		-4	-4	pr141	24			pr115		1	1	pr65		5	5	pr128	71	16	3	pr265	264	1	1	pr31		20	40	pr91		1	1																	0
-Valkiry Wing	100	1		1		52	44	xhm	Winged Helm			3	5000	lgld				so0		so0	pr5		150	200	pr77		30	30	pr80		20	20	pr67		1	2	pr110		2	6	pr29		20	40																									0
-Crown of Thieves	100	1		1		57	49	xrn	Grand Crown			3	5000	dgld	dgld		invxrnu	so0		so0	pr8		25	25	pr66		5	8	pr13		50	50	pr58		80	100	pr31		33	33	pr5		160	200									pr253		10	16													0
+Stealskull	100	1		1		43	35	xlm	Casque			3	5000				invhlmu	so0		so0	pr65		3	5	pr66		3	5	pr80		20	20	pr56		20	20	pr5		200	240	pr59		30	50																									0
+Darksight Helm	100	1		1		46	38	xhl	Basinet			3	5000	blac	blac		invfhlu	so0		so0	pr73		-4	-4	pr141	24			pr115		1	1	pr65		5	5	pr128	71	16	3	pr266	264	1	1	pr31		20	40	pr91		1	1																	0
+Valkiry Wing	100	1		1		52	44	xhm	Winged Helm			3	5000	lgld				so0		so0	pr5		150	200	pr77		30	30	pr80		20	20	pr67		1	2	pr110		3	6	pr29		20	40																									0
+Crown of Thieves	100	1		1		57	49	xrn	Grand Crown			3	5000	dgld	dgld		invxrnu	so0		so0	pr8		25	25	pr66		5	10	pr13		50	50	pr58		80	100	pr31		33	33	pr5		160	200	pr59		30	65																					0
 Blackhorn's Face	100	1		1		49	41	xsk	Death Mask			3	5000	blac	blac			so0		so0	pr105		225	325	pr114		20	20	pr94		1	1	pr46		10	20	pr33		15	15	pr5		180	220	pr34		5	5																					0
 Vampiregaze	100	1		1		49	41	xh9	Grim Helm			3	5000	cgrn	cgrn		invbhmu	so0		so0	pr65		6	8	pr66		6	8	pr116		15	15	pr4		15	20	pr6		10	15	pr5		100	100	pr137	100	6	22																					0
 The Spirit Shroud	100	1		1		36	28	xui	Ghost Armor			3	5000					so0		so0	pr115		1	1	pr104		1	1	pr6		11	17	pr53		10	20	pr5		150	150	pr86		30	30																									0
 Skin of the Vipermagi	100	1		1		37	29	xea	SerpentSkin Armor			3	5000	dblu	dblu			so0		so0	pr5		120	120	pr41		20	30	pr87		30	30	pr6		5	8	pr104		1	1																													0
-Skin of the Flayerd One	100	1		1		39	31	xla	Demonhide Armor			3	5000	lred	lred			so0		so0	pr179	25			pr53		15	25	pr51		30	30	pr66		5	7	pr5		150	190	pr54		100	150	pr31		20	45																					0
-Ironpelt	100	1		1		41	33	xtu	Tresllised Armor			3	5000	dgry	dgry		invxtuu	so0		so0	pr51		125	125	pr13		50	125	pr6		10	16	pr3		15	20	pr141	24			pr5		50	100																									0
+Skin of the Flayerd One	100	1		1		39	31	xla	Demonhide Armor			3	5000	lred	lred			so0		so0	pr179	25			pr53		15	25	pr51		30	30	pr66		5	7	pr5		150	190	pr134		80	135	pr31		20	45																					0
+Ironpelt	100	1		1		41	33	xtu	Tresllised Armor			3	5000	dgry	dgry		invxtuu	so0		so0	pr51		125	125	pr13		80	125	pr6		10	16	pr3		15	20	pr141	24			pr5		50	100																									0
 Spiritforge	100	1		1		43	35	xng	Linked Mail			3	5000					so0		so0	pr73		4	4	pr143	10			pr134		20	65	pr31		10	25	pr5		120	160	pr7		15	15	pr133	2			pr103		1	2																	0
 Crow Caw	100	1		1		45	37	xcl	Tigulated Mail			3	5000					so0		so0	pr107		35	35	pr5		150	180	pr8		15	15	pr80		15	15	pr56		15	15	pr29		35	50	pr118		20	30																					0
 Shaftstop	100	1		1		46	38	xhn	Mesh Armor			3	5000	dgry				so0		so0	pr1		250	250	pr4		20	30	pr13		80	140	pr5		180	220																																	0
 Duriel's Shell	100	1		1		49	41	xrs	Cuirass			3	5000	oran	oran			so0		so0	pr7		15	15	pr141	10			pr143	8			pr5		160	200	pr31		20	20	pr33		20	20	pr39		20	20	pr35		50	50	pr115		1	1	pr51		100	100									0
 Skullder's Ire	100	1		1		50	42	xpl	Russet Armor			3	5000					so0		so0	pr104		1	1	pr167		8	12	pr5		160	200	pr51		60	60	pr6		10	15	pr179	20					-10	-10			-10	-10																	0
 Guardian Angel	100	1		1		53	45	xlt	Templar Coat			3	5000	lgry	lgry			so0		so0	pr73		4	4	pr68		1	1	pr5		180	200	pr83		30	30	pr16		20	20	pr172	28			pr32		4	6	pr36		4	6	pr34		4	6	pr40		4	6									0
-Toothrow	100	1		1		56	48	xld	Sharktooth Armor			3	5000	whit	whit			so0		so0	pr54		600	800	pr0		40	60	pr7		10	10	pr107		40	40	pr31		15	15	pr5		160	220	pr51		15	15	pr113		25	35																	0
-Atma's Wail	100	1		1		59	51	xth	Embossed Plate			3	5000					so0		so0	pr8		15	15	pr53		10	20	pr12		15	15	pr80		30	30	pr141	16			pr51		50	50	pr5		120	160	pr59		20	20	pr104		1	1	pr86		30	30									0
-Black Hades	100	1		1		61	53	xul	Chaos Armor			3	5000					so0		so0	pr73		-2	-2	pr100		400	450	pr95		1	1	pr133		2	3	pr5		140	200	pr98		120	185																									0
-Corpsemourn	100	1		1		63	55	xar	Ornate Armor			3	5000	blac	blac		invxaru	so0		so0	pr7		8	8	pr9		10	10	pr35		35	35	pr117	1	15	15	pr5		150	180	pr20		60	80	pr21		180	240	pr265	74	1	1	pr75		-30	-15													0
-Que-Hegan's Wisdon	100	1		1		59	51	xtp	Mage Plate			3	5000					so0		so0	pr86		20	20	pr110		3	5	pr6		6	10	pr10		15	25	pr80		20	20	pr5		140	160	pr104		1	1																					0
-Visceratuant	100	1		1		36	28	xuc	Defender			3	5000	dred			invbucu	so0		so0	pr70		1	1	pr83		30	30	pr16		30	30	pr5		100	150	pr105		70	100	pr245		5	10																									0
+Toothrow	100	1		1		56	48	xld	Sharktooth Armor			3	5000	bwht	whit			so0		so0	pr54		250	400	pr0		40	60	pr7		10	10	pr107		40	40	pr31		15	15	pr5		160	220	pr51		15	15	pr113		25	35																	0
+Atma's Wail	100	1		1		59	51	xth	Embossed Plate			3	5000					so0		so0	pr8		15	15	pr53		10	20	pr12		15	25	pr80		30	30	pr141	16			pr51		50	50	pr5		120	160	pr59		20	20	pr104		1	1	pr86		30	30									0
+Black Hades	100	1		1		61	53	xul	Chaos Armor			3	5000					so0		so0	pr73		-2	-2	pr100		400	450	pr95		1	1	pr133		3	4	pr5		140	200	pr98		160	225																									0
+Corpsemourn	100	1		1		63	55	xar	Ornate Armor			3	5000	blac	blac		invxaru	so0		so0	pr7		8	8	pr9		10	10	pr35		35	35	pr117	1	12	12	pr5		150	180	pr20		120	160	pr21		300	340	pr266	74	1	1	pr75		-15	-15													0
+Que-Hegan's Wisdon	100	1		1		59	51	xtp	Mage Plate			3	5000					so0		so0	pr86		20	20	pr110		3	5	pr6		6	10	pr10		15	25	pr80		20	20	pr5		140	160	pr104		1	2																					0
+Visceratuant	100	1		1		36	28	xuc	Defender			3	5000	dred			invbucu	so0		so0	pr70		1	1	pr83		30	30	pr16		30	30	pr5		100	150	pr105		35	50	pr245		5	10																									0
 Mosers Blessed Circle	100	1		1		39	31	xml	Round Shield			3	5000				invxmlu	so0		so0	pr41		25	25	pr16		25	25	pr133	2			pr5		180	220	pr83		30	30																													0
-Stormchaser	100	1		1		43	35	xrg	Scutum			3	5000	cblu	cblu		invxrgu	so0		so0	pr135		1	90	pr16		20	20	pr115		1	1	pr33		50	50	pr15		150	250	pr5		160	220	pr83		10	10	pr128	59	8	9	pr128	245	8	15	pr77		20	30									0
+Stormchaser	100	1		1		43	35	xrg	Scutum			3	5000	cblu	cblu		invxrgu	so0		so0	pr135		1	270	pr16		20	20	pr115		1	1	pr33		50	50	pr15		150	250	pr5		160	220	pr77		20	30	pr128	59	8	9	pr128	245	8	15													0
 Tiamat's Rebuke	100	1		1		46	38	xit	Dragon Shield			3	5000	lgry	lgry		invkitu	so0		so0	pr137	150	40	80	pr134		53	142	pr135		1	180	pr41		25	35	pr5		140	200	pr128	44	15	19	pr128	48	15	17	pr128	62	15	6	pr51		40	40													0
 Kerke's Sanctuary	100	1		1		52	44	xow	Pavise			3	5000	lgrn	lgrn		invtowu	so0		so0	pr3		14	18	pr6		14	18	pr53		25	25	pr5		180	240	pr51		100	100	pr16		30	30	pr41		20	30	pr104		1	1	pr83		20	20													0
-Radimant's Sphere	100	1		1		58	50	xts	Ancient Shield			3	5000				invgtsu	so0		so0	pr128	92	5	35	pr39		50	75	pr5		160	200	pr16		20	20	pr83		20	20	pr275		1	2	pr51		20	20	pr86		25	25																	0
+Radimant's Sphere	100	1		1		58	50	xts	Ancient Shield			3	5000				invgtsu	so0		so0	pr128	92	5	35	pr39		50	75	pr5		160	200	pr16		20	20	pr83		20	20	pr276		1	2	pr51		20	20	pr86		30	30																	0
 Lidless Wall	100	1		1		49	41	xsh	Grim Shield			3	5000	dgld	dgld		invxshu	so0		so0	pr73		1	1	pr104		1	2	pr86		20	20	pr110		4	6	pr5		80	130	pr10		10	10	pr12		10	10																					0
-Lance Guard	100	1		1		43	35	xpk	Barbed Shield			3	5000				invxpku	so0		so0	pr143	20			pr80		30	30	pr54		247	347	pr5		70	120	pr113		20	35	pr83		50	50	pr8		12	16																					0
+Lance Guard	100	1		1		43	35	xpk	Barbed Shield			3	5000				invxpku	so0		so0	pr143	20			pr80		30	30	pr54		147	247	pr5		70	120	pr113		20	35	pr83		50	50	pr8		12	16																					0
 Venom Grip	100	1		1		37	29	xlg	Demonhide Gloves			5	5000	dgrn				so0		so0	pr39		30	30	pr40		5	5	pr247		10	15	pr108		5	10	pr66		2	4	pr0		15	25	pr5		130	160																					0
 Gravepalm	100	1		1		39	32	xvg	Sharkskin Gloves			5	5000					so0		so0	pr10		10	10	pr7		10	10	pr99		100	200	pr101		100	200	pr5		140	180	pr113		10	18	pr124	8	1	1																					0
 Ghoulhide	100	1		1		44	36	xmg	Heavy Bracers			5	5000					so0		so0	pr173	16			pr171	16			pr65		4	5	pr13		20	40	pr5		150	190	pr56		20	20																									0
@@ -239,170 +239,177 @@ Lavagout	100	1		1		50	42	xtg	Battle Guantlets			5	5000	lyel				so0		so0	pr31		24
 Hellmouth	100	1		1		55	47	xhg	War Gauntlets			5	5000					so0		so0	pr134		30	144	pr44		15	15	pr5		150	200	pr51		15	15	pr127	56	4	34	pr127	229	8	22	pr54		200	350	pr232		5	10																	0
 Infernostride	100	1		1		37	29	xlb	Demonhide Boots			5	5000					so0		so0	pr134		24	66	pr77		25	25	pr32		5	5	pr31		30	30	pr73		2	2	pr5		120	150	pr58		40	70	pr0		15	15	pr128	46	5	16													0
 Waterwalk	100	1		1		40	32	xvb	Sharkskin Boots			5	5000					so0		so0	pr83		20	20	pr77		40	40	pr8		15	15	pr5		180	210	pr13		45	65	pr63		40	40	pr32		5	5	pr61		50	50																	0
-Silkweave	100	1		1		44	36	xmb	Mesh Boots			5	5000					so0		so0	pr5		150	190	pr110		5	5	pr1		200	200	pr12		10	10	pr77		30	30																													0
+Silkweave	100	1		1		44	36	xmb	Mesh Boots			5	5000					so0		so0	pr5		150	190	pr110		5	5	pr1		200	200	pr12		10	20	pr77		30	30																													0
 Wartraveler	100	1		1		50	42	xtb	Battle Boots			5	5000					so0		so0	pr9		10	10	pr7		10	10	pr59		30	50	pr51		30	30	pr77		25	25	pr5		150	190	pr140		15	25	pr54		5	10	pr116		40	40													0
 Gorerider	100	1		1		55	47	xhb	War Boots			5	5000	dred				so0		so0	pr75		-25	-25	pr113		15	15	pr77		30	30	pr108		15	15	pr107		10	10	pr5		160	200	pr51		10	10	pr63		20	20																	0
 String of Ears	100	1		1		37	29	zlb	Demonhide Sash			5	5000	lred				so0		so0	pr6		10	15	pr4		10	15	pr66		6	8	pr5		150	180	pr0		15	15	pr51		10	10																									0
 Razortail	100	1		1		39	32	zvb	Sharkskin Belt			5	5000					so0		so0	pr165	8			pr8		15	15	pr118		33	33	pr0		15	15	pr5		120	150	pr28		10	10																									0
 Gloomstrap	100	1		1		45	36	zmb	Mesh Belt			5	5000					so0		so0	pr73		-3	-3	pr12		15	15	pr65		5	5	pr5		120	150	pr9		15	15	pr62		15	15	pr86		10	10																					0
-Snowclash	100	1		1		49	42	ztb	Battle Belt			5	5000					so0		so0	pr128	59	5		pr36		5	5	pr137	75	39	63	pr5		130	170	pr35		20	35	pr273		1	2																									0
-Thudergod's Vigor	100	1		1		55	47	zhb	War Belt			5	5000					so0		so0	pr128	121	5	17	pr22		1	1	pr23		150	250	pr34		5	5	pr46		5	10	pr5		160	200	pr9		10	15	pr7		10	15	pr123	34	2	2	pr123	35	2	2	pr274		1	1					0
+Snowclash	100	1		1		49	42	ztb	Battle Belt			5	5000					so0		so0	pr128	59	5		pr36		5	5	pr137	75	39	63	pr5		130	170	pr35		20	35	pr274		1	2																									0
+Thudergod's Vigor	100	1		1		55	47	zhb	War Belt			5	5000					so0		so0	pr128	121	5	17	pr22		1	1	pr23		150	250	pr34		5	5	pr46		5	10	pr5		160	200	pr9		10	15	pr7		10	15	pr123	34	2	2	pr123	35	2	2	pr275		1	1					0
 Elite Uniques																		so0		so0																																																	0
-Harlequin Crest	100	1		1		69	62	uap	Shako			3	5000	cgrn	cgrn			so0		so0	pr104		2	2	pr143	8			pr144	8			pr59		50	50	pr10		2	2	pr7		2	2	pr8		2	2	pr9		2	2	pr4		3	5													0
+Harlequin Crest	100	1		1		69	62	uap	Shako			3	5000	cgrn	cgrn			so0		so0	pr104		2	2	pr143	8			pr144	8			pr59		25	50	pr10		2	2	pr7		2	2	pr8		2	2	pr9		2	2	pr4		3	5													0
 Veil of Steel	100	1		1		77	73	uhm	Spired Helm			3	5000	lgry	lgry		invvos	so0		so0	pr41		25	40	pr5		160	220	pr7		15	15	pr9		15	15	pr29		30	60	pr51		20	20	pr0		140	140			-30	-30	pr104		1	1													0
-The Gladiator's Bane	100	1		1		85	85	utu	Wire Fleece			3	5000	lgry	lgry			so0		so0	pr5		150	200	pr6		15	25	pr3		15	25	pr54		1200	1800	pr88		50	50	pr51		103	103	pr80		30	30	pr0		50	50	pr115		1	1													0
+The Gladiator's Bane	100	1		1		85	85	utu	Wire Fleece			3	5000	lgry	lgry			so0		so0	pr5		150	200	pr6		15	25	pr3		15	25	pr54		320	640	pr88		50	50	pr51		103	103	pr80		30	30	pr266	9	2	2	pr115		1	1													0
 Arkaine's Valor	100	1		1		85	85	upl	Balrog Skin			3	5000	lred			arkaines	so0		so0	pr5		150	180	pr80		30	30	pr104		1	2	pr3		10	15	pr150	4																															0
-Blackoak Shield	100	1		1		67	61	uml	Luna			3	5000				invsmlu	so0		so0	pr148	4			pr5		160	200	pr161	2			pr128	443	4	5	pr51		45	45	pr143	10			pr83		50	50	pr115		1	1	pr234		10	15													0
-Stormshield	100	1		1		77	73	uit	Monarch			3	5000				invkitu	so0		so0	pr141	30			pr4		20	30	pr7		20	30	pr242		1	1	pr83		35	35	pr33		25	25	pr16		25	25	pr35		40	50	pr105		800	1400													0
-Hellslayer	100	1		1		71	66	7bt	Decapitator			5	5000	dred	dred		invbtxu	so0		so0	pr147	4			pr150	4			pr146	24			pr20		150	300	pr21		400	500	pr13		25	25	pr29		100	200	pr127	47	10														pr268	358	100	1	0
-Messerschmidt's Reaver	100	1		1		75	70	7ga	Champion Axe			5	5000	blac	blac		invgaxu	so0		so0	pr146	20			pr29		225	275	pr7		15	15	pr8		15	15	pr9		15	15	pr10		15	15	pr134		20	240	pr51		25	25	pr96		100	100	pr77		30	30					pr268	358	100	1	0
-Baranar's Star	100	1		1		70	65	7mt	Devil Star			5	5000	lred	lred		invmstu	so0		so0	pr96		200	200	pr29		200	250	pr8		15	15	pr7		15	15	pr56		50	50	pr51		100	100	pr135		1	300	pr134		1	300	pr137		1	300									pr268	358	100	1	0
-Schaefer's Hammer	100	1		1		83	79	7wh	Legendary Mallet			5	5000	lblu	lblu			so0		so0	pr127	42	20	10	pr13		50	50	pr151	16			pr33		50	75	pr56		20	40	pr145	16			pr179	10			pr29		200	260	pr73		1	1	pr135		50	200					pr268	358	100	1	0
-The Cranium Basher	100	1		1		85	87	7gm	Thunder Maul			5	5000	blac	blac			so0		so0	pr56		20	20	pr127	442	4	20	pr7		25	25	pr41		25	25	pr108		75	75	pr140		20	25	pr29		240	280																	pr268	358	100	1	0
-Lightsabre	100	1		5		66	58	7cr	Phase Blade			5	5000	lblu			invcrsu	so0		so0	pr73		7	7	pr126	53	5		pr92	1	1	1	pr45		5	10	pr56		20	20	pr136		60	120	pr135		1	200	pr65		5	7	pr29		150	250	pr140		10	30					pr268	358	100	1	0
-Doombringer	100	1		1		75	69	7b7	Champion Sword			5	5000	dred	dred		invbswu	so0		so0	pr14		10	20	pr29		210	280	pr96		40	40	pr179	25			pr140		30	100	pr127	443	8	15	pr66		5	7																	pr268	358	100	1	0
-The Grandfather	100	1		1		85	81	7gd	Colossus Blade			5	5000	lyel	lyel		invgsdu	so0		so0	pr7		20	20	pr8		20	20	pr9		20	20	pr10		20	20	pr96		50	50	pr13		80	80	pr145	20			pr179	25			pr29		150	250	pr124	14	3	5					pr268	358	100	1	0
-Wizardspike	100	1		1		69	61	7dg	Bone Knife			5	5000	lgry	lgry			so0		so0	pr144	16			pr62		15	15	pr12		15	15	pr41		75	75	pr242		1	1	pr87		50	50	pr75		-50	-50													pr113		20	20	pr268	358	100	1	0
+Blackoak Shield	100	1		1		67	61	uml	Luna			3	5000				invsmlu	so0		so0	pr148	4			pr5		160	200	pr161	1			pr128	446	8	15	pr51		45	45	pr143	10			pr83		50	50	pr115		1	1	pr234		10	15													0
+Stormshield	100	1		1		77	73	uit	Monarch			3	5000				invkitu	so0		so0	pr141	30			pr4		20	30	pr7		20	30	pr242		1	1	pr83		35	35	pr33		25	25	pr16		25	25	pr35		40	50	pr105		150	250													0
+Hellslayer	100	1		1		71	66	7bt	Decapitator			5	5000	dred	dred		invbtxu	so0		so0	pr147	4			pr150	4			pr146	24			pr20		150	300	pr21		400	500	pr13		25	25	pr29		100	200	pr127	47	20		pr56		20	20									pr269	358	100	1	0
+Messerschmidt's Reaver	100	1		1		75	70	7ga	Champion Axe			5	5000	blac	blac		invgaxu	so0		so0	pr146	20			pr29		225	275	pr7		15	15	pr8		15	15	pr9		15	15	pr10		15	15	pr134		20	240	pr51		25	25	pr96		100	100	pr77		30	30	pr56		30	30	pr269	358	100	1	0
+Baranar's Star	100	1		1		70	65	7mt	Devil Star			5	5000	lred	lred		invmstu	so0		so0	pr96		200	200	pr29		200	250	pr8		15	15	pr7		15	15	pr56		50	50	pr51		100	100	pr135		1	300	pr134		1	300	pr137		1	300									pr269	358	100	1	0
+Schaefer's Hammer	100	1		1		83	79	7wh	Legendary Mallet			5	5000	lblu	lblu			so0		so0	pr127	42	20	10	pr13		50	50	pr151	16			pr33		50	75	pr56		20	40	pr145	16			pr179	10			pr29		200	260	pr73		1	1	pr135		50	200					pr269	358	100	1	0
+The Cranium Basher	100	1		1		85	87	7gm	Thunder Maul			5	5000	blac	blac			so0		so0	pr56		20	20	pr127	442	8	20	pr7		25	25	pr41		25	25	pr108		75	75	pr140		20	25	pr29		240	280																	pr269	358	100	1	0
+Lightsabre	100	1		5		66	58	7cr	Phase Blade			5	5000	lblu			invcrsu	so0		so0	pr73		7	7	pr126	53	5		pr92	1	1	1	pr45		5	10	pr56		20	20	pr136		60	120	pr135		1	500	pr65		5	7	pr29		150	250	pr140		10	30					pr269	358	100	1	0
+Doombringer	100	1		1		75	69	7b7	Champion Sword			5	5000	dred	dred		invbswu	so0		so0	pr14		10	15	pr29		210	280	pr96		40	40	pr179	25			pr140		80	150	pr127	443	8	15	pr66		5	7																	pr269	358	100	1	0
+The Grandfather	100	1		1		85	81	7gd	Colossus Blade			5	5000	lyel	lyel		invgsdu	so0		so0	pr7		20	20	pr8		20	20	pr9		20	20	pr10		20	20	pr96		50	50	pr13		80	80	pr145	20			pr179	25			pr29		150	250	pr124	14	3	5					pr269	358	100	1	0
+Wizardspike	100	1		1		69	61	7dg	Bone Knife			5	5000	lgry	lgry			so0		so0	pr144	16			pr62		15	15	pr12		15	15	pr41		75	75	pr242		1	1	pr87		50	50	pr75		-50	-50													pr113		20	20	pr269	358	100	1	0
 Constricting Ring	100			1		95	95	rin	Ring			5	5000	cblu	cblu			so0		so0	pr41		100	100	pr53		-30	-30	pr59		100	100	pr42		15	15																																	0
-Stormspire	100	1		1		78	70	7wc	Giant Thresher			5	5000	dblu	dblu			so0		so0	pr33		50	50	pr127	42	15	20	pr29		150	250	pr7		10	10	pr128	38	75	30	pr56		30	30	pr22		1	1	pr23		237	474	pr105		270	540	pr245		20	30					pr268	358	100	1	0
-Eaglehorn	100	1		1		77	69	6l7	Crusader Bow			5	5000	dgld	dgld			so0		so0	pr92		1	1	pr151	12			pr146	16			pr29		200	250	pr67		1	1	pr8		25	40																									0
-Windforce	100	1		1		80	73	6lw	Hydra Bow			5	5000	dyel	dyel			so0		so0	pr8		5	5	pr145	25			pr127	240	10	25	pr65		6	8	pr60		1	1	pr29		250	325	pr56		20	20	pr7		10	10																	0
+Stormspire	100	1		1		78	70	7wc	Giant Thresher			5	5000	dblu	dblu			so0		so0	pr33		50	50	pr127	42	60	20	pr29		150	250	pr7		10	10	pr128	38	75	30	pr56		30	30	pr22		1	1	pr23		337	474	pr105		270	540	pr245		20	30					pr269	358	100	1	0
+Eaglehorn	100	1		1		77	69	6l7	Crusader Bow			5	5000	dgld	dgld			so0		so0	pr92		1	1	pr151	12			pr146	16			pr29		200	250	pr67		2	2	pr8		40	60	pr127	130	2	5																					0
+Windforce	100	1		1		80	73	6lw	Hydra Bow			5	5000	dyel	dyel			so0		so0	pr8		5	5	pr145	13			pr127	240	10	25	pr65		6	8	pr60		1	1	pr29		250	325	pr56		20	20	pr7		10	10																	0
 Rings																		so0		so0																																																	0
 Bul Katho's Wedding Band	100	1		1		66	58	rin	Ring			5	5000	dpur	dpur			so0		so0	pr143	4			pr104		1	1	pr66		3	5	pr63		50	50																																	0
 The Cat's Eye	100	1		5		58	50	amu	Amulet			5	5000	oran	oran			so0		so0	pr77		30	30	pr56		20	20	pr0		100	100	pr1		100	100	pr8		25	25																													0
 The Rising Sun	100	1		5		73	65	amu	Amulet			5	5000	lgld	lgld			so0		so0	pr44		5	10	pr73		4	4	pr128	56	4	23	pr20		80	124	pr21		200	248	pr103		1	2	pr53		10	10	pr232		6	12																	0
-Crescent Moon	100	1		5		58	50	amu	Amulet			5	5000	lblu	lblu			so0		so0	pr65		4	8	pr6		5	10	pr56		10	10	pr273		1	2	pr11		45	45	pr66		3	6	pr86		10	10																					0
+Crescent Moon	100	1		5		58	50	amu	Amulet			5	5000	lblu	lblu			so0		so0	pr65		4	8	pr6		5	10	pr56		10	10	pr274		1	2	pr11		45	45	pr66		3	6	pr86		10	10																					0
 Mara's Kaleidoscope	100	1		5		80	67	amu	Amulet			5	5000	oran	oran			so0		so0	pr104		2	2	pr41		20	30	pr7		5	5	pr8		5	5	pr9		5	5	pr10		5	5																									0
-Atma's Scarab	100	1		5		60	60	amu	Amulet			5	5000	cgrn	cgrn			so0		so0	pr138	100	1024	1024	pr39		30	60	pr73		3	3	pr54		400	600	pr127	442	7	18	pr96		40	60																									0
-Dwarf Star	100	1		10		53	45	rin	Ring			5	5000	dgry	dgry			so0		so0	pr58		100	100	pr63		35	50	pr16		3	5	pr13		35	50	pr6		12	15	pr43		4	8																									0
+Atma's Scarab	100	1		5		60	60	amu	Amulet			5	5000	cgrn	cgrn			so0		so0	pr138	100	1024	1024	pr39		30	60	pr73		3	3	pr54		300	450	pr127	442	7	18	pr96		40	60																									0
+Dwarf Star	100	1		10		53	45	rin	Ring			5	5000	dgry	dgry			so0		so0	pr58		100	100	pr63		35	50	pr16		5	5	pr13		35	50	pr6		12	15	pr43		4	8																									0
 Raven Frost	100	1		10		53	45	rin	Ring			5	5000	cblu	cblu			so0		so0	pr115		1	1	pr137	100	15	45	pr49		5	10	pr11		40	40	pr8		15	20	pr15		150	250																									0
-Highlord's Wrath	100	1		5		73	65	amu	Amulet			5	5000	bwht	bwht			so0		so0	pr33		25	35	pr135		1	300	pr56		20	20	pr104		1	1	pr177	2			pr105		400	650																									0
-Saracen's Chance	100	1		5		55	47	amu	Amulet			5	5000	dpur	dpur			so0		so0	pr41		15	25	pr29		30	50	pr251		12	12	pr128	444	10	12																																	0
+Highlord's Wrath	100	1		5		73	65	amu	Amulet			5	5000	bwht	bwht			so0		so0	pr33		25	35	pr135		1	300	pr56		20	20	pr104		1	1	pr177	2			pr105		100	150																									0
+Saracen's Chance	100	1		5		55	47	amu	Amulet			5	5000	dpur	dpur			so0		so0	pr41		15	25	pr29		40	60	pr252		12	12	pr128	444	10	12																																	0
 Class Specific																		so0		so0																																																	0
 Arreat's Face	100	1		1		50	42	baa	Slayer Guard			5	5000					so0		so0	pr71		2	2	pr124	12	1	2	pr5		150	200	pr80		30	30	pr96		20	20	pr7		10	20	pr8		10	20	pr66		3	6	pr41		20	20													0
 Homunculus	100	1		1		50	42	nea	Heirophant Trophy			5	5000					so0		so0	pr69		2	2	pr5		150	200	pr83		30	30	pr16		40	40	pr10		20	20	pr62		33	33	pr110		3	5	pr41		25	35																	0
-Titan's Revenge	100	1		1		50	42	ama	Ceremonial Javelin			5	5000					so0		so0	pr67		1	2	pr124	2	2	2	pr29		150	250	pr77		30	30					pr7		20	20	pr8		20	20	pr66		5	9	pr140		25	50									pr268	358	100	1	0
+Titan's Revenge	100	1		1		50	42	ama	Ceremonial Javelin			5	5000					so0		so0	pr67		1	2	pr124	2	2	2	pr29		150	250	pr77		30	30					pr7		20	20	pr8		20	20	pr66		5	9	pr140		25	50									pr269	358	100	1	0
 Lycander's Aim	100	1		1		50	42	am7	Ceremonial Bow			5	5000					so0		so0	pr67		2	2	pr124		2	2	pr29		200	250	pr56		20	20	pr93		25	50	pr8		20	20	pr10		20	20	pr65		5	8	pr140		25	50													0
-Lycander's Flank	100	1		1		50	42	am9	Ceremonial Pike			5	5000					so0		so0	pr67		2	2	pr124	2	2	2	pr29		250	300	pr56		30	30	pr5		50	100	pr7		20	20	pr9		20	20	pr66		5	9	pr140		25	50									pr268	358	100	1	0
+Lycander's Flank	100	1		1		50	42	am9	Ceremonial Pike			5	5000					so0		so0	pr67		2	2	pr124	2	2	2	pr29		250	300	pr56		30	30	pr5		50	100	pr7		20	20	pr9		20	20	pr66		5	9	pr140		25	50									pr269	358	100	1	0
 The Oculus	100	1		1		50	42	oba	Swirling Crystal			5	5000					so0		so0	pr70		2	3	pr128	54	2	1	pr41		10	25	pr86		30	30	pr5		20	20	pr9		20	20	pr10		20	20	pr110		5	5	pr59		50	50													0
 Herald of Zakarum	100	1		1		50	42	pa9	Aerin Shield			5	5000					so0		so0	pr68		2	2	pr124	9	1	2	pr5		150	200	pr83		30	30	pr16		30	30	pr7		15	30	pr9		15	30	pr96		30	30	pr41		50	50													0
-Cutthroat1	100	1		1		50	42	9tw	Runic Talons			5	5000					so0		so0	pr122		2	2	pr124	20	1	2	pr29		200	300	pr80		30	30	pr96		20	20	pr7		20	20	pr8		20	20	pr66		5	9	pr140		25	50									pr268	358	100	1	0
+Cutthroat1	100	1		1		50	42	9tw	Runic Talons			5	5000					so0		so0	pr122		2	2	pr124	20	1	2	pr29		200	300	pr80		30	30	pr96		20	20	pr7		20	20	pr8		20	20	pr66		5	9	pr140		25	50									pr269	358	100	1	0
 Jalal's Mane	100	1		1		50	42	dra	Dream Spirit			5	5000					so0		so0	pr121		2	2	pr124	16	1	2	pr5		150	200	pr80		30	30	pr96		20	20	pr7		15	20	pr10		15	20	pr110		5	5	pr41		25	25													0
-The Scalper	100	1		1		65	57	9ta	Francisca			5	5000					so0		so0	pr29		200	250	pr96		25	25	pr56		20	20	pr107		33	33	pr66		4	6	pr110		4	4																					pr268	358	100	1	0
-Bloodmoon	100	1		1		69	61	7sb	elegant blade			5	5000	cred	cred		invsbru	so0		so0	pr29		210	260	pr66		10	15	pr243	85	29	15	pr253		7	13	pr107		50	50	pr243	367	29	15																					pr268	358	100	1	0
-Djinnslayer	100	1		1		73	65	7sm	ataghan			5	5000	dpur	dpur		invscmu	so0		so0	pr29		190	240	pr134		250	500	pr98		100	150	pr100		200	300	pr46		3	7	pr65		3	6	pr133		1	2																	pr268	358	100	1	0
-Deathbit	100	1		1		52	44	9tk	battle dart			5	5000					so0		so0	pr113		40	40	pr29		180	230	pr15		200	450	pr66		7	9	pr65		4	6																									pr268	358	100	1	0
-Warshrike	100	1		1		83	75	7bk	winged knife			5	5000	bwht	bwht		invtk3	so0		so0	pr29		250	300	pr118		50	50	pr56		30	30	pr113		50	50	pr127	48	25	19																									pr268	358	100	1	0
-Gutsiphon	100	1		1		79	71	6rx	demon crossbow			5	5000	lgrn	lgrn		invrxbu	so0		so0	pr29		320	440	pr118		33	33	pr66		12	18	pr114		25	25	pr107		33	33	pr53		-10	-5																					pr347		10	10	0
-Razoredge	100	1		1		75	67	7ha	tomahawk			5	5000	lblu			invhaxu	so0		so0	pr29		175	275	pr56		40	40	pr93		33	33	pr113		50	50	pr107		50	50																									pr268	358	100	1	0
+The Scalper	100	1		1		65	57	9ta	Francisca			5	5000					so0		so0	pr29		200	250	pr96		25	25	pr56		20	20	pr107		33	33	pr66		4	6	pr110		4	4																					pr269	358	100	1	0
+Bloodmoon	100	1		1		69	61	7sb	elegant blade			5	5000	cred	cred		invsbru	so0		so0	pr29		240	300	pr66		10	15	pr243	85	29	15	pr254		7	13	pr107		50	50	pr243	367	29	15																					pr269	358	100	1	0
+Djinnslayer	100	1		1		73	65	7sm	ataghan			5	5000	dpur	dpur		invscmu	so0		so0	pr29		190	240	pr134		250	500	pr98		100	150	pr100		200	300	pr46		3	7	pr65		3	6	pr133		1	2																	pr269	358	100	1	0
+Deathbit	100	1		1		52	44	9tk	battle dart			5	5000					so0		so0	pr113		40	40	pr29		180	230	pr15		200	450	pr66		7	9	pr65		4	6	pr117	1	5	5																					pr269	358	100	1	0
+Warshrike	100	1		1		83	75	7bk	winged knife			5	5000	bwht	bwht		invtk3	so0		so0	pr29		300	350	pr118		50	50	pr56		30	30	pr113		50	50	pr127	48	25	40																									pr269	358	100	1	0
+Gutsiphon	100	1		1		79	71	6rx	demon crossbow			5	5000	lgrn	lgrn		invrxbu	so0		so0	pr29		320	440	pr118		33	33	pr66		6	8	pr114		10	10	pr107		33	33	pr53		-100	-100	pr127	83	6	36																	pr348		10	10	0
+Razoredge	100	1		1		75	67	7ha	tomahawk			5	5000	lblu			invhaxu	so0		so0	pr29		225	325	pr56		40	40	pr93		33	33	pr113		50	50	pr107		50	50																									pr269	358	100	1	0
 Gore Ripper	100			1								5	5000	dred	dred			so0		so0																																																	0
-Demonlimb	100	1		1		71	63	7sp	tyrant club			5	5000	dgrn	dgrn		invspcu	so0		so0	pr29		180	230	pr134		222	333	pr66		7	13	pr243	52	20	23	pr179	5			pr98		123	123	pr31		15	20																	pr268	358	100	1	0
-Steelshade	100	1		1		70	62	ulm	armet			5	5000	blac	blac		invhlmu	so0		so0	pr5		100	130	pr44		5	11	pr65		4	8	pr53		30	48	pr104		1	2	pr16		20	20	pr83		30	30	pr59		28	28																	0
-Tomb Reaver	100	1		1		86	84	7pa	cryptic axe	1		5	5000	lyel	lyel			so0		so0	pr56		60	60	pr73		4	4	pr29		200	280	pr99		150	230	pr59		50	80	pr41		30	50	pr101		250	350	pr117	1	10	10	pr253		10	14	pr133		1	3					pr268	358	100	1	0
-Deaths's Web	100	1		1		74	66	7gw	unearthed wand			5	5000	bwht	bwht			so0		so0	pr104		2	2	pr235		40	50	pr253		7	12	pr110		7	12	pr124	7	1	2																													0
-Nature's Peace	100	1		3		77	69	rin	ring			5	5000	dgrn	dgrn			so0		so0	pr94		1	1	pr255		1	1	pr3		7	11	pr34		1	3	pr265	226	1	3	pr36		1	3	pr32		1	3	pr40		1	3																	0
-Azurewrath	100	1		1		87	85	7cr	phase blade	1		5	5000	lgry			invcrs	so0		so0	pr136		250	500	pr29		230	270	pr125	119	10	13	pr137	250	250	500	pr56		30	30	pr251		5	10	pr73		3	3	pr104		1	1													pr268	358	100	1	0
+Demonlimb	100	1		1		71	63	7sp	tyrant club			5	5000	dgrn	dgrn		invspcu	so0		so0	pr29		180	230	pr134		222	333	pr66		7	13	pr243	52	20	23	pr327	33			pr98		123	123	pr31		15	20																	pr269	358	100	1	0
+Steelshade	100	1		1		70	62	ulm	armet			5	5000	blac	blac		invhlmu	so0		so0	pr5		100	130	pr44		5	11	pr65		4	8	pr53		30	48	pr104		1	2	pr16		20	20	pr83		30	30																					0
+Tomb Reaver	100	1		1		86	84	7pa	cryptic axe	1		5	5000	lyel	lyel			so0		so0	pr56		60	60	pr73		4	4	pr29		200	280	pr99		150	230	pr59		50	80	pr41		30	50	pr101		250	350	pr117	1	10	10	pr254		10	14	pr133		1	3					pr269	358	100	1	0
+Deaths's Web	100	1		1		74	66	7gw	unearthed wand			5	5000	bwht	bwht			so0		so0	pr104		2	2	pr235		10	20	pr254		4	6	pr110		4	6	pr124	7	1	2																													0
+Nature's Peace	100	1		3		77	69	rin	ring			5	5000	dgrn	dgrn			so0		so0	pr94		1	1	pr256		1	1	pr3		7	11	pr34		2	3	pr266	226	3	5	pr36		2	3	pr32		2	3	pr40		2	3																	0
+Azurewrath	100	1		1		87	85	7cr	phase blade	1		5	5000	lgry			invcrs	so0		so0	pr136		250	500	pr29		230	270	pr125	119	10	13	pr137	250	250	500	pr56		30	30	pr252		5	10	pr73		3	3	pr104		1	1													pr269	358	100	1	0
 Seraph's Hymn	100	1		3		73	65	amu	amulet			5	5000	bwht	bwht		invamu2	so0		so0	pr104		2	2	pr124	11	1	2	pr98		50	80	pr99		50	80	pr100		150	250	pr101		150	250	pr73		2	2																					0
 Zakarum's Salvation	100			1								5	5000					so0		so0																																																	0
-Fleshripper	100	1		1		76	68	7kr	fanged knife			5	5000	dred	dred		invkrsu	so0		so0	pr29		200	300	pr93		50	50	pr94		1	1	pr108		25	25	pr107		50	50	pr113		33	33	pr114		10	10													pr113		20	20	pr268	358	100	1	0
+Fleshripper	100	1		1		76	68	7kr	fanged knife			5	5000	dred	dred		invkrsu	so0		so0	pr29		200	300	pr93		50	50	pr94		1	1	pr108		25	25	pr107		50	50	pr113		33	33	pr114		10	10													pr113		20	20	pr269	358	100	1	0
 Odium	100			1								5	5000	blac				so0		so0																																																	0
-Horizon's Tornado	100	1		5		72	64	7fl	scourge			5	5000	dpur	dpur			so0		so0	pr29		250	300	pr56		50	50	pr86		30	30	pr127	245	20	21	pr123	240	3	5	pr123	245	3	5																					pr268	358	100	1	0
-Stone Crusher	100	1		4		76	68	7wh	legendary mallet			5	5000	whit				so0		so0	pr29		280	320	pr7		20	30	pr108		40	40	pr93		25	25	pr97		-100	-100	pr89		10	30	pr347		10	20																	pr268	358	100	1	0
-Jadetalon	100	1		1		74	66	7wb	wrist sword			5	5000	cgrn	cgrn			so0		so0	pr29		190	320	pr65		10	15	pr41		30	50	pr80		30	30	pr124	19	1	2	pr124	20	1	2																					pr268	358	100	1	0
+Horizon's Tornado	100	1		5		72	64	7fl	scourge			5	5000	dpur	dpur			so0		so0	pr29		250	300	pr56		50	50	pr86		30	30	pr127	245	20	28	pr123	240	3	5	pr123	245	3	5																					pr269	358	100	1	0
+Stone Crusher	100	1		4		76	68	7wh	legendary mallet			5	5000	whit				so0		so0	pr29		280	320	pr7		20	30	pr108		40	40	pr93		25	25	pr97		-50	-50	pr89		10	30	pr348		10	20																	pr269	358	100	1	0
+Jadetalon	100	1		1		74	66	7wb	wrist sword			5	5000	cgrn	cgrn			so0		so0	pr29		240	320	pr65		10	15	pr41		30	50	pr80		30	30	pr124	19	1	2	pr124	20	1	2																					pr269	358	100	1	0
 Shadowdancer	100	1		1		79	71	uhb	myrmidon greaves			5	5000	blac	blac			so0		so0	pr5		70	100	pr77		30	30	pr80		30	30	pr8		15	25	pr124	19	1	2	pr75		-20	-20																									0
 Cerebus	100	1		1		71	63	drb	blood spirit			5	5000	bwht	bwht			so0		so0	pr5		130	140	pr124	16	2	4	pr66		7	10	pr96		60	120	pr107		33	33	pr123	232	1	2	pr113		33	33	pr123	242	1	2																	0
-Tyrael's Might	100	1		1		87	84	uar	sacred armor	1		5	5000	dblu	dblu		invaaru	so0		so0	pr75		-100	-100	pr242		1	1	pr5		120	150	pr99		100	150	pr98		100	150	pr115		1	1	pr77		45	45	pr41		20	30	pr7		20	30													0
-Souldrain	100	1		1		82	74	umg	vambraces			5	5000	dred	dred			so0		so0	pr5		90	120	pr65		4	7	pr66		4	7	pr53		-150	-150	pr97		-50	-100	pr347		5	10																									0
-Runemaster	100	1		1		80	72	72a	ettin axe			5	5000	lblu	lblu			so0		so0	pr29		220	270	pr133		3	5	pr36		5	5	pr115		1	1																													pr268	358	100	1	0
-Deathcleaver	100	1		1		78	70	7wa	berserker axe			5	5000	dred				so0		so0	pr29		280	330	pr113		66	66	pr93		33	33	pr56		40	40	pr253		6	9	pr27		15	30																					pr268	358	100	1	0
-Executioner's Justice	100	1		1		83	75	7gi	glorious axe			5	5000	blac	blac			so0		so0	pr29		270	320	pr108		25	25	pr93		33	33	pr258	442	50	18	pr56		30	30																									pr268	358	100	1	0
-Stoneraven	100	1		1		72	64	amd	matriarchal spear			5	5000	dgry				so0		so0	pr29		330	380	pr136		101	187	pr41		30	50	pr0		400	600	pr124	2	2	4																									pr268	358	100	1	0
+Tyrael's Might	100	1		1		87	84	uar	sacred armor	1		5	5000	dblu	dblu		invaaru	so0		so0	pr75		-100	-100	pr242		1	1	pr5		120	150	pr99		125	175	pr98		125	175	pr115		1	1	pr77		45	45	pr41		20	30	pr7		20	30													0
+Souldrain	100	1		1		82	74	umg	vambraces			5	5000	dred	dred			so0		so0	pr5		90	120	pr65		2	4	pr66		2	4	pr53		-300	-300	pr97		-50	-50	pr348		5	8																									0
+Runemaster	100	1		1		80	72	72a	ettin axe			5	5000	lblu	lblu			so0		so0	pr29		220	270	pr133		4	5	pr36		5	5	pr115		1	1	pr56		30	30																									pr269	358	100	1	0
+Deathcleaver	100	1		1		78	70	7wa	berserker axe			5	5000	dred				so0		so0	pr29		280	330	pr113		66	66	pr93		33	33	pr56		40	40	pr254		6	9	pr27		15	30																					pr269	358	100	1	0
+Executioner's Justice	100	1		1		83	75	7gi	glorious axe			5	5000	blac	blac			so0		so0	pr29		270	320	pr108		25	25	pr93		33	33	pr259	442	50	18	pr56		30	30																									pr269	358	100	1	0
+Stoneraven	100	1		1		72	64	amd	matriarchal spear			5	5000	dgry				so0		so0	pr29		330	380	pr136		101	187	pr41		30	50	pr0		400	600	pr124	2	3	4	pr56		40	40																					pr269	358	100	1	0
 Leviathan	100	1		1		73	65	uld	kraken shell			5	5000	cgrn	cgrn			so0		so0	pr5		170	200	pr0		100	150	pr4		20	30	pr7		40	50	pr242		1	1																													0
 Larzuk's Champion	100			1								5	5000	lgry		flphmr	invhfh	so0		so0																																																	0
-Wisp	100	1		1		84	76	rin	ring			5	5000	bwht	bwht			so0		so0	pr45		4	6	pr104		1	1	pr59		8	12	pr265	236	1	3	pr265	246	1	3																													0
-Gargoyle's Bite	100	1		1		78	70	7ts	winged harpoon			5	5000	cgrn	cgrn			so0		so0	pr29		180	330	pr235		15	25	pr275		3	4	pr66		9	15																													pr268	358	100	1	0
-Lacerator	100	1		1		76	68	7b8	winged axe			5	5000	blac	blac			so0		so0	pr29		200	260	pr127	442	33	16	pr56		30	30	pr94		1	1	pr107		33	33																									pr268	358	100	1	0
-Mang Song's Lesson	100	1		1		86	82	6ws	archon staff			5	5000	dgld	dgld		inv8wsu	so0		so0	pr104		8	8	pr232		10	15	pr233		10	15	pr234		10	15	pr62		10	30	pr86		65	65																					pr268	358	100	1	0
-Viperfork	100	1		1		79	71	7br	war fork			5	5000	dgrn	dgrn			so0		so0	pr29		240	290	pr138	25	7168	7168	pr56		50	50	pr15		200	250					pr39		30	50	pr247		10	20	pr275		3	4													pr268	358	100	1	0
-Ethereal Edge	100	1		1		82	74	7ba	silver-edged axe			5	5000	whit	whit			so0		so0	pr29		150	180	pr56		25	25	pr44		10	12	pr98		150	200	pr111		5	10	pr15		270	350	pr264		1	1	pr242		1	1													pr268	358	100	1	0
-Demonhorn's Edge	100	1		1		69	61	bad	destroyer helm			5	5000	dgry	dgry			so0		so0	pr9		20	20	pr56		10	10	pr3		18	24	pr54		855	977	pr124	12	1	3	pr124	13	1	3	pr124	14	1	3	pr41		25	25																	0
-The Reaper's Toll	100	1		1		83	75	7s8	thresher			5	5000				invscy	so0		so0	pr29		190	290	pr127	442	33	16	pr92		1	1	pr66		11	15	pr75		-25	-25	pr113		33	33	pr137		4	44																	pr268	358	100	1	0
-Spiritkeeper	100	1		1		75	67	drd	earth spirit			5	5000					so0		so0	pr5		170	190	pr80		20	20	pr46		9	14	pr31		30	40	pr49		5	8	pr40		10	10	pr121		1	2	pr261	2	221	250	pr346		1	1													0
-Hellrack	100	1		1		84	76	6hx	colossus crossbow			5	5000	cred			invhxbu	so0		so0	pr29		180	230	pr248	33	63	324	pr56		60	60	pr96		100	150	pr133		2	4	pr123	27	3	4	pr123	16	3	5																	pr347		10	10	0
-Alma Negra	100	1		1		85	77	pac	sacred rondache			5	5000	blac	blac			so0		so0	pr5		180	210	pr83		30	30	pr68		1	2	pr16		20	20	pr6		10	18	pr96		100	150	pr29		150	200																					0
-Darkforge Spawn	100	1		1		72	64	nef	bloodlord skull			5	5000	cred	cred			so0		so0	pr5		140	180	pr86		30	30	pr12		10	20	pr31		50	50	pr117	457	6	12	pr328		1	1	pr124	8	1	2	pr80		20	20																	0
-Widowmaker	100	1		1		73	65	6sw	ward bow			5	5000	dred	dred		invswbu	so0		so0	pr29		150	350	pr113		33	33	pr92		1	1	pr119		11	11	pr265	22	3	5	pr265	12	3	5																									0
-Bloodraven's Charge	100	1		1		79	71	amb	matriarchal bow			5	5000	dgld	dgld		invswbu	so0		so0	pr29		180	330	pr96		200	300	pr120		13	13	pr124		2	3	pr243	95	5	5	pr265	7	2	3	pr345		2	2	pr326	12																			0
-Ghostflame	100	1		1		70	62	7bl	legend spike			5	5000	cblu	cblu			so0		so0	pr29		240	340	pr92		1	1	pr136		108	216	pr65		10	15	pr264		1	1	pr242		1	1	pr73		2	2	pr244		15	25									pr113		20	20	pr268	358	100	1	0
-Shadowkiller	100	1		1		85	78	7cs	battle cestus			5	5000				invaxfu	so0		so0	pr29		170	270	pr93		25	25	pr106		2	2	pr110		6	12	pr127	44	33	18	pr264		1	1	pr242		1	1	pr124	19	2	4	pr85		20	20									pr268	358	100	1	0
-Gimmershred	100	1		1		78	70	7ta	flying axe			5	5000	lgrn				so0		so0	pr29		190	240	pr134		258	523	pr137	100	216	437	pr135		29	581	pr56		30	30																									pr268	358	100	1	0
+Wisp	100	1		1		84	76	rin	ring			5	5000	bwht	bwht			so0		so0	pr45		4	6	pr104		1	1	pr59		10	15	pr266	236	1	3	pr266	246	1	3																													0
+Gargoyle's Bite	100	1		1		78	70	7ts	winged harpoon			5	5000	cgrn	cgrn			so0		so0	pr29		180	330	pr235		15	25	pr276		3	4	pr66		9	15																													pr269	358	100	1	0
+Lacerator	100	1		1		76	68	7b8	winged axe			5	5000	blac	blac			so0		so0	pr29		200	260	pr127	442	33	16	pr56		30	30	pr94		1	1	pr107		33	33	pr27		20	20																					pr269	358	100	1	0
+Mang Song's Lesson	100	1		1		86	82	6ws	archon staff			5	5000	dgld	dgld		inv8wsu	so0		so0	pr104		6	6	pr232		20	30	pr233		20	30	pr234		20	30	pr62		20	30	pr86		85	85																					pr269	358	100	1	0
+Viperfork	100	1		1		79	71	7br	war fork			5	5000	dgrn	dgrn			so0		so0	pr29		240	290	pr138	25	7168	7168	pr56		50	50	pr15		200	250	pr39		30	50	pr247		10	20	pr276		3	4	pr127	83	6	32													pr269	358	100	1	0
+Ethereal Edge	100	1		1		82	74	7ba	silver-edged axe			5	5000	whit	whit			so0		so0	pr29		150	180	pr56		45	45	pr44		10	12	pr98		150	200	pr111		5	10	pr15		270	350	pr265		1	1	pr242		1	1													pr269	358	100	1	0
+Demonhorn's Edge	100	1		1		69	61	bad	destroyer helm			5	5000	dgry	dgry			so0		so0	pr5		120	160	pr56		20	20	pr3		18	24	pr54		855	977	pr124	12	2	3	pr124	13	2	3	pr124	14	2	3	pr41		25	25																	0
+The Reaper's Toll	100	1		1		83	75	7s8	thresher			5	5000				invscy	so0		so0	pr29		190	290	pr127	442	33	16	pr92		1	1	pr66		11	15	pr75		-25	-25	pr113		33	33	pr137		4	44																	pr269	358	100	1	0
+Spiritkeeper	100	1		1		75	67	drd	earth spirit			5	5000					so0		so0	pr5		170	190	pr80		20	20	pr46		9	14	pr31		30	40	pr49		5	8	pr40		10	10	pr121		1	2	pr262	2	221	250	pr347		1	1													0
+Hellrack	100	1		1		84	76	6hx	colossus crossbow			5	5000	cred			invhxbu	so0		so0	pr29		180	230	pr249	33	63	324	pr56		60	60	pr96		100	150	pr133		2	4	pr103		3	5																					pr348		10	10	0
+Alma Negra	100	1		1		85	77	pac	sacred rondache			5	5000	blac	blac			so0		so0	pr5		180	210	pr83		30	30	pr68		1	2	pr16		20	20	pr6		10	18	pr96		100	150	pr29		150	200	pr374		13	13																	0
+Darkforge Spawn	100	1		1		72	64	nef	bloodlord skull			5	5000	cred	cred			so0		so0	pr5		140	180	pr86		30	30	pr12		10	20	pr31		50	50	pr117	457	6	12	pr329		1	1	pr124	8	1	2	pr124	6	1	2																	0
+Widowmaker	100	1		1		73	65	6sw	ward bow			5	5000	dred	dred		invswbu	so0		so0	pr29		150	350	pr113		33	33	pr92		1	1	pr119		11	11	pr266	22	3	5	pr266	12	3	5																									0
+Bloodraven's Charge	100	1		1		79	71	amb	matriarchal bow			5	5000	dgld			bravenbow	so0		so0	pr29		230	330	pr96		200	300	pr120		13	13	pr124		2	3	pr243	95	15	15	pr123	7	3	4	pr346		4	4	pr327	12																			0
+Ghostflame	100	1		1		70	62	7bl	legend spike			5	5000	cblu	cblu			so0		so0	pr29		240	340	pr92		1	1	pr134		208	316	pr65		10	15	pr265		1	1	pr242		1	1	pr56		30	30	pr244		15	25									pr113		20	20	pr269	358	100	1	0
+Shadowkiller	100	1		1		85	78	7cs	battle cestus			5	5000				invaxfu	so0		so0	pr29		170	270	pr93		25	25	pr106		2	2	pr110		6	12	pr127	44	33	18	pr265		1	1	pr242		1	1	pr124	19	2	4	pr85		20	20									pr269	358	100	1	0
+Gimmershred	100	1		1		78	70	7ta	flying axe			5	5000	lgrn				so0		so0	pr29		190	240	pr134		258	523	pr137	100	216	437	pr135		29	581	pr56		30	30																									pr269	358	100	1	0
 Griffon's Eye	100	1		1		84	76	ci3	diadem			5	5000					so0		so0	pr0		100	200	pr86		25	25	pr104		1	1	pr245		10	15	pr233		15	20																													0
-Windhammer	100	1		1		76	68	7m7	ogre maul			5	5000	cblu	cblu		invmau	so0		so0	pr29		230	280	pr108		50	50	pr56		60	60	pr127	240	33	28																													pr268	358	100	1	0
-Thunderstroke	100	1		1		77	69	amf	matriarchal javelin			5	5000	dblu	dblu			so0		so0	pr29		200	250	pr135		1	511	pr127	49	20	28	pr56		15	15	pr233		15	15	pr123	20	3	3	pr124	2	2	4																	pr268	358	100	1	0
+Windhammer	100	1		1		76	68	7m7	ogre maul			5	5000	cblu	cblu		invmau	so0		so0	pr29		230	280	pr108		50	50	pr56		60	60	pr127	240	33	28																													pr269	358	100	1	0
+Thunderstroke	100	1		1		77	69	amf	matriarchal javelin			5	5000	dblu	dblu			so0		so0	pr29		200	250	pr135		1	511	pr127	49	20	28	pr56		15	15	pr233		15	15	pr123	20	3	3	pr124	2	2	4																	pr269	358	100	1	0
 Giantmaimer	100			1								5	5000	cred	cred			so0		so0																																																	0
-Demon's Arch	100	1		1		76	68	7s7	balrog spear			5	5000	cred	cred			so0		so0	pr29		210	310	pr134		232	323	pr66		6	12	pr232		10	20	pr56		30	30	pr135		1	666	pr233		10	20																	pr268	358	100	1	0
-Boneflame	100	1		1		80	72	nee	succubae skull			3	5000	dred	dred			so0		so0	pr5		120	150	pr77		20	20	pr128	77	5	3	pr69		1	3	pr41		20	30	pr253		6	12																									0
-Steelpillar	100	1		1		77	69	7p7	war pike			3	5000					so0		so0	pr29		210	260	pr56		25	25	pr93		20	20	pr5		50	80	pr179	25			pr108		25	25	pr347		6	12																	pr268	358	100	1	0
+Demon's Arch	100	1		1		76	68	7s7	balrog spear			5	5000	cred	cred			so0		so0	pr29		210	310	pr134		232	323	pr66		6	12	pr232		10	20	pr56		30	30	pr135		1	666	pr233		10	20																	pr269	358	100	1	0
+Boneflame	100	1		1		80	72	nee	succubae skull			3	5000	dred	dred			so0		so0	pr5		120	150	pr77		20	20	pr128	77	5	3	pr69		2	3	pr41		20	30	pr254		4	8	pr4		10	20																					0
+Steelpillar	100	1		1		77	69	7p7	war pike			3	5000					so0		so0	pr29		210	260	pr56		25	25	pr93		20	20	pr5		50	80	pr179	25			pr108		25	25	pr348		10	15																	pr269	358	100	1	0
 Nightwing's Veil	100	1		1		75	67	uhm	spired helm			3	5000	cblu	cblu			so0		so0	pr5		90	120	pr104		2	2	pr8		10	20	pr50		5	9	pr95		1	1	pr246		5	15	pr75		-50	-50	pr234		5	10																	0
-Crown of Ages	100	1		1		86	82	urn	corona	1		3	5000	dgld	dgld			so0		so0	pr80		30	30	pr41		20	30	pr330		75	75	pr0		100	150	pr242		1	1	pr4		10	15	pr5		50	50	pr133		1	3																	0
+Crown of Ages	100	1		1		86	82	urn	corona	1		3	5000	dgld	dgld			so0		so0	pr80		30	30	pr41		20	30	pr331		50	75	pr0		100	150	pr242		1	1	pr4		10	15	pr5		50	50	pr133		1	3																	0
 Andariel's Visage	100	1		1		85	83	usk	demonhead	1		3	5000	dred	dred			so0		so0	pr5		100	150	pr39		70	70	pr104		2	2	pr40		10	10	pr56		20	20	pr7		25	30	pr128	92	15	15	pr243	278	20	3	pr66		8	10	pr31		-30	-30									0
 Darkfear	100			1				ulm	armet			5	5000	blac			invhlmu	so0		so0																																																	0
-Dragonscale	100	1		1		84	80	pae	zakarum shield			3	5000	dgrn	dgrn			so0		so0	pr5		170	200	pr43		5	10	pr32		5	5	pr7		15	25	pr134		211	371	pr265	62	30	30	pr244		15	20	pr86		35	35																	0
-Steel Carapice	100	1		1		74	66	uul	shadow plate			3	5000	dgry	dgry			so0		so0	pr5		220	250	pr80		40	40	pr3		19	24	pr35		40	60	pr179	10			pr128	444	4	26	pr104		1	2																					0
-Medusa's Gaze	100	1		1		84	76	uow	aegis			3	5000	lred	lred		invtowu	so0		so0	pr5		150	180	pr114		20	20	pr128	447	10	7	pr66		5	9	pr273		1	2	pr35		40	80	pr86		25	40	pr75		-50	-50																	0
+Dragonscale	100	1		1		84	80	pae	zakarum shield			3	5000	dgrn	dgrn			so0		so0	pr5		170	200	pr43		5	10	pr32		5	5	pr7		15	25	pr134		211	371	pr266	62	30	30	pr244		15	20	pr86		35	35																	0
+Steel Carapice	100	1		1		74	66	uul	shadow plate			3	5000	dgry	dgry			so0		so0	pr5		220	250	pr80		40	40	pr3		19	24	pr35		40	60	pr179	10			pr128	444	4	26	pr104		1	2	pr54		1200	1600																	0
+Medusa's Gaze	100	1		1		84	76	uow	aegis			3	5000	lred	lred		invtowu	so0		so0	pr5		150	180	pr114		20	20	pr128	447	10	7	pr66		5	9	pr274		1	2	pr35		40	80	pr86		25	40	pr75		-25	-25																	0
 Ravenlore	100	1		1		82	74	dre	sky spirit			3	5000	dgld	dgld			so0		so0	pr5		120	150	pr41		15	25	pr124	17	3	3	pr10		20	30	pr232		10	20	pr123	221	7	7																									0
-Boneshade	100	1		1		84	79	7bw	lich wand			3	5000	dgry	dgry		invbwnu	so0		so0	pr69		2	2	pr86		25	25	pr123	67	4	5	pr123	68	4	5	pr123	84	2	3	pr123	93	1	2	pr123	78	2	3																					0
+Boneshade	100	1		1		84	79	7bw	lich wand			3	5000	dgry	dgry		invbwnu	so0		so0	pr69		2	2	pr86		25	25	pr123	67	4	5	pr123	68	4	5	pr123	84	2	3	pr123	93	2	2	pr123	78	2	3																					0
 Nethercrow	100			1								3	5000	cblu	cblu			so0		so0																																																	0
-Flamebellow	100	1		1		79	71	7gs	balrog blade			3	5000	cred	cred		invgisu	so0		so0	pr29		170	240	pr134		233	482	pr103		3	3	pr43		5	5	pr127	225	12	16	pr7		10	20	pr9		5	10	pr125	102	22	28													pr268	358	100	1	0
-Fathom	100	1		1		81	73	obf	dimensional shard			3	5000	lblu				so0		so0	pr70		3	3	pr246		15	30	pr86		20	30	pr31		25	40	pr33		25	40	pr253		2	5																									0
-Wolfhowl	100	1		1		85	79	bac	fury visor			3	5000	cred	cred			so0		so0	pr5		120	150	pr124	14	2	3	pr7		8	15	pr8		8	15	pr9		8	15	pr265	223	3	6	pr265	237	8	15	pr265	248	3	6	pr265	232	3	6													0
-Spirit Ward	100	1		1		76	68	uts	ward			3	5000	dblu	dblu		invgtsu	so0		so0	pr5		130	180	pr50		6	11	pr41		20	30	pr16		20	30	pr83		25	25	pr128	391	35	8	pr272			6																					0
+Flamebellow	100	1		1		79	71	7gs	balrog blade			3	5000	cred	cred		invgisu	so0		so0	pr29		170	240	pr134		233	482	pr103		3	3	pr43		5	5	pr127	225	12	16	pr7		10	20	pr9		5	10	pr125	102	24	28													pr269	358	100	1	0
+Fathom	100	1		1		81	73	obf	dimensional shard			3	5000	lblu				so0		so0	pr70		3	3	pr246		15	30	pr86		30	30	pr31		25	40	pr33		25	40	pr254		2	5																									0
+Wolfhowl	100	1		1		85	79	bac	fury visor			3	5000	cred	cred			so0		so0	pr5		120	150	pr124	14	2	3	pr7		8	15	pr8		8	15	pr9		8	15	pr266	223	3	6	pr266	237	8	15	pr266	248	3	6	pr266	232	3	6													0
+Spirit Ward	100	1		1		76	68	uts	ward			3	5000	dblu	dblu		invgtsu	so0		so0	pr5		130	180	pr50		6	11	pr41		20	30	pr16		20	30	pr83		25	25	pr128	391	35	10	pr273			6																					0
 Kira's Guardian	100	1		1		85	77	ci2	tiara			3	5000	blac	blac			so0		so0	pr0		50	120	pr41		25	45	pr115		1	1	pr80		20	20	pr233		5	10	pr234		5	10	pr232		5	10																					0
-Ormus' Robes	100	1		1		83	75	uui	dusk shroud			3	5000	blac	blac			so0		so0	pr0		10	20	pr86		20	20	pr244		10	15	pr246		10	15	pr245		10	15	pr62		10	15	pr261	3	36	60																					0
-Gheed's Fortune	100	1		1		70	62	cm3	charm		1	3	5000	lgld				so0		so0	pr59		20	40	pr58		80	160	pr254		10	15																																					0
-Stormlash	100	1		1		86	82	7fl	scourge	1		3	5000	dgry	dgry			so0		so0	pr29		240	340	pr56		30	30	pr127	42	15	10	pr127	245	20	18	pr135		1	473	pr105		100	130	pr108		33	33	pr46		3	9													pr268	358	100	1	0
-Halaberd's Reign	100	1		1		85	77	bae	conqueror crown			3	5000					so0		so0	pr5		140	170	pr124	13	2	3	pr71		2	2	pr80		20	20	pr53		25	33	pr123	149	2	3	pr123	146	2	3	pr151	9			pr4		8	12													0
+Ormus' Robes	100	1		1		83	75	uui	dusk shroud			3	5000	blac	blac			so0		so0	pr0		10	20	pr86		20	20	pr244		10	15	pr246		10	15	pr245		10	15	pr62		10	15	pr262	3	36	60																					0
+Gheed's Fortune	100	1		1		70	62	cm3	charm		1	3	5000	lgld				so0		so0	pr59		20	40	pr58		80	160	pr255		10	15																																					0
+Stormlash	100	1		1		86	82	7fl	scourge	1		3	5000	dgry	dgry			so0		so0	pr29		240	340	pr56		30	30	pr127	42	15	10	pr127	245	20	18	pr135		1	473	pr105		200	360	pr108		33	33	pr46		3	9													pr269	358	100	1	0
+Halaberd's Reign	100	1		1		85	77	bae	conqueror crown			3	5000					so0		so0	pr5		140	170	pr124	13	2	3	pr71		2	2	pr80		20	20	pr4		10	15	pr123	149	2	3	pr123	146	2	3	pr151	9																			0
 Warriv's Warder	100			1								3	5000					so0		so0																																																	0
 Spike Thorn	100	1		1		78	70	upk	blade barrier			5	5000	dyel	dyel		invspku	so0		so0	pr5		120	150	pr165	224			pr51		250	250	pr80		30	30	pr4		10	20	pr140		20	50																									0
-Dracul's Grasp	100	1		1		84	76	uvg	vampirebone gloves			5	5000	dred	dred			so0		so0	pr5		90	120	pr66		7	10	pr107		25	25	pr56		20	20	pr253		5	10	pr7		10	15																									0
-Frostwind	100	1		1		78	70	7ls	cryptic sword			5	5000	cblu	cblu		invlsdu	so0		so0	pr29		220	270	pr106		4	4	pr95		1	1	pr137	150	237	486	pr56		25	25	pr49		7	15	pr123	230	4	6	pr273		2	2													pr268	358	100	1	0
+Dracul's Grasp	100	1		1		84	76	uvg	vampirebone gloves			5	5000	dred	dred			so0		so0	pr5		90	120	pr66		7	10	pr107		25	25	pr56		20	20	pr254		5	10	pr7		10	15																									0
+Frostwind	100	1		1		78	70	7ls	cryptic sword			5	5000	cblu	cblu		invlsdu	so0		so0	pr29		220	270	pr106		4	4	pr95		1	1	pr137	150	237	486	pr56		25	25	pr49		7	15	pr123	230	4	6	pr274		2	3													pr269	358	100	1	0
 Templar's Might	100	1		8		82	74	uar	sacred armor			5	5000	cgrn	cgrn		invaaru	so0		so0	pr5		170	220	pr80		20	20	pr1		250	300	pr63		40	50	pr7		20	30	pr9		20	30	pr104		1	1	pr125	98	4	8																	0
-Eschuta's temper	100	1		1		80	72	obc	eldritch orb			5	5000	cred				so0		so0	pr70		1	3	pr86		40	40	pr244		10	20	pr245		10	20	pr10		20	30	pr232		4	10	pr233		4	10																					0
-Firelizard's Talons	100	1		1		75	67	7lw	feral claws			5	5000					so0		so0	pr29		200	270	pr56		15	15	pr124	20	1	2	pr134		236	480	pr31		30	60	pr103		2	3	pr232		5	10																	pr268	358	100	1	0
-Sandstorm Trek	100	1		1		72	64	uvb	scarabshell boots			5	5000					so0		so0	pr5		140	170	pr77		30	30	pr80		20	20	pr169	8			pr54		680	740	pr39		40	70	pr179	10			pr7		10	15	pr9		10	15													0
+Eschuta's temper	100	1		1		80	72	obc	eldritch orb			5	5000	cred				so0		so0	pr70		1	3	pr86		40	40	pr244		10	20	pr245		10	20	pr10		20	30	pr232		5	10	pr233		5	10																					0
+Firelizard's Talons	100	1		1		75	67	7lw	feral claws			5	5000					so0		so0	pr29		200	270	pr56		15	15	pr124	20	1	2	pr134		236	480	pr31		30	60	pr103		2	3	pr232		5	10																	pr269	358	100	1	0
+Sandstorm Trek	100	1		1		72	64	uvb	scarabshell boots			5	5000					so0		so0	pr5		140	170	pr77		30	30	pr80		20	20	pr169	8			pr54		480	540	pr39		40	70	pr179	10			pr7		10	15	pr9		10	15	pr116		50	50									0
 Marrowwalk	100	1		1		74	66	umb	boneweave boots			5	5000	dgry				so0		so0	pr5		170	200	pr77		20	20	pr61		10	10	pr62		10	20	pr115		1	1	pr7		10	20	pr8		17	17	pr123	69	1	2																	0
-Heaven's Light	100	1		1		69	61	7sc	mighty scepter			5	5000	cblu	cblu			so0		so0	pr29		275	325	pr56		20	20	pr93		33	33	pr73		3	3	pr111		15	20	pr108		33	33	pr133		1	3	pr68		2	3													pr268	358	100	1	0
+Heaven's Light	100	1		1		69	61	7sc	mighty scepter			5	5000	cblu	cblu			so0		so0	pr29		275	325	pr56		20	20	pr93		33	33	pr73		3	3	pr111		15	20	pr108		33	33	pr133		1	3	pr68		2	3													pr269	358	100	1	0
 Merman's Speed	100																	so0		so0																																																	0
 Arachnid Mesh	100	1		1		87	80	ulc	spiderweb sash			5	5000	blac	blac			so0		so0	pr5		90	120	pr86		10	20	pr243	278	31	3	pr104		1	1	pr114		20	20	pr12		5	10																									0
 Nosferatu's Coil	100	1		1		68	51	uvc	vampirefang belt			5	5000					so0		so0	pr7		10	15	pr110		2	2	pr114		10	10	pr66		3	6	pr56		20	20	pr113		10	10																									0
-Metalgrid	100	1		2		85	81	amu	amulet			5	5000					so0		so0	pr54		700	900	pr41		25	35	pr15		400	450	pr265	90	16	16	pr243	444	20	12																													0
+Metalgrid	100	1		2		85	81	amu	amulet			5	5000					so0		so0	pr54		700	900	pr41		25	35	pr15		400	450	pr266	90	16	16	pr243	444	20	12																													0
 Verdugo's Hearty Cord	100	1		1		71	63	umc	mithril coil			5	5000	blac	blac			so0		so0	pr5		90	140	pr9		30	40	pr63		100	120	pr80		10	10	pr4		10	15	pr53		10	13																									0
 Sigurd's Staunch	100			1								5	5000					so0		so0																																																	0
-Carrion Wind	100	1		3		68	60	rin	ring			3	5000					so0		so0	pr1		100	160	pr66		4	6	pr39		40	55	pr54		460	580	pr243	222	35	21	pr127	240	8	18	pr77		5	10																					0
+Carrion Wind	100	1		3		68	60	rin	ring			3	5000					so0		so0	pr1		100	160	pr66		4	6	pr39		40	55	pr54		160	280	pr243	222	35	21	pr127	240	8	18	pr77		10	10																					0
 Giantskull	100	1		1		73	65	uh9	bone visage			3	5000	lgry	lgry		invbhm	so0		so0	pr0		250	320	pr7		25	35	pr108		25	25	pr118		25	35	pr60		1	1	pr29		30	60																									0
-Ironward	100	1		1		68	60	7ws	caduceus			3	5000	blac	blac			so0		so0	pr29		240	290	pr114		15	15	pr96		150	200	pr56		40	40	pr136		160	480	pr3		4	7	pr89		60	105	pr124	9	2	4	pr108		33	33									pr268	358	100	1	0
-Annihilus	100	1				130	70	cm1	charm		1	3	5000			flpmss	invmss	so217	12	so217	pr104		1	1	pr9		30	60	pr10		10	20	pr41		10	20	pr252		5	10																													0
-Arioc's Needle	100	1		1		85	81	7sr	hyperion spear			3	5000					so0		so0	pr29		240	290	pr138	100	1008	1008	pr113		50	50	pr92		1	1	pr104		3	5	pr56		30	30																					pr268	358	100	1	0
-Cranebeak	100	1		1		71	63	7mp	war spike			3	5000	dgry			invmpiu	so0		so0	pr29		240	300	pr135		1	305	pr56		40	40	pr93		25	25	pr59		30	60	pr265	221	8	8																					pr268	358	100	1	0
-Nord's Tenderizer	100	1		1		76	68	7cl	truncheon			3	5000				invclbu	so0		so0	pr29		270	330	pr106		2	4	pr56		25	25	pr243	59	12	16	pr96		150	180	pr49		5	15	pr137	125	205	455																	pr268	358	100	1	0
-Earthshifter	100	1		1		77	69	7gm	thunder maul			3	5000					so0		so0	pr29		250	340	pr127	234	25	28	pr108		33	33	pr56		40	40	pr243	244	30	14	pr124	17	7	7	pr86		60	60	pr75		-25	-25													pr268	358	100	1	0
-Wraithflight	100	1		1		84	76	7gl	ghost glaive			3	5000	dblu	dblu			so0		so0	pr29		150	290					pr66		9	13	pr110		5	15	pr264		1	1	pr118		30	30																					pr268	358	100	1	0
-Bonehew	100	1		1		72	64	7o7	ogre axe			3	5000	bwht	bwht			so0		so0	pr29		270	320	pr56		30	30	pr243	74	30	14	pr127	84	50	22	pr94		1	1	pr133		2	2																					pr268	358	100	1	0
-Ondal's Wisdom	100	1		1		74	66	6cs	elder staff			3	5000				invcstu	so0		so0	pr86		85	85	pr10		40	50	pr104		2	4	pr0		750	950	pr6		10	16																									pr268	358	100	1	0
-The Reedeemer	100	1		1		80	72	7sc	mighty scepter			3	5000					so0		so0	pr29		250	300	pr98		200	250	pr68		2	2	pr75		-60	-60	pr123	124	2	4	pr123	101	2	4	pr73		3	3	pr93		33	33	pr89		60	120	pr123	119	2	4					pr268	358	100	1	0
-Headhunter's Glory	100	1		1		83	75	ush	troll nest			3	5000				invbshu	so0		so0	pr0		320	420	pr1		300	350	pr39		30	40	pr133		1	3	pr31		20	30	pr253		5	7	pr126	442	8	15	pr15		280	445	pr77		25	25													0
-Steelrend	100	1		1		78	70	uhg	ogre gauntlets			3	5000					so0		so0	pr0		170	210	pr7		15	20	pr29		40	80	pr108		10	15																													pr268	358	100	1	0
-Rainbow Facet	100	1		1		85	49	jew	jewel			3	5000					so0		so0	pr135		1	74	pr233		3	5	pr245		3	5	pr259	53	100	47																																	0
-Rainbow Facet	100	1		1		85	49	jew	jewel			3	5000					so0		so0	pr137	3	24	38	pr234		3	5	pr246		3	5	pr259	59	100	37																																	0
-Rainbow Facet	100	1		1		85	49	jew	jewel			3	5000					so0		so0	pr134		17	45	pr232		3	5	pr244		3	5	pr259	56	100	31																																	0
-Rainbow Facet	100	1		1		85	49	jew	jewel			3	5000					so0		so0	pr138	50	187	187	pr235		3	5	pr247		3	5	pr259	92	100	51																																	0
-Rainbow Facet	100	1		1		85	49	jew	jewel			3	5000					so0		so0	pr135		1	74	pr233		3	5	pr245		3	5	pr260	48	100	41																																	0
-Rainbow Facet	100	1		1		85	49	jew	jewel			3	5000					so0		so0	pr137	3	24	38	pr234		3	5	pr246		3	5	pr260	44	100	43																																	0
-Rainbow Facet	100	1		1		85	49	jew	jewel			3	5000					so0		so0	pr134		17	45	pr232		3	5	pr244		3	5	pr260	46	100	29																																	0
-Rainbow Facet	100	1		1		85	49	jew	jewel			3	5000					so0		so0	pr138	50	187	187	pr235		3	5	pr247		3	5	pr260	278	100	23																																	0
-Hellfire Torch	100	1				111	75	cm2	charm		1	3	5000			flptrch	invtrch	so217	12	so217	pr332			6	pr9		30	60	pr10		10	20	pr41		10	20	pr73		4	8																													0
-Itheraels Path	100	1				131	85	utb	mirrored boots			5	5000				dcloneboots	so0		so0	pr0		40	60	pr86		20	20	pr77		20	20	pr8		10	20	pr9		10	20																													0
-Overlords Helm	100	1				131	85	uhl	Giant Conch			3	5000	cred			dclonehelm	so0		so0	pr347		10	15	pr66		5	10	pr0		460	680	pr7		20	20	pr10		-30	-30	pr9		15	15	pr8		15	15																					0
-Dark Abyss	100	1				131	85	uth	Lacquered Plate			5	5000	blac			dclonearmor	so0		so0	pr5		150	250	pr253		6	10	pr110		6	10	pr35		40	60	pr31		-40	-60	pr86		50	50	pr104		2	2	pr75		-20	-20																	0
-Aidans Scar	100	1				131	85	7qr	Scissors Suwayyah			5	5000	blac			dcloneclaw	so0		so0	pr29		440	480	pr56		40	40	pr124	19	3	4	pr27		30	30	pr242		1	1	pr127	442	30	20	pr9		-20	-30	pr151	12															pr268	358	100	1	0
-Hadriels Hand	100	1				131	85	7bs	Conquest Sword			5	5000	cred			dclonesword	so0		so0	pr29		450	500	pr56		30	30	pr127	447	25	20	pr134		500	850	pr8		20	30	pr242		1	1	pr28		50	50																	pr268	358	100	1	0
+Ironward	100	1		1		68	60	7ws	caduceus			3	5000	blac	blac			so0		so0	pr29		240	290	pr114		15	15	pr96		150	200	pr56		40	40	pr136		160	480	pr3		4	7	pr89		80	125	pr124	9	3	4	pr108		33	33									pr269	358	100	1	0
+Annihilus	100	1				130	70	cm1	charm		1	3	5000			flpmss	invmss	so217	12	so217	pr104		1	1	pr9		30	60	pr10		10	20	pr41		10	20	pr253		5	10																													0
+Arioc's Needle	100	1		1		85	81	7sr	hyperion spear			3	5000					so0		so0	pr29		240	290	pr138	100	1008	1008	pr113		50	50	pr92		1	1	pr104		3	5	pr56		30	30																					pr269	358	100	1	0
+Cranebeak	100	1		1		71	63	7mp	war spike			3	5000	dgry			invmpiu	so0		so0	pr29		240	300	pr135		1	305	pr56		40	40	pr93		25	25	pr59		30	60	pr123	221	3	5																					pr269	358	100	1	0
+Nord's Tenderizer	100	1		1		76	68	7cl	truncheon			3	5000				invclbu	so0		so0	pr29		270	330	pr106		2	4	pr56		25	25	pr243	59	12	16	pr96		150	180	pr49		5	15	pr137	125	205	455																	pr269	358	100	1	0
+Earthshifter	100	1		1		77	69	7gm	thunder maul			3	5000					so0		so0	pr29		250	340	pr127	234	25	28	pr108		33	33	pr56		40	40	pr243	244	30	14	pr124	17	7	7	pr86		60	60	pr75		-25	-25													pr269	358	100	1	0
+Wraithflight	100	1		1		84	76	7gl	ghost glaive			3	5000	dblu	dblu			so0		so0	pr29		150	290					pr66		6	12	pr110		5	15	pr265		1	1	pr118		30	30																					pr269	358	100	1	0
+Bonehew	100	1		1		72	64	7o7	ogre axe			3	5000	bwht	bwht			so0		so0	pr29		270	320	pr56		30	30	pr243	74	30	14	pr127	84	50	22	pr94		1	1	pr133		1	4																					pr269	358	100	1	0
+Ondal's Wisdom	100	1		1		74	66	6cs	elder staff			3	5000				invcstu	so0		so0	pr86		105	105	pr10		40	50	pr104		2	4	pr0		750	950	pr6		10	16																									pr269	358	100	1	0
+The Reedeemer	100	1		1		80	72	7sc	mighty scepter			3	5000					so0		so0	pr29		250	300	pr98		200	250	pr68		2	2	pr75		-60	-60	pr123	124	2	4	pr123	101	2	4	pr73		3	3	pr93		33	33	pr89		60	120	pr123	119	2	4					pr269	358	100	1	0
+Headhunter's Glory	100	1		1		83	75	ush	troll nest			3	5000				invbshu	so0		so0	pr0		320	420	pr1		300	350	pr39		30	40	pr133		1	3	pr31		20	30	pr254		5	7	pr126	442	16	15	pr15		280	445	pr77		25	25													0
+Steelrend	100	1		1		78	70	uhg	ogre gauntlets			3	5000					so0		so0	pr0		170	210	pr7		15	20	pr29		50	80	pr108		10	20	pr54		250	250																									pr269	358	100	1	0
+Rainbow Facet	100	1		1		85	49	jew	jewel			3	5000					so0		so0	pr135		1	74	pr233		3	5	pr245		3	5	pr260	53	100	47																																	0
+Rainbow Facet	100	1		1		85	49	jew	jewel			3	5000					so0		so0	pr137	3	24	38	pr234		3	5	pr246		3	5	pr260	59	100	37																																	0
+Rainbow Facet	100	1		1		85	49	jew	jewel			3	5000					so0		so0	pr134		17	45	pr232		3	5	pr244		3	5	pr260	56	100	31																																	0
+Rainbow Facet	100	1		1		85	49	jew	jewel			3	5000					so0		so0	pr138	50	187	187	pr235		3	5	pr247		3	5	pr260	92	100	51																																	0
+Rainbow Facet	100	1		1		85	49	jew	jewel			3	5000					so0		so0	pr135		1	74	pr233		3	5	pr245		3	5	pr261	48	100	41																																	0
+Rainbow Facet	100	1		1		85	49	jew	jewel			3	5000					so0		so0	pr137	3	24	38	pr234		3	5	pr246		3	5	pr261	44	100	43																																	0
+Rainbow Facet	100	1		1		85	49	jew	jewel			3	5000					so0		so0	pr134		17	45	pr232		3	5	pr244		3	5	pr261	46	100	29																																	0
+Rainbow Facet	100	1		1		85	49	jew	jewel			3	5000					so0		so0	pr138	50	187	187	pr235		3	5	pr247		3	5	pr261	278	100	23																																	0
+Hellfire Torch	100	1				111	75	cm2	charm		1	3	5000			flptrch	invtrch	so217	12	so217	pr333			6	pr9		30	60	pr10		10	20	pr41		10	20	pr73		4	8																													0
+Itheraels Path	100	1				131	85	utb	mirrored boots			5	5000				dcloneboots	so0		so0	pr0		40	60	pr86		20	20	pr77		20	20	pr8		10	20	pr9		10	20	pr80		20	20																									0
+Overlords Helm	100	1				131	85	uhl	Giant Conch			3	5000	cred			dclonehelm	so0		so0	pr348		15	20	pr66		5	10	pr0		460	680	pr7		20	20	pr10		-30	-30	pr9		15	15	pr8		15	15																					0
+Dark Abyss	100	1				131	85	uth	Lacquered Plate			5	5000	blac			dclonearmor	so0		so0	pr5		150	250	pr254		6	10	pr110		6	10	pr35		40	60	pr31		-40	-60	pr86		50	50	pr104		2	2	pr75		-20	-20																	0
+Aidans Scar	100	1				131	85	7qr	Scissors Suwayyah			5	5000	blac			dcloneclaw	so0		so0	pr29		440	480	pr56		40	40	pr124	19	3	4	pr27		30	30	pr242		1	1	pr127	442	30	20	pr9		-20	-30	pr151	12															pr269	358	100	1	0
+Hadriels Hand	100	1				131	85	7bs	Conquest Sword			5	5000	cred			dclonesword	so0		so0	pr29		450	500	pr56		30	30	pr127	447	25	20	pr134		500	850	pr8		20	30	pr242		1	1	pr28		50	50																	pr269	358	100	1	0
+True Silver	100	1		1		24	20	am5	Maiden Javelin			3	5000	bwht			truesilver	so0		so0	pr29		80	120	pr59		25	45	pr56		40	40	pr108		10	15	pr145	18																											pr269	358	100	1	0
+Quetzalcoatl	100	1		1		35	29	dr2	Hawk Helm			3	5000	cred			Quetzalcoatl	so0		so0	pr5		50	80	pr121		1	2	pr86		10	10	pr254		2	4	pr35		10	25	pr368		50	50																									0
+Cyclopean Roar	100	1		1		34	28	ba6	Jawbone Visor			3	5000	lgld			Cyclopean	so0		so0	pr348		5	10	pr328		20	20	pr77		20	20	pr127	146	10	8	pr124	14	2	2	pr5		90	145																									0
+Sankekur's Fall	100	1		1		37	29	pa3	Heraldic Shield			3	5000	lgld			Sankekur	so0		so0	pr137	150	55	90	pr134		40	120	pr135		1	185	pr5		120	165	pr6		2	5	pr92		1	1	pr110		2	4																					0
+Mage Slayer	100	1		1		32	27	9ar	Quhab			3	5000	lgld			mageslayer	so0		so0	pr146	20			pr123	275	2	2	pr80		20	20	pr125	113	3	6	pr7		10	15	pr73		6	6																					pr269	358	100	1	0
+Kalans Legacy	100	1		1		30	26	ne6	Mummified Trophy			3	5000	cgrn			kalans	so0		so0	pr69		1	1	pr0		40	75	pr83		20	20	pr16		20	20	pr133		1	3	pr125	115	5	8																									0
+Tempest	100	1		1		28	25	ob6	Glowing Orb			3	5000	dgld			sorcorb	so0		so0	pr70		1	2	pr128	44	8	12	pr11		70	115	pr86		30	30	pr62		20	30	pr12		20	20	pr128	58	30	16																					0

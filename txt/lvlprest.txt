@@ -1095,12 +1095,12 @@ lp1091	1091	137	1	1	1		1	1				1	1	-5	1	Expansion/Map/UberDiabloLvl.ds1	0	0	0	0	0
 lp1092	1092	138	1		1		1	1				1		-4	6	Expansion/Map/Mesa1.ds1	Expansion/Map/Mesa2.ds1	Expansion/Map/Mesa3.ds1	Expansion/Map/Mesa4.ds1	Expansion/Map/Mesa5.ds1	Expansion/Map/Mesa6.ds1	511	0	1
 lp1093	1093	139	1	1	1	1	1	1				1		-4	2	Expansion/Map/Siege1.ds1	Expansion/Map/Siege2.ds1	0	0	0	0	2047	0	1
 lp1094	1094	140	1				1	1				1		-4	6	Expansion/Map/Palace1.ds1	Expansion/Map/Palace2.ds1	Expansion/Map/Palace3.ds1	Expansion/Map/Palace4.ds1	Expansion/Map/Palace5.ds1	Expansion/Map/Palace6.ds1	67	0	1
-lp1095	1095	141	1	1			1	1				1		-4	6	Expansion/Map/SewerMap1.ds1	Expansion/Map/SewerMap2.ds1	Expansion/Map/SewerMap3.ds1	Expansion/Map/SewerMap4.ds1	Expansion/Map/SewerMap5.ds1	Expansion/Map/SewerMap6.ds1	7	0	1
-lp1096	1096	142	1				1	1				1		-4	2	Expansion/Map/ArcaneMap.ds1	Expansion/Map/ArcaneMap2.ds1	0	0	0	0	1	0	1
+lp1095	1095	141	1	1			1	1				1		-4	3	Expansion/Map/SewerMap1.ds1	Expansion/Map/SewerMap2.ds1	Expansion/Map/SewerMap3.ds1	0	0	0	7	0	1
+lp1096	1096	142	1				1	1				1		-4	2	Expansion/Map/ArcaneMap.ds1	Expansion/Map/ArcaneMap2.ds1	0	0	0	0	3	0	1
 lp1097	1097	143	1	1	1		1	1				1		-4	3	Expansion/Map/KurastOpenWide.ds1	Expansion/Map/KurastOpenWide2.ds1	Expansion/Map/KurastOpenWide3.ds1	0	0	0	16383	0	1
 lp1098	1098	144	1		1		1	1				1		-4	4	Expansion/Map/RiverOfBlood.ds1	Expansion/Map/RiverOfBlood2.ds1	Expansion/Map/RiverOfBlood3.ds1	Expansion/Map/RiverOfBlood4.ds1	0	0	53256	0	1
-lp1099	1099	145	1	1	1	1	1	1				1		-4	6	Expansion/Map/Lava1.ds1	Expansion/Map/Lava2.ds1	Expansion/Map/Lava3.ds1	Expansion/Map/Lava4.ds1	Expansion/Map/Lava5.ds1	Expansion/Map/Lava6.ds1	2047	0	1
-lp1100	1100	146	1				1	1				1		-4	3	Expansion/Map/frozenriver1.ds1	Expansion/Map/frozenriver1.ds1	Expansion/Map/frozenriver1.ds1	0	0	0	1	0	1
+lp1099	1099	145	1	1	1	1	1	1				1		-4	3	Expansion/Map/Lava1.ds1	Expansion/Map/Lava3.ds1	Expansion/Map/Lava5.ds1	0	0	0	2047	0	1
+lp1100	1100	146	1				1	1				1		-4	3	Expansion/Map/frozenriver1.ds1	Expansion/Map/frozenriver2.ds1	Expansion/Map/frozenriver3.ds1	0	0	0	1	0	1
 lp1101	1101	147	1		1		1	1				1	3	5	3	Expansion/Map/HiddenValley1.ds1	Expansion/Map/HiddenValley2.ds1	Expansion/Map/HiddenValley3.ds1	0	0	0	4194288	0	1
 lp1102	1102	148	1	1	1		1	1				1		-4	3	Expansion/Map/Jungle1.ds1	Expansion/Map/Jungle2.ds1	Expansion/Map/Jungle3.ds1	0	0	0	15078	0	1
 lp1103	1103	149	1	1	1		1	1				1		-4	3	Expansion/Map/Fortress1.ds1	Expansion/Map/Fortress2.ds1	Expansion/Map/Fortress3.ds1	0	0	0	134217727	0	1
@@ -1109,3 +1109,7 @@ lp1105	1105	151	1				1	1				1			4	Expansion/Map/Tomb1.ds1	Expansion/Map/Tomb2.ds
 lp1106	1106	152	1	1				1				1		-4	3	Expansion/Map/Monastery.ds1	Expansion/Map/MonasteryV1.ds1	Expansion/Map/MonasteryV2.ds1	0	0	0	2097151	0	1
 lp1107	1107	153	1	1				1				1			1	Expansion/Map/MonasteryBase.ds1	0	0	0	0	0	57	0	1
 lp1108	1108	154	1		1			1				1	2	-4	3	Expansion/Map/TristMap.ds1	Expansion/Map/TristMapV2.ds1	Expansion/Map/TristMapV3.ds1	0	0	0	536870655	1	
+lp1109	1109	155	1	1	1			1				1	2	-4	3	Expansion/Map/Caldeum.ds1	Expansion/Map/Caldeum2.ds1	Expansion/Map/Caldeum3.ds1	0	0	0	32767	1	
+lp1110	1110	156	1		1			1				1	2	-4	3	Expansion/Map/Pandemonium.ds1	Expansion/Map/Pandemonium2.ds1	Expansion/Map/Pandemonium3.ds1	0	0	0	8191	1	
+lp1111	1111	157	1	1	1			1				1	2	-4	3	Expansion/Map/Pvpmap2.ds1	0	0	0	0	0	32767	1	
+lp1112	1112	158	1	1	1	1	1	1				1		-4	3	Expansion/Map/Spider_Dungeon1.ds1	Expansion/Map/Spider_Dungeon2.ds1	Expansion/Map/Spider_Dungeon3.ds1	0	0	0	3	0	1

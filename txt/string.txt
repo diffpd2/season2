@@ -4581,7 +4581,7 @@ skillld51	blocks or burns your enemies}creates a wall of flame that
 skillan51	Fire Wall
 skillname52	Enchant Fire
 skillsd52	enchants melee or ranged weapons with fire
-skillld52	adds one-third fire damage to ranged weapons}adds fire damage to melee weapons}enchants equipped weapon of targeted character or minion
+skillld52	half efficiency for all allies}adds one-third fire damage to ranged weapons}adds fire damage to melee weapons}enchants equipped weapon of targeted character or minion
 skillan52	Enchant Fire
 skillname53	Chain Lightning
 skillsd53	creates a bolt of lightning that arcs
@@ -4785,7 +4785,7 @@ skillld102	with heavenly flames}when active, aura damages nearby enemies
 skillan102	Holy Fire
 skillname103	Thorns
 skillsd103	aura - reflects damage back at enemies
-skillld103	back at your attacker}when active, aura reflects damage done to you
+skillld103	back at your attacker}when active, aura reflects physical damage
 skillan103	Thorns
 skillname104	Defiance
 skillsd104	aura - increases defense
@@ -4817,7 +4817,7 @@ skillld110	for you and your party}received and increases lightning damage dealt}
 skillan110	R. Lightning
 skillname111	Vengeance
 skillsd111	attacks add elemental damage
-skillld111	to each successful attack}fire, lightning and cold damage are added
+skillld111	damage from items}this effect also carries and increases elemental}deals fire, lightning, and cold damage in an area
 skillan111	Vengeance
 skillname112	Blessed Hammer
 skillsd112	summon a spiraling magic hammer
@@ -4981,7 +4981,7 @@ skillld151	legions of your enemies}that cuts a path through the}a whirling dance
 skillan151	Whirlwind
 skillname152	Berserk
 skillsd152	powerful but reckless attack
-skillld152	defense rating and physical damage resistance}increases damage and attack rating but decreases}a powerful but reckless attack that
+skillld152	requres you to equip two weapons}defense rating and physical damage resistance}increases damage and attack rating but decreases}a powerful but reckless attack that
 skillan152	Berserk
 skillname153	Natural Resistance
 skillsd153	passive - increases natural resistances
@@ -5395,12 +5395,13 @@ t13	Bastion Keep Map
 t21	Phlegethon Map
 t22	Torajan Jungle Map
 t23	Arreat Battlefield Map
-t24	Blood Moon Map
+t24	Tomb of Zoltun Kulle Map
 t31	River of Blood Map
 t32	Throne of Insanity Map
-t33	Sewers of Harrogath Map
+t33	Reziarfg's Lair Map
 t34	Ancestral Trial Map
-t35	Tomb of Zoltun Kulle Map
+t35	Blood Moon Map
+t36	Fall of Caldeum Map
 t41	Cathedral of Light Map
 t42	Desert Map
 t43	Plains of Torment Map
@@ -5443,15 +5444,15 @@ GustLongDesc	enemies upon arrival for .5 seconds}Instantly moves to a destinatio
 StrCooldown	Cooldown: 
 BloodWarp	Blood Warp
 BloodWarpShortDesc	Instantly moves to a destination and drains life
-BloodWarpLongDesc	HP lost regenerates over 3 seconds}of a percentage of max HP}Instantly moves to a destination at the cost
+BloodWarpLongDesc	HP lost regenerates over 5 seconds}of a percentage of max HP}Instantly moves to a destination at the cost
 StrLifeCost	Life Cost: 
-StrPercentMaxHP	% Maximum HP
+StrPercentMaxHP	% Maximum Health
 StrIncLeapSpeed	Leap speed is increased with each base level
 StrPercIncLeapSpeed	% Increased Leap Speed
 StrColdPierce	Cold Pierce: 
 ColdEnchant	Cold Enchant
 ColdEnchantShortDesc	enchants melee or ranged weapons with cold
-ColdEnchantLongDesc	adds one-third cold damage to ranged weapons}adds cold damage to melee weapons}enchants equipped weapon of targeted character or minion
+ColdEnchantLongDesc	half efficiency for all allies}adds one-third cold damage to ranged weapons}adds cold damage to melee weapons}enchants equipped weapon of targeted character or minion
 StrDelay	Delay: 
 StrReducedDelay	Reduced Delay
 StrAttackRating	 Attack Rating
@@ -5459,7 +5460,7 @@ StrPhysDmgResist	Physical Damage Resistance:
 StrBonusSkills	Bonus Skills: 
 StrIncPhysDmgRed	By 1% Every 2 Base Levels}Increases Physical Damage Reduction
 StrPhysDmgRed	Physical Damage Reduction: 
-StrIncFlatLife	Increases Max HP By 10 Every Base Level
+StrIncFlatLife	Increases Max HP By 20 Every Base Level
 StrPierce	Pierce: 
 Combustion	Combustion
 CombustionShortDesc	Creates an expanding ring of fire balls to engulf your enemies
@@ -5472,7 +5473,7 @@ StrGainDRPassiveBonus	Gain 1% Active Damage Reduction with every 2 Base Level}
 StrPassiveHPRegen	Health Regeneration: 
 StrGainRegenPassiveBonus	Grants +1 Passive Health Regeneration per 2 Base Levels
 StrEnemyLtngRes	Enemy Lightning Resistances: -
-StrLtngMasterySynergy	Lightning Mastery: 
+StrLtngMasterySynergy	seconds increased duration
 skill charm	skills
 exp charm	exp charm
 frw charm	gotta go fast
@@ -5510,14 +5511,14 @@ StrAmpDmgPhysRes	Reduced Physical Damage Resistance Increased by 2% per Base Lev
 StrAttCastRateplev	Reduced Attack and Cast Rate per Level
 StrAttCastRate	Attack and Cast Rate: 
 StrMoveSpeed	Movement Speed: 
-StrRedPhysDmgResplev	Reduced Physical Resistance per Level
-StrDecrepRedDesc	Increased by 1% per Base Level}Reduced Movement Speed, Attack Rate, and Cast Rate
+StrRedPhysDmgResplev	Reduced Physical Resistance Per Two Levels
+StrDecrepRedDesc	Reduces Movement Speed by 1% per Base Level
 StrRedARplev	Reduced Attack Rating per Level
 StrIncLLplev	Increased Life Steal per Two Levels
-StrLifeTapInc	Percent Life Steal Increases by 1% per Base Level
+StrLifeTapInc	Percent Life Steal Increases by 2% per Base Level
 StrLifeSteal	Life Steal: 
 StrRedDmgplev	Reduced Damage per Two Levels
-StrConfuseAttSpd	Increases Monster Attack Speed by 3% per Base Level
+StrConfuseAttSpd	Increases Monster Attack Speed by 10% per Base Level
 StrAttSpdplev	Increased Attack Speed per Level
 StrRedEneDefplev	Reduced Enemy Defense per Level
 StrRedMoveSpdplev	Reduced Movement Speed per Level
@@ -5539,7 +5540,7 @@ StrPercWepDmg	% Weapon Damage
 StrJoustIncMS	Increases Movement Speed by 2% per Base Level
 StrCritStrike	Critical Strike: 
 LesserFade	Lesser Fade
-StrToMaxCurses	to Maximum Curses
+StrToMaxCurses	You May Apply An Additional Curse
 Blink	Blink
 BlinkShortDesc	instantly moves to destination
 BlinkLongDesc	instantly moves to a destination
@@ -5567,9 +5568,39 @@ StrActiveDR	Active Physical Damage Reduction:
 StrPassiveMoveSpeed	Grants +1% Passive Faster Run/Walk per Base Level
 StrFRW	Faster Run/Walk: 
 StrPoisDurRed	Reduces poison duration by 
-StrDurRedPassive	Grants 1% Passive Reduced Duration of Poison and Curses per 2 Base Levels
-StrMedMPK	Grants +1 Passive Mana After Each Kill per 5 Base Levels
+StrDurRedPassive	Grants 1% Passive Poison and Curse Duration Reduction per Base Level
+StrMedMPK	Grants +1 Passive Mana After Each Kill every 2 Base Levels
 StrMPK	 to Mana after each Kill
 StrPassiveBlessAim	Grants +10% Passive Attack Rating per Base Level
-StrHungerBuffs	Gains +2 Second Duration and +2% Movement Speed per Base Level
+StrHungerBuffs	Gains +2 Second Duration per Base Level
 StrCritStrikeChance	 percent chance of Critical Strike
+of Clarity	of Clarity
+of Divinity	of Divinity
+of the Dawn	of the Dawn
+StrMapLightRadius	reduced light radius
+of Darkness	of Darkness
+StrLightFuryBolts	Releases An Additional Bolt Every 10 Levels
+t37	Pandemonium Citadel Map
+t25	Sewers of Harrogath Map
+t37	Pandemonium Citadel Map
+ExtraPlaguePoppy	}Poison Creeper Every 10 Base Levels}You May Summon An Additional
+of Defending	of Defending
+of Protecting	of Protecting
+of Guardianship	of Guardianship
+of Savagery	of Savagery
+of Devastation	of Devastation
+of Havoc	of Havoc
+of Destruction	of Destruction
+of Desolation	of Desolation
+of Bleeding	of Bleeding
+of Siphoning	of Siphoning
+of Gory	of Gory
+of Sanguinary	of Sanguinary
+of Hematic	of Hematic
+of Chipping	of Chipping
+of Crumbling	of Crumbling
+of Breaking	of Breaking
+of Crushing	of Crushing
+of Pulverizing	of Pulverizing
+of Evisceration	of Evisceration
+lethal damage	Deals Lethal Damage

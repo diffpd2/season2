@@ -248,120 +248,133 @@ pr244	1			1	is329																														0
 pr245	1			1	is330																														0
 pr246	1			1	is331																														0
 pr247	1			1	is332																														0
-pr248	1			15	is48			16	is49			15	is50			16	is51			15	is54			16	is55			17	is56						0
-pr249	1			1	is48			3	is50			3	is54																						0
-pr250	1			1	is49			3	is51			3	is55			17	is56																		0
-pr251	1			1	is0			3	is1			3	is2			3	is3																		0
-pr252	1			1	is85																									additional xp gain					0
-pr253	1			1	is86																									life gained after each kill					0
-pr254	1			1	is87																									reduces vendor prices		min	max	none	0
-pr255	1			1	is108																									slain monsters' corpses can't be used		1	1	none	0
-pr256	1			24	is179																									attack% vs. monster type	mon type	min	max		0
-pr257	1			24	is180																									damage% vs. monster type	mon type	min	max		0
-pr258	1			11	is196																									Proc Skill on killing something	Skill #	% Chance	Level		0
-pr259	1			11	is197																									Proc Skill on getting killed	Skill #	% Chance	Level		0
-pr260	1			11	is199																									Proc Skill on level up	Skill #	% Chance	Level		0
-pr261	1			12	is107																									Bonus to random skill	Level	min Skill #	max Skill #		0
-pr262	1			17	is181																									only use on monprop	fade type				0
-pr263	1			1	is92																														0
-pr264	1			23																															0
-pr265	1			22	is97																										Skill	min level	max level	none	0
-pr266	1			24	is98																										state	1	1		0
-pr267	1		3	36	is83																														0
-pr268	1			11	is359																									splash	358	100	1		0
-pr269	1			1	is360																														0
-pr270	1			1	is361																														0
-pr271	1			1	is458																														0
-pr272	1		2	36	is83																														0
-pr273	1		4	21	is126			3	is362																					cold skills				none	0
-pr274	1		2	21	is126			3	is364																					lightning skills				none	0
-pr275	1		5	21	is126			3	is365																					poison skills				none	0
-pr276	1		3	21	is126			3	is366																					magic skills				none	0
-pr277	1			1	is67																													none	0
-pr278	1			1	is369																														0
-pr279	1			1																														none	0
-pr280	1			1	is428																													none	0
-pr281	1			1	is370			3	is371																									none	0
-pr282	1			1	is372																														0
-pr283	1			1	is373																									additional xp gain					0
-pr284	1			1	is374																														0
-pr285	1			1	is375																														0
-pr286	1			1	is376																									Fire Damage				none	0
-pr287	1			1	is377																														0
-pr288	1			1	is378																									Lightning Damage				none	0
-pr289	1			1	is379																														0
-pr290	1			1	is380																									Magic Damge				none	0
-pr291	1			1	is381																														0
-pr292	1			15	is382			16	is383			17	is384																	Cold Damage	Length (Frames)	Min	Max	none	0
-pr293	1			15	is385			16	is386			17	is387																	Poison Damage	Length (Frames)	Min	Max	none	0
-pr294	1			1	is388																														0
-pr295	1			1	is389																														0
-pr296	1			1	is390																														0
-pr297	1			1	is391																														0
-pr298	1			8	is392			8	is393																									none	0
-pr299	1			1	is394			3	is406																									none	0
-pr300	1			1	is395																													none	0
-pr301	1			1	is396																													none	0
-pr302	1			1	is397																													none	0
-pr303	1			1	is398																													none	0
-pr304	1			1	is399																													none	0
-pr305	1			1	is400																													none	0
-pr306	1			1	is401																													none	0
-pr307	1			1	is402																													none	0
-pr308	1			1	is403			3	is405																									none	0
-pr309	1			8	is404																													none	0
-pr310	1			1	is405																													none	0
-pr311	1			1	is407																													none	0
-pr312	1			1	is408																													none	0
-pr313	1			1	is409			3	is405																									none	0
-pr314	1			1	is410																													none	0
-pr315	1			8	is411																													none	0
-pr316	1			1	is412																													none	0
-pr317	1			1	is413																													none	0
-pr318	1			1	is414																									Negates % of Enemy Cold Resistance		min	max	none	0
-pr319	1			1	is415																									Negates % of Enemy Fire Resistance		min	max	none	0
-pr320	1			1	is416																									Negates % of Enemy Lightning Resistance		min	max	none	0
-pr321	1			1	is417																									Negates % of Enemy Poison Resistance		min	max	none	0
-pr322	1			1	is428			3	is429			3	is430			3	is431																	none	0
-pr323	1			1	is418			3	is419			3	is420			3	is421																	none	0
-pr324	1			1	is426																													none	0
-pr325	1	142		11	is427																									splash	358	100	1		0
-pr326	1			17	is422																									regenerates charges	speed (see note)			regenerates 1 charge per 100/lvl seconds	0
-pr327	1			1	is423																									increases leap/leap attack speed		min	max		0
-pr328	1			1	is368																									+ to max curses					0
-pr329	1		1	36	is126																														0
-pr330	1			1	is109																														0
-pr331	1			1	is424																									life gained after each hit					0
-pr332	1		1	36	is83																														0
-pr333	1			1	is432																													none	0
-pr334	1			1	is433																													none	0
-pr335	1			1	is434																													none	0
-pr336	1			1	is435																													none	0
-pr337	1			1	is436																													none	0
-pr338	1			1	is437																													none	0
-pr339	1			1	is438																													none	0
-pr340	1			1	is439																													none	0
-pr341	1			1	is440																													none	0
-pr342	1			1	is441																													none	0
-pr343	1			1	is442																													none	0
-pr344	1			1	is443																														0
-pr345	1			1	is444																														0
-pr346	1			1	is459																														0
-pr347	1			1	is425																									Negates % of Enemy Phys Resistance		min	max	none	0
-pr348	1			1	is445																														0
-pr349	1			1	is449																													none	0
-pr350	1			1	is450																													none	0
-pr351	1			8	is451																													none	0
-pr352	1			8	is452																													none	0
-pr353	1			11	is453																													none	0
-pr354	1			1	is454																													none	0
-pr355	1			1	is455																													none	0
-pr356	1			1	is456																													none	0
-pr357	1			8	is457																													none	0
-pr358	1			1	is414			1	is415			1	is416			1	is417													Negates % of Enemy Cold Resistance		min	max	none	0
-pr359	1			1	is450			1	is405																									none	0
-pr360	1			8	is451			8	is452																									none	0
-pr361	1			1	is454			1	is455																									none	0
-pr362	1			8	is451			8	is452			8	is457																					none	0
-pr363	1			1	is370																													none	0
-pr364	1			3	is371																													none	0
+pr248	1			1	is357																														0
+pr249	1			15	is48			16	is49			15	is50			16	is51			15	is54			16	is55			17	is56						0
+pr250	1			1	is48			3	is50			3	is54																						0
+pr251	1			1	is49			3	is51			3	is55			17	is56																		0
+pr252	1			1	is0			3	is1			3	is2			3	is3																		0
+pr253	1			1	is85																									additional xp gain					0
+pr254	1			1	is86																									life gained after each kill					0
+pr255	1			1	is87																									reduces vendor prices		min	max	none	0
+pr256	1			1	is108																									slain monsters' corpses can't be used		1	1	none	0
+pr257	1			24	is179																									attack% vs. monster type	mon type	min	max		0
+pr258	1			24	is180																									damage% vs. monster type	mon type	min	max		0
+pr259	1			11	is196																									Proc Skill on killing something	Skill #	% Chance	Level		0
+pr260	1			11	is197																									Proc Skill on getting killed	Skill #	% Chance	Level		0
+pr261	1			11	is199																									Proc Skill on level up	Skill #	% Chance	Level		0
+pr262	1			12	is107																									Bonus to random skill	Level	min Skill #	max Skill #		0
+pr263	1			17	is181																									only use on monprop	fade type				0
+pr264	1			1	is92																														0
+pr265	1			23																															0
+pr266	1			22	is97																										Skill	min level	max level	none	0
+pr267	1			24	is98																										state	1	1		0
+pr268	1		3	36	is83																														0
+pr269	1			11	is359																									splash	358	100	1		0
+pr270	1			1	is360																														0
+pr271	1			1	is361																														0
+pr272	1			1	is458																														0
+pr273	1		2	36	is83																														0
+pr274	1		4	21	is126			3	is362																					cold skills				none	0
+pr275	1		2	21	is126			3	is364																					lightning skills				none	0
+pr276	1		5	21	is126			3	is365																					poison skills				none	0
+pr277	1		3	21	is126			3	is366																					magic skills				none	0
+pr278	1			1	is67																													none	0
+pr279	1			1	is369																														0
+pr280	1			1																														none	0
+pr281	1			1	is428																													none	0
+pr282	1			1	is370			3	is371																									none	0
+pr283	1			1	is372																														0
+pr284	1			1	is373																									additional xp gain					0
+pr285	1			1	is374																														0
+pr286	1			1	is375																														0
+pr287	1			1	is376																									Fire Damage				none	0
+pr288	1			1	is377																														0
+pr289	1			1	is378																									Lightning Damage				none	0
+pr290	1			1	is379																														0
+pr291	1			1	is380																									Magic Damge				none	0
+pr292	1			1	is381																														0
+pr293	1			15	is382			16	is383			17	is384																	Cold Damage	Length (Frames)	Min	Max	none	0
+pr294	1			15	is385			16	is386			17	is387																	Poison Damage	Length (Frames)	Min	Max	none	0
+pr295	1			1	is388																														0
+pr296	1			1	is389																														0
+pr297	1			1	is390																														0
+pr298	1			1	is391																														0
+pr299	1			8	is392			8	is393																									none	0
+pr300	1			1	is394			3	is406																									none	0
+pr301	1			1	is395																													none	0
+pr302	1			1	is396																													none	0
+pr303	1			1	is397																													none	0
+pr304	1			1	is398																													none	0
+pr305	1			1	is399																													none	0
+pr306	1			1	is400																													none	0
+pr307	1			1	is401																													none	0
+pr308	1			1	is402																													none	0
+pr309	1			1	is403			3	is405																									none	0
+pr310	1			8	is404																													none	0
+pr311	1			1	is405																													none	0
+pr312	1			1	is407																													none	0
+pr313	1			1	is408																													none	0
+pr314	1			1	is409			3	is405																									none	0
+pr315	1			1	is410																													none	0
+pr316	1			8	is411																													none	0
+pr317	1			1	is412																													none	0
+pr318	1			1	is413																													none	0
+pr319	1			1	is414																									Negates % of Enemy Cold Resistance		min	max	none	0
+pr320	1			1	is415																									Negates % of Enemy Fire Resistance		min	max	none	0
+pr321	1			1	is416																									Negates % of Enemy Lightning Resistance		min	max	none	0
+pr322	1			1	is417																									Negates % of Enemy Poison Resistance		min	max	none	0
+pr323	1			1	is428			3	is429			3	is430			3	is431																	none	0
+pr324	1			1	is418			3	is419			3	is420			3	is421																	none	0
+pr325	1			1	is426																													none	0
+pr326	1	142		11	is427																									splash	358	100	1		0
+pr327	1			17	is422																									regenerates charges	speed (see note)			regenerates 1 charge per 100/lvl seconds	0
+pr328	1			1	is423																									increases leap/leap attack speed		min	max		0
+pr329	1			1	is368																									+ to max curses					0
+pr330	1		1	36	is126																														0
+pr331	1			1	is109																														0
+pr332	1			1	is424																									life gained after each hit					0
+pr333	1		2	36	is83																														0
+pr334	1			1	is432																													none	0
+pr335	1			1	is433																													none	0
+pr336	1			1	is434																													none	0
+pr337	1			1	is435																													none	0
+pr338	1			1	is436																													none	0
+pr339	1			1	is437																													none	0
+pr340	1			1	is438																													none	0
+pr341	1			1	is439																													none	0
+pr342	1			1	is440																													none	0
+pr343	1			1	is441																													none	0
+pr344	1			1	is442																													none	0
+pr345	1			1	is443																														0
+pr346	1			1	is444																														0
+pr347	1			1	is459																														0
+pr348	1			1	is425																									Negates % of Enemy Phys Resistance		min	max	none	0
+pr349	1			1	is445																														0
+pr350	1			1	is449																													none	0
+pr351	1			1	is450																													none	0
+pr352	1			8	is451																													none	0
+pr353	1			8	is452																													none	0
+pr354	1			11	is453																													none	0
+pr355	1			1	is454																													none	0
+pr356	1			1	is455																													none	0
+pr357	1			1	is456																													none	0
+pr358	1			8	is457																													none	0
+pr359	1			1	is414			1	is415			1	is416			1	is417													Negates % of Enemy Cold Resistance		min	max	none	0
+pr360	1			1	is450			1	is405																									none	0
+pr361	1			8	is451			8	is452																									none	0
+pr362	1			1	is454			1	is455																									none	0
+pr363	1			8	is451			8	is452			8	is457																					none	0
+pr364	1			1	is370																													none	0
+pr365	1			3	is371																													none	0
+pr366	1			8	is96			8	is105																									none	0
+pr367	1			8	is93			8	is99																									none	0
+pr368	1			1	is460																														0
+pr369	1			1	is461																														0
+pr370	1			1	is462																														0
+pr371	1			1	is463																														0
+pr372	1			1	is464																														0
+pr373	1			8	is105			1	is336																									none	0
+pr374	1			1	is465																														0
+pr375	1			1	is466																														0
+pr376	1			1	is467																													none	0
+pr377	1			1	is468																														0
