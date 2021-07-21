@@ -299,3 +299,5 @@ ol295	grim_ward_bottom	100	21	Barb	1	1										21		3						1
 ol296	BattleCry	100	15	all		1						14		-14	-60	8		3						1	
 ol297	ShockHitSm	100	20	all		1					-36	14		-14	-60	16		3			20	20	20	1	
 ol298	dark_pact		12	Necro		1		1	1							16		3			255	255	255	1	
+ol299	vengeance		14	Paladin		1		1	1							16		3			255	255	255	1	
+ol300	Extra\CurseEffectGreen		14	all		1		1	1							16		3			255	255	255	1	

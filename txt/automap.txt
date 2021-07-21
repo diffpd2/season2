@@ -914,6 +914,34 @@ LevelName	TileName	Style	StartSequence	EndSequence	Type1	Cel1	Type2	Cel2	Type2	C
 2 Town	fl	28	45	45	rock2	257	rock3	258	rock4	259		-1
 2 Town	fl	28	50	50	rock2	257	rock3	258	rock4	259		-1
 2 Town	fl	28	57	57	rock2	257	rock3	258	rock4	259		-1
+2 Town	fl	39	2	7	PD2// D_Oasis_a	266	D_Oasis_b	267		-1		-1
+2 Town	fl	39	10	12	PD2// D_Oasis_a	266	D_Oasis_b	267		-1		-1
+2 Town	fl	39	14	17	PD2// D_Oasis_a	266	D_Oasis_b	267		-1		-1
+2 Town	fl	39	20	21	PD2// D_Oasis_a	266	D_Oasis_b	267		-1		-1
+2 Town	fl	39	25	25	PD2// D_Oasis_a	266	D_Oasis_b	267		-1		-1
+2 Town	fl	8	24	24	PD2 FullWater// D_Oasis_a	266	D_Oasis_b	267		-1		-1
+2 Town	fl	39	13	13	PD2// bridgeLt	568	bridgeLb	569		-1		-1
+2 Town	fl	39	18	19	PD2// bridgeLt	568	bridgeLb	569		-1		-1
+2 Town	fl	39	22	22	PD2// bridgeLt	568	bridgeLb	569		-1		-1
+2 Town	fl	39	24	24	PD2// bridgeLt	568	bridgeLb	569		-1		-1
+2 Town	wld	40	42	43	PD2 Door// RD_arch wr	275		-1		-1		-1
+2 Town	wrd	40	42	43	PD2 Door// RD_arch wl	274		-1		-1		-1
+2 Town	wld	40	48	49	PD2 TallDoor// RD_arch wr	275		-1		-1		-1
+2 Town	wrd	40	48	49	PD2 TallDoor// RD_arch wl	274		-1		-1		-1
+2 Town	wr	40	10	11	PD2 Wall// RD_WR A	100		-1		-1		-1
+2 Town	wl	40	62	63	PD2 Wall// RD_WL A	101		-1		-1		-1
+2 Town	wr	40	62	63	PD2 InvisWall// RD_WR A	100		-1		-1		-1
+2 Town	wl	40	10	11	PD2 InvisWall// RD_WL A	101		-1		-1		-1
+2 Town	wr	40	34	40	PD2 TopPillars// RD_WR A	100		-1		-1		-1
+2 Town	wl	40	35	41	PD2 TopPillars// RD_WL A	101		-1		-1		-1
+2 Town	wr	40	60	61	PD2 LockedGates// RD_WR A	100		-1		-1		-1
+2 Town	wl	40	60	61	PD2 LockedGates// RD_WL A	101		-1		-1		-1
+2 Town	fl	11	18	18	PD2 - A2/Palace.dt1// StrL	670		-1		-1		-1
+2 Town	fl	11	19	19	PD2 - A2/Palace.dt1// StrL	670		-1		-1		-1
+2 Town	fl	40			PD2 - AerPalace // StrL	670		-1		-1		-1
+2 Town	fl	40	2	5	PD2 - AerPalace // StrR	667		-1		-1		-1
+2 Town	fl	40	59	59	PD2 - InvisFlWalkBlock // ArcaneFloor	337	Arcane_flb	338		-1		-1
+2 Town	fl	40	62	62	PD2 - InvisFlFullBlock // ArcaneFloor	337	Arcane_flb	338		-1		-1
 2 Harem	wr		5	5	RD_WRD B	113		-1		-1		-1
 2 Harem	wr		4	4	RD_WRD A	112		-1		-1		-1
 2 Harem	wl		5	5	RD_WLD A	110		-1		-1		-1
@@ -2350,6 +2378,29 @@ LevelName	TileName	Style	StartSequence	EndSequence	Type1	Cel1	Type2	Cel2	Type2	C
 3 Dungeon	wbr	2	-1	-1	G_WBR	85		-1		-1		-1
 3 Dungeon	wtr	2	-1	-1	G_WTR	83		-1		-1		-1
 3 Dungeon	wbl	2	-1	-1	G_WBL	82		-1		-1		-1
+3 Dungeon	wr	22		9	Act3_SL_WR A	600		-1		-1		-1
+3 Dungeon	wl	22		9	Act3_SL_WL A	601		-1		-1		-1
+3 Dungeon	wr	22	10	10	Act3_SL_WBL	602		-1		-1		-1
+3 Dungeon	wl	22	10	10	Act3_SL_WTR	603		-1		-1		-1
+3 Dungeon	wr	22	11	11	Act3_SL_WTLL	604		-1		-1		-1
+3 Dungeon	wr	22	12	-1	Act3_SL_WR A	600		-1		-1		-1
+3 Dungeon	wl	22	12	-1	Act3_SL_WL A	601		-1		-1		-1
+3 Dungeon	wtlr	22	-1	-1	Act3_SL_WTLL	604		-1		-1		-1
+3 Dungeon	wtll	22	-1	-1	Act3_SL_WTLL	604		-1		-1		-1
+3 Dungeon	wbr	22	-1	-1	Act3_SL_WBR	605		-1		-1		-1
+3 Dungeon	wtr	22	-1	-1	Act3_SL_WTR	603		-1		-1		-1
+3 Dungeon	wbl	22	-1	-1	Act3_SL_WBL	602		-1		-1		-1
+3 Dungeon	co	22	-1	-1	Act3_SL_WBL	602		-1		-1		-1
+3 Dungeon	wr	22	-1	-1	Act3_SL_WR A	600		-1		-1		-1
+3 Dungeon	wl	22	-1	-1	Act3_SL_WL A	601		-1		-1		-1
+3 Dungeon	wtlr	22	-1	-1	Act3_SL_WTLL	604		-1		-1		-1
+3 Dungeon	wtll	22	-1	-1	Act3_SL_WTLL	604		-1		-1		-1
+3 Dungeon	wbr	22	-1	-1	Act3_SL_WBR	605		-1		-1		-1
+3 Dungeon	wtr	22	-1	-1	Act3_SL_WTR	603		-1		-1		-1
+3 Dungeon	wbl	22	-1	-1	Act3_SL_WBL	602		-1		-1		-1
+3 Dungeon	co	22	-1	-1	Act3_SL_WBR	605		-1		-1		-1
+3 Dungeon	wre	22			Act3_SL_WRE A	610		-1		-1		-1
+3 Dungeon	wre	22	1	1	Act3_SL_WRE B	611		-1		-1		-1
 4 Town	fl	12	32	32	Mesa Strs 12 32	1080		-1		-1		-1
 4 Town	fl	12	33	33	Mesa Strs 12 33	1081		-1		-1		-1
 4 Town	fl	12	34	34	Mesa Strs 12 34	1082		-1		-1		-1
@@ -2505,6 +2556,49 @@ LevelName	TileName	Style	StartSequence	EndSequence	Type1	Cel1	Type2	Cel2	Type2	C
 4 Mesa	fl	18	20	20	mesa dwn 18 18	1077		-1		-1		-1
 4 Mesa	fl	18	18	18	mesa dwn 18 20	1078		-1		-1		-1
 4 Mesa	fl	18	16	16	mesa dwn 18 16	1079		-1		-1		-1
+4 Mesa	wl		1	1	PD2 - Low Wall Left	1213		-1		-1		-1
+4 Mesa	wl				PD2 - Low WL with Spire	1213		-1		-1		-1
+4 Mesa	wl		2	2	PD2 - Low WL with Spire(R)	1213		-1		-1		-1
+4 Mesa	wl	3	3	3	PD2 - High WL 	1213		-1		-1		-1
+4 Mesa	wl	3	2	2	PD2 - WL Corner Piece	1213		-1		-1		-1
+4 Mesa	wl	4	1	1	PD2 - Archway Wall	1213		-1		-1		-1
+4 Mesa	wl	4	5	5	PD2 - Archway Wall V2	1213		-1		-1		-1
+4 Mesa	wl	4	3	3	PD2 - Archway V1	1201		-1		-1		-1
+4 Mesa	wl	4	4	4	PD2 - Archway V2	1201		-1		-1		-1
+4 Mesa	wl	4	2	2	PD2 - Archway V3	1201		-1		-1		-1
+4 Mesa	wl	3	1	1	PD2 - Archway V4	1201		-1		-1		-1
+4 Mesa	wtr	3	3	3	PD2 - High Wall Left	1213		-1		-1		-1
+4 Mesa	wl	3	4	4	PD2 - High Wall Left V2	1213		-1		-1		-1
+4 Mesa	wtlr	4			PD2 - Corner Piece	1226		-1		-1		-1
+4 Mesa	wr	3	8	8	PD2 - Low WR	1212		-1		-1		-1
+4 Mesa	wr	3	2	2	PD2 - Low WR OutFacing	1212		-1		-1		-1
+4 Mesa	wr	4			PD2 WR High to Low	1212		-1		-1		-1
+4 Mesa	wbl	3	2	2	PD2 WL End Post	1212		-1		-1		-1
+4 Mesa	wr	3	7	7	PD2 WR High to Low V2	1212		-1		-1		-1
+4 Mesa	fl		36	36	PD2 Stairs	1101		1101		1101		1101
+4 Mesa	fl		37	37	PD2 Stairs	1101		1101		1101		1101
+4 Mesa	fl		38	38	PD2 Stairs	1101		1101		1101		1101
+4 Mesa	fl		39	39	PD2 Stairs	1101		1101		1101		1101
+4 Mesa	fl		40	40	PD2 Stairs	1101		1101		1101		1101
+4 Mesa	fl		41	41	PD2 Stairs	1101		1101		1101		1101
+4 Mesa	fl		42	42	PD2 Stairs	1101		1101		1101		1101
+4 Mesa	fl		43	43	PD2 Stairs	1101		1101		1101		1101
+4 Mesa	fl		44	44	PD2 Stairs	1101		1101		1101		1101
+4 Mesa	fl		45	45	PD2 Stairs	1101		1101		1101		1101
+4 Mesa	fl		46	46	PD2 Stairs	1101		1101		1101		1101
+4 Mesa	fl		47	47	PD2 Stairs	1101		1101		1101		1101
+4 Mesa	fl		48	48	PD2 Stairs	1101		1101		1101		1101
+4 Mesa	fl		49	49	PD2 Stairs	1101		1101		1101		1101
+4 Mesa	fl		50	50	PD2 Stairs	1101		1101		1101		1101
+4 Mesa	fl		51	51	PD2 Stairs	1101		1101		1101		1101
+4 Mesa	fl		52	52	PD2 Stairs	1101		1101		1101		1101
+4 Mesa	fl		53	53	PD2 Stairs	1101		1101		1101		1101
+4 Mesa	fl		54	54	PD2 Stairs	1101		1101		1101		1101
+4 Mesa	fl		55	55	PD2 Stairs	1101		1101		1101		1101
+4 Mesa	fl		57	57	PD2 Stairs	1101		1101		1101		1101
+4 Mesa	fl		58	58	PD2 Stairs	1101		1101		1101		1101
+4 Mesa	fl		59	59	PD2 Stairs	1101		1101		1101		1101
+4 Mesa	fl		60	60	PD2 Stairs	1101		1101		1101		1101
 4 Lava	fl	26	43	43	Waypoint	307		-1		-1		-1
 4 Lava	wr	13	-1	-1	WR A	20		-1		-1		-1
 4 Lava	wl	13	-1	-1	WL A	21		-1		-1		-1

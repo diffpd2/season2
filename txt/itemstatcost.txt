@@ -16,8 +16,8 @@ is13	13			32			1		32								1024																																			0
 is14	14			32			1		25								1024																																			0
 is15	15			32			1		25								1024																																			0
 is16	16		1	11											47	20	1024		9		9				13			is31											74	4	1	Modstr2v	Modstr2v									0
-is17	17		1	11											45	20	1024		9		9				13			is22	is24	is160				1					129	3		ModStr2j	ModStr2j									0
-is18	18		1	11											45	20	1024		9		9				13			is21	is23	is159				1					130	3		ModStr2k	ModStr2k									0
+is17	17		1	11											45	20	1024		10		10				13			is22	is24	is160				1					129	3		ModStr2j	ModStr2j									0
+is18	18		1	11											45	20	1024		10		10				13			is21	is23	is159				1					130	3		ModStr2k	ModStr2k									0
 is19	19		1	16											15	10	1024		10		10													1					115	1	1	ModStr1h	ModStr1h									0
 is20	20		1	10											89	204	1024		6		6																		134	2	1	ModStr3g	ModStr3g									0
 is21	21		1	16											122	25	1024		10		10													1					127	1	1	ModStr1g	ModStr1g									0
@@ -77,7 +77,7 @@ is74	74			10											451	410	1024		10	30	10	30																	56	1	2	ModStr2l
 is75	75		1	7											117	10	1024		7	20	7	20			13			is73											3	2	2	ModStr2i	ModStr2i									0
 is76	76		1	16											32093	204	1024		6	10	6	10			11			is7											58	2	2	ModStr2g	ModStr2g									0
 is77	77		1	16											56452	204	1024		6	10	6	10			11			is9											54	2	2	ModStr2h	ModStr2h									0
-is78	78		1	16							1				112	128	1024		11		11														ev1	6			13	3	2	ModStr1v	ModStr1v									0
+is78	78		1	16							1				112	128	1024		11		11													1	ev3	6	ev0	6	13	3	2	ModStr1v	ModStr1v									0
 is79	79		1	10											187	34	1024		9	100	9	100																	10	2	1	ModStr1w	ModStr1w									0
 is80	80		1	9											577	102	1024		8	100	8	100																	8	2	1	ModStr1x	ModStr1x									0
 is81	81		1	8							1				105		1024		7		7													1	ev5	7	ev6	7	76	3		ModStr1y	ModStr1y									0
@@ -127,7 +127,7 @@ is124	124		1	13											11	7	1024		10	128	10	128												1					106	1	1	ModS
 is125	125		1	2											82	1024	1024		1		1																		5	3		ModStr5a	ModStr5a									0
 is126	126		1	3	3						1				76	1024	1024		4		3		3																1													0
 is127	127		1	8							1				15123	4096	1024		3		3																		158	1	1	ModStr3k	ModStr3k									0
-is128	128		1	6							1				4	102	1024		11		11														ev1	10			14	3	2	ModStr3j	ModStr3j									0
+is128	128		1	6							1				4	102	1024		11		11													1	ev3	6	ev0	6	14	3	2	ModStr3j	ModStr3j									0
 is129	129		1	10													1024																																			0
 is130	130		1	10													1024																																			0
 is131	131			12													1024																																			0
@@ -217,7 +217,7 @@ is214	214		1	6											43	42	1024		6		6				4	3	is12	is31											72	6	1	ModS
 is215	215		1	6											87	100	1024		6		6				5	3	is12	is31											73	8	1	Modstr2v	Modstr2v	increaseswithplaylevelX								0
 is216	216		1	6											92	64	1024	8	6		6				2	3	is12	is7											57	6	1	ModStr1u	ModStr1u	increaseswithplaylevelX								0
 is217	217		1	6											90	128	1024	8	6		6				2	3	is12	is9											53	6	1	ModStr1e	ModStr1e	increaseswithplaylevelX								0
-is218	218		1	6											54	204	1024		6		6				4	3	is12	is22	is24	is160				1					125	6	1	ModStr1f	ModStr1f	increaseswithplaylevelX								0
+is218	218		1	6											54	204	1024		5		5				4	3	is12	is22	is24	is160				1					125	6	1	ModStr1f	ModStr1f	increaseswithplaylevelX								0
 is219	219		1	6											86	100	1024		6		6				5	3	is12	is22	is24	is160				1					128	8	1	ModStr2j	ModStr2j	increaseswithplaylevelX								0
 is220	220		1	6											132	128	1024		6		6				2	3	is12	is0											66	6	1	ModStr1a	ModStr1a	increaseswithplaylevelX								0
 is221	221		1	6											132	128	1024		6		6				2	3	is12	is2											64	6	1	ModStr1b	ModStr1b	increaseswithplaylevelX								0
@@ -304,10 +304,10 @@ is301	301		1	22										4			1024		22		22				6			is135						1					180	18	1	ModSt
 is302	302		1	22										4			1024		22		22				6			is137						1					180	17	1	ModStr5e	ModStr5e									0
 is303	303		1	22										4			1024		22		22				6			is141						1					180	18	1	ModStr5q	ModStr5q									0
 is304	304		1											4			1024																																			0
-is305	305		1	9											1432	513	1024				8	50																	88	20	1	Moditemenrescoldsk	Moditemenrescoldsk									0
-is306	306		1	9											1240	497	1024				8	50																	88	20	1	Moditemenresfiresk	Moditemenresfiresk									0
-is307	307		1	9											1187	481	1024				8	50																	88	20	1	Moditemenresltngsk	Moditemenresltngsk									0
-is308	308		1	9											1322	506	1024				8	50																	88	20	1	Moditemenrespoissk	Moditemenrespoissk									0
+is305	305		1	9											1432	513	1024				6	50																	88	20	1	Moditemenrescoldsk	Moditemenrescoldsk									0
+is306	306		1	9											1240	497	1024				6	50																	88	20	1	Moditemenresfiresk	Moditemenresfiresk									0
+is307	307		1	9											1187	481	1024				6	50																	88	20	1	Moditemenresltngsk	Moditemenresltngsk									0
+is308	308		1	9											1322	506	1024				6	50																	88	20	1	Moditemenrespoissk	Moditemenrespoissk									0
 is309	309		1														1024																	1																		0
 is310	310		1														1024																	1																		0
 is311	311		1														1024																	1																		0
@@ -356,7 +356,7 @@ is353	353			5													1024																																			0
 is354	354			32													1024																																			0
 is355	355			16													1024																																			0
 is356	356																1024				2																															0
-is357	357		1	12											1211	431	1024		8		9	50																														0
+is357	357		1	12											1211	431	1024		8		9	50																	88	4	1	ModitemdamMagisk	ModitemdamMagisk									0
 is358	358		1	9												2812	1024		8		8																															0
 is359	359		1	7	16						1			2	190	256	1024		21		7		16											1	ev5	20			160	15		splash3	splash3									0
 is360	360			10	10										54	204	1024		8		10		10																254	3		StrCorrupted	StrCorrupted									0
@@ -367,7 +367,7 @@ is364	364		1	3	3						1				76	1024	1024		4		3		3																157	1	1	ModStrLi
 is365	365		1	3	3						1				76	1024	1024		4		3		3																157	1	1	ModStrPoisonskills	ModStrPoisonskills									0
 is366	366		1	3	3						1				76	1024	1024		4		3		3																157	1	1	ModStrMagicskills	ModStrMagicskills									0
 is367	367		1	12													1024																																			0
-is368	368		1	3													1024		3		3																		160	1	1	StrToMaxCurses	StrToMaxCurses									0
+is368	368		1	3													1024		3		3																		160	3		StrToMaxCurses	StrToMaxCurses									0
 is369	369			1	16												1024				12																		253	2	1	StrCorruptNum	StrCorruptNum									0
 is370	370		1	9											577	102	1080		8	100	8	100																	210	4	2	MapGlobMF	MapGlobMF		6	4	2	MapGlobMFGF	MapGlobMFGF			0
 is371	371		1	10											187	34	1079		9	100	9	100																	210	4	2	MapGlobGF	MapGlobGF		6	4	2	MapGlobMFGF	MapGlobMFGF			0
@@ -424,7 +424,7 @@ is421	421		1	9											526	256	1046		5		5																		201	8	2	MapPlayHave
 is422	422		1	5											106	256	1024		5		6																		1	3		ModStrRepCharge1	ModStrRepCharge1	ModStrRepCharge2								0
 is423	423		1	5													1024		5		5																		120	4	1	ModLeapSpeed	ModLeapSpeed									0
 is424	424		1	7							1				30	101	1024		3		7														ev5	28	ev6	28	16	1	1	ModItemHPaH	ModItemHPaH									0
-is425	425		1	9													1024		8		8																		88	20	1	ModPhysPierce	ModPhysPierce									0
+is425	425		1	9													1024		8		8																		250	20	1	ModPhysPierce	ModPhysPierce									0
 is426	426		1	16											15	10	25		10		10													1					115	8	2	MapMonHave	MapMonHave	MapEnhancedDmg								0
 is427	427		1	7	16						1			2	190	256	359		21		7		16											1	ev5	20			160	9		MapMon	MapMon	MapMonSplash								0
 is428	428		1	9											584	256	1039		14	60	14	60																	204	7	2	MapPlayHave	MapPlayHave	ModStr1j	3	7	2	MapPlayHave	MapPlayHave	MapPlayAllRes		0
@@ -459,3 +459,13 @@ is456	456		1	9											152	68	1036		8		8																		22	7	2	MapPlayHave	M
 is457	457	1	1	10		1											1067		7	30	7	30																		7	2	MapPlayHave	MapPlayHave	ModVelocity								0
 is458	458			3											54	204	1024		8		3																		255	3		StrHeroic	StrHeroic									0
 is459	459		1	5													1024		5		5																		68	9	2	StrExtraRevives	StrExtraRevives	StrExtraSpirits								0
+is460	460		1	5													1024		6		6																		150	3		GustReduction	GustReduction									0
+is461	461		1	5													1024		6		5																		150	3		ExtraSkeleWar	ExtraSkeleWar									0
+is462	462		1	5													1024		6		5																		150	3		ExtraSkeleMage	ExtraSkeleMage									0
+is463	463		1	5													1024		6		5																		250	3		ExtraHydra	ExtraHydra									0
+is464	464		1	5													1024		6		5																		250	3		ExtraValk	ExtraValk									0
+is465	465		1	5													1024		6		6																		150	3		joustreduction	joustreduction									0
+is466	466		1	5													1024		6		5																		150	3		ExtraSkeleMageGrim	ExtraSkeleMageGrim									0
+is467	467		1	10											451	410	1089		14	120	14	120																	196	9	2	MapPlayHave	MapPlayHave	StrMapLightRadius								0
+is468	468		1	5													1024		5		5																		150	3		bloodwarplifereduction	bloodwarplifereduction									0
+is469	469		1	5													1024		5		5																															0

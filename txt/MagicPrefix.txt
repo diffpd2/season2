@@ -184,7 +184,7 @@ Forked		100		1	38		30				4	104	pr28		2	2									1	blac	scha
 Serrated		100			53		45				4	104	pr28		3	3									1	blac	scha														
 Carbuncle		100	1	1	12		9				4	104	pr28		1	5									1	dred	jewl														
 Carmine		100	1	1	35		27				4	104	pr28		6	9									1	dred	jewl														
-Vermillion		100	1		58		50				4	104	pr28		11	15									1	dred	jewl														
+Vermillion		100	1	1	58		50				4	104	pr28		11	15									1	dred	jewl														
 Jagged		1	1	1	1		1				9	105	pr29		10	20											weap	circ						staf	wand	orb					
 Deadly		1	1	1	5		3				9	105	pr29		21	30											weap	circ						staf	wand	orb					
 Vicious		1	1	1	8		6				8	105	pr29		31	40											weap							staf	wand	orb					
@@ -197,7 +197,7 @@ Cruel		100	1		51		43				5	105	pr29		201	300									1	blac	weap							staf	wand	
 Cinnabar		100	1	1	1		1				4	105	pr29		5	10									1	dred	jewl														
 Rusty		100	1	1	13		9				4	105	pr29		11	20									1	dred	jewl														
 Realgar		100	1	1	45		37				4	105	pr29		21	30									1	dred	jewl														
-Ruby		100	1		66		58				4	105	pr29		31	40									1	dred	jewl														
+Ruby		100	1	1	66		58				4	105	pr29		31	40									1	dred	jewl														
 Vulpine		1	1	1	9		6				3	107	pr30		7	12									1	cblu	shld	amul	orb	staf											
 Dun		100	1	1	7		5				3	107	pr30		7	12											jewl														
 Tireless		1	1	1	6		4				4	108	pr61		25	25											boot														
@@ -237,19 +237,19 @@ Bronze		100	1	1	1		1				4	110	pr15		2	4											scha
 Bronze		100	1	1	21		15				4	110	pr15		6	12											scha														
 Iron		100	1	1	39		31				4	110	pr15		13	24											scha														
 Steel		100	1		57		49				4	110	pr15		25	36											scha														
-Bronze		1	1	1	1		1				8	110	pr15		10	20											weap	ring	glov	amul	circ			staf	wand	orb					
-Iron		1	1	1	4		3				8	110	pr15		21	40											weap	ring	circ					staf	wand	orb					
-Steel		1	1	1	8		6				7	110	pr15		41	60											weap	ring	circ					staf	wand	orb					
-Silver		1	1	1	12		9				7	110	pr15		61	80											weap	ring	circ					staf	wand	orb					
-Gold		1	1	1	17		12				6	110	pr15		81	100									1	lgld	weap	ring	circ					staf	wand	orb					
-Platinum		1	1	1	22		16				6	110	pr15		101	120									1	lgld	weap	ring	circ					staf	wand	orb					
+Bronze		1	1	1	1		1				8	110	pr15		10	20											weap	ring	glov	amul	circ	helm	tors	staf	wand	orb					
+Iron		1	1	1	4		3				8	110	pr15		21	40											weap	ring	circ	glov	helm	tors		staf	wand	orb					
+Steel		1	1	1	8		6				7	110	pr15		41	60											weap	ring	circ	glov	helm	tors		staf	wand	orb					
+Silver		1	1	1	12		9				7	110	pr15		61	80											weap	ring	circ	glov	helm	tors		staf	wand	orb					
+Gold		1	1	1	17		12				6	110	pr15		81	100									1	lgld	weap	ring	circ	glov	helm	tors		staf	wand	orb					
+Platinum		1	1	1	22		16				6	110	pr15		101	120									1	lgld	weap	ring	circ	glov	helm	tors		staf	wand	orb					
 Meteoric		1	1	1	27		20				5	110	pr15		121	150									1	lgld	weap							staf	wand	orb					
 Strange		100	1	1	32		24				5	110	pr15		151	300									1	lgld	weap							staf	wand	orb					
 Weird		100	1		37		27				4	110	pr15		301	450									1	lgld	weap							staf	wand	orb					
 Nickel		100	1	1	1		1				4	110	pr15		10	20											jewl														
 Tin		100	1	1	8		6				4	110	pr15		21	40											jewl														
 Silver		100	1	1	25		18				4	110	pr15		41	60											jewl														
-Argent		100	1		44		36				4	110	pr15		61	100											jewl														
+Argent		100	1	1	44		36				4	110	pr15		61	100											jewl														
 Fine		100	1	1	15		11				4	111	pr15		10	20	pr28		1	3							lcha														
 Fine		100	1	1	22		16				4	111	pr15		21	48	pr28		4	6							lcha														
 Sharp		100	1	1	29		21				4	111	pr15		49	76	pr28		7	10							lcha														
@@ -280,8 +280,8 @@ Lucky		100	1		55						4	114	pr59		8	12											lcha
 Lucky		100	1	1	34						4	114	pr59		1	1											mcha														
 Lucky		100	1		53						4	114	pr59		2	3											mcha														
 Lucky		100	1		51						4	114	pr59		4	6											mcha														
-Felicitous		100	1	1	5		3				4	114	pr59		5	10											ring	amul	circ												
-Fortuitous		1	1		12		8				4	114	pr59		11	15											ring	amul	circ												
+Felicitous		100	1	1	5		3				4	114	pr59		5	10											ring	amul	circ	helm											
+Fortuitous		1	1	1	12		8				4	114	pr59		11	15											ring	amul	circ	helm											
 Emerald		100	1	1	16		12				4	114	pr59		3	7											jewl														
 Lizard's		100	1	1	1		1				4	115	pr11		3	7											lcha														
 Lizard's		100	1	1	7		5				4	115	pr11		8	13											lcha														
@@ -312,10 +312,10 @@ Dragon's		1	1	1	24		18				2	115	pr11		31	40									1	cblu	rod	ring	amul	orb	cir
 Dragon's		1	1	1	52		39				2	115	pr11		31	40									1	cblu	tors	boot	glov												
 Wyrm's		1	1	1	30		22				2	115	pr11		41	60									1	cblu	rod	ring	amul	orb	circ										
 Great Wyrm's		100	1	1	37		29				2	115	pr11		61	90									1	cblu	rod	ring	amul	orb	circ										
-Bahamut's		100	1		45		37				2	115	pr11		91	120									1	cblu	rod	ring	amul	orb	circ										
+Bahamut's		100	1	1	45		37				2	115	pr11		91	120									1	cblu	rod	ring	amul	orb	circ										
 Zircon		100	1	1	3		2				2	115	pr11		5	10									1	cblu	jewl														
 Jacinth		100	1	1	17		12				2	115	pr11		11	15									1	cblu	jewl														
-Turquoise		100	1		29		21				2	115	pr11		16	20									1	cblu	jewl														
+Turquoise		100	1	1	29		21				2	115	pr11		16	20									1	cblu	jewl														
 Shimmering		100	1		8	13	6				1	116	pr41		3	6									1	lpur	lcha													1280	500
 Shimmering		100	1		14	34	10				1	116	pr41		8	12									1	lpur	lcha													1280	1500
 Shimmering		100	1		35		27				1	116	pr41		13	15									1	lpur	lcha													1280	5000
@@ -326,7 +326,7 @@ Shimmering		100	1	1	6		4				5	116	pr41		3	7									1	lpur	shld													1280
 Rainbow		100	1	1	18		13				5	116	pr41		8	11									1	lpur	shld													1280	2000
 Scintillating		100	1	1	28		21				5	116	pr41		12	15									1	lpur	shld													1280	4000
 Prismatic		1	1	1	39		31				4	116	pr41		16	20									1	lpur	shld													1280	8000
-Chromatic		100	1		50		42				4	116	pr41		21	30									1	lpur	shld													1280	16000
+Chromatic		100	1	1	50		42				4	116	pr41		21	30									1	lpur	shld													1280	16000
 Shimmering		100	1	1	8		6				5	116	pr41		3	7									1	lpur	amul	circ												1280	3000
 Rainbow		100	1	1	21		15				5	116	pr41		8	11									1	lpur	amul	circ												1280	6000
 Scintillating		100	1	1	34		25				5	116	pr41		12	15									1	lpur	amul	circ												1280	12000
@@ -416,14 +416,14 @@ Jade		1	1	1	55		41				1	120	pr39		21	30											weap							orb
 Emerald		1	1	1	25		18				3	120	pr39		31	40									1	cgrn	rod	boot	amul	orb	circ										
 Beryl		100	1	1	2		1				4	117	pr39		5	15									1	cgrn	jewl														
 Jade		100	1	1	19		14				4	117	pr39		16	30									1	cgrn	jewl														
-Triumphant		1	1	1	3		2				4	121	pr110		1	1											weap	ring	circ												
-Victorious		100	1	1	17		12				4	121	pr110		2	5											weap	circ													
-Aureolin		100	1	1	22		16				4	121	pr110		1	3											jewl														
+Triumphant		1	1	1	3		2				4	121	pr110		1	1											weap	ring	circ	tors	helm	shld									
+Victorious		100	1	1	17		12				4	121	pr110		2	5											weap	circ	tors	helm	shld										
+Aureolin		100	1	1	22		16				4	121	pr110		1	3											jewl	tors	helm	shld											
 Mechanist's		100	1	1	10		7				3	122	pr133		1	2											weap	shld	helm	tors	circ			thro							
 Artificer's		100	1		33		25				2	122	pr133	3													weap	shld	helm	tors				thro							
 Jeweler's		100	1		55		47				1	122	pr133	4													weap	shld	helm	tors				thro							
 Assamic		100	1	1	3		1				2	123	pr100		25	50	pr98		10	25							weap	circ						wand	orb						
-Arcadian		100	1	1	15		11				2	123	pr100		51	100	pr98		26	50							weap	circ						wand	orb						
+Arcadian		100	1	1	15		11				2	123	pr100		51	100	pr98		26	50							weap	circ	helm					wand	orb						
 Unearthly		100	1	1	25		18				1	123	pr100		101	150	pr98		51	100							weap							wand	orb						
 Astral		100	1	1	35		26				1	123	pr100		151	200	pr98		101	150							weap							wand	orb						
 Elysian		100	1	1	45		33				1	123	pr100		201	300	pr98		151	200					1	dgld	weap							wand	orb						
@@ -438,9 +438,9 @@ Archer's		100	1		60		45	ama			1	125	pr124		3	3									1	lgld	miss	glov
 Acrobat's		100	1	1	20		15	ama			1	125	pr124	1	1	1											glov	amul	circ												
 Gymnast's		100	1	1	40		30	ama			1	125	pr124	1	2	2									1	lgld	glov	amul	circ												
 Athlete's		100	1		60		45	ama			1	125	pr124	1	3	3									1	lgld	glov	amul	circ												
-Harpoonist's		100	1	1	20		15	ama			1	125	pr124	2	1	1											spea	glov													
-Spearmaiden's		100	1	1	40		30	ama			1	125	pr124	2	2	2									1	lgld	spea	glov													
-Lancer's		100	1		60		45	ama			1	125	pr124	2	3	3									1	lgld	spea	glov													
+Harpoonist's		100	1	1	20		15	ama			1	125	pr124	2	1	1											spea	glov	amul	circ											
+Spearmaiden's		100	1	1	40		30	ama			1	125	pr124	2	2	2									1	lgld	spea	glov	amul	circ											
+Lancer's		100	1	1	60		45	ama			1	125	pr124	2	3	3									1	lgld	spea														
 Burning		100	1	1	50		42	sor			1	125	pr124	3	1	1											lcha														
 Sparking		100	1	1	50		42	sor			1	125	pr124	4	1	1											lcha														
 Chilling		100	1	1	50		42	sor			1	125	pr124	5	1	1											lcha														
@@ -558,7 +558,7 @@ Septic		100	1	1	1		1				3	140	pr138	50	31	31									1	dgrn	weap	circ
 Envenomed		100	1	1	10		7				2	140	pr138	75	41	41									1	dgrn	weap														
 Corosive		100	1	1	20		15				1	140	pr138	100	205	205									1	dgrn	weap														
 Toxic		100	1	1	35		26				1	140	pr138	125	308	308									1	dgrn	weap														
-Pestilent		100	1		50		37				1	140	pr138	150	470	470									1	dgrn	weap														
+Pestilent		100	1	1	50		37				1	140	pr138	150	470	470									1	dgrn	weap														
 Maiden's		1	1	1	36		27	ama			4	125	pr67		1	1											amul	circ													
 Valkyrie's		1	1	1	90		67	ama			2	125	pr67		2	2									1	cgrn	amul	circ													
 Maiden's		1	1	1	30		22	ama			4	125	pr67		1	1											miss	spea													
@@ -591,9 +591,9 @@ Magekiller's		100	1	1	36		27	ass			4	125	pr122		1	1											amul	circ
 Witch-hunter's		100	1	1	90		67	ass			2	125	pr122		2	2									1	cgrn	amul	circ													
 Magekiller's		100	1	1	30		22	ass			4	125	pr122		1	1											h2h														
 Witch-hunter's		100	1	1	50		42	ass			2	125	pr122		2	2									1	cgrn	h2h														
-Compact		100	1	1	1		1				6	141	pr181		20	40											thro														
-Thin		100	1	1	17		12				5	141	pr181		41	80											thro														
-Dense		100	1	1	38		30				4	141	pr181		81	120											thro														
+Compact		100			1		1					141	pr181		20	40											thro														
+Thin		100			17		12					141	pr181		41	80											thro														
+Dense		100			38		30					141	pr181		81	120											thro														
 Consecrated		100	1	1	1		1				4	142	pr101		25	75	pr99		25	75							weap							wand	orb						
 Pure		100	1	1	15		11				3	142	pr101		76	175	pr99		76	125						lgld	weap							wand	orb						
 Sacred		100	1	1	25		18				2	142	pr101		175	250	pr99		126	200						lgld	weap							wand	orb						
@@ -670,67 +670,109 @@ Beryl		1	1	1	1	4	1				3	120	pr39		5	5											armo	ring	amul	orb	circ
 Godly		100	1	1	50		43				1	101	pr5		101	200									1	dgld	armo														
 Cruel		100	1	1	56		48				1	105	pr29		201	300									1	blac	weap							staf	wand	orb					
 																																									
-Champion's		1	1	1	1		1				1	150	pr285		30	60											t1m	t2m	t3m	t4m											
-Flaming		1	1	1	1		1				1	151	pr294		5	10	pr282		25	35	pr283		6	8			t1m	t2m	t3m	t4m											
-Ember		1	1	1	1		1				1	151	pr294		10	15	pr282		35	45	pr283		8	10			t2m	t3m	t4m												
-Smoldering		1	1	1	1		1				1	151	pr294		15	20	pr282		45	50	pr283		10	12			t3m	t4m													
-Hibernal		1	1	1	1		1				1	152	pr296		5	10	pr282		25	30	pr281		45	60			t1m	t2m	t3m	t4m											
-Snowflake		1	1	1	1		1				1	152	pr296		10	15	pr282		30	35	pr281		60	75			t2m	t3m	t4m												
-Shivering		1	1	1	1		1				1	152	pr296		15	20	pr282		35	40	pr281		75	90			t3m	t4m													
-Static		1	1	1	1		1				1	153	pr295		5	10	pr282		25	40	pr283		6	8			t1m	t2m	t3m	t4m											
-Glowing		1	1	1	1		1				1	153	pr295		10	15	pr282		35	45	pr283		8	10			t2m	t3m	t4m												
-Arcing		1	1	1	1		1				1	153	pr295		15	20	pr282		45	50	pr283		10	12			t3m	t4m													
-Toxic		1	1	1	1		1				1	154	pr297		5	10	pr282		30	40	pr281		15	30			t1m	t2m	t3m	t4m											
-Pestilent		1	1	1	1		1				1	154	pr297		10	15	pr282		40	50	pr281		30	45			t2m	t3m	t4m												
-Septic		1	1	1	1		1				1	154	pr297		15	20	pr282		50	60	pr281		45	60			t3m	t4m													
-Magic		1	1	1	1		1				1	155			5	10	pr282		25	35	pr281		30	45																	
-Arcane		1	1	1	1		1				1	155			10	15	pr282		35	45	pr281		45	60																	
-Ancient		1	1	1	1		1				1	155			15	20	pr282		45	50	pr281		60	75																	
-Promoted		1	1	1	1		1				1	300	pr284		1	1	pr283		6	8	pr281		45	60																	
-Elevated		1	1	1	1		1				1	300	pr284		1	1	pr283		8	10	pr281		60	75																	
-Ascended		1	1	1	1		1				1	300	pr284		1	1	pr283		10	12	pr281		75	80																	
-Silver		1	1	1	1		1				1	156	pr299		10	20	pr282		15	20	pr281		45	60			t1m	t2m	t3m	t4m											
-Shining		1	1	1	1		1				1	156	pr299		20	30	pr282		30	35	pr281		60	75			t2m	t3m	t4m												
-Opulent		1	1	1	1		1				1	156	pr299		30	40	pr282		35	40	pr281		75	90			t3m	t4m													
-Fast		1	1	1	1		1				1	305	pr298		10	20	pr282		30	40	pr283		6	8			t1m	t2m	t3m	t4m											
-Speedy		1	1	1	1		1				1	305	pr298		20	40	pr282		40	50	pr283		4	10			t2m	t3m	t4m												
-Ludicrous		1	1	1	1		1				1	305	pr298		40	80	pr282		50	60	pr283		10	12			t3m	t4m													
-Large		1	1	1	1		1				1	311	pr310		10	20	pr282		30	40	pr283		8	10			t1m	t2m	t3m	t4m											
-Huge		1	1	1	1		1				1	311	pr310		20	30	pr282		40	50	pr283		10	12			t2m	t3m	t4m												
-Colossal		1	1	1	1		1				1	311	pr310		30	40	pr282		50	60	pr283		12	14			t3m	t4m													
-Strong		1	1	1	1		1				1	158	pr324		10	15	pr283		8	10	pr281		30	45			t1m	t2m	t3m	t4m											
-Mighty		1	1	1	1		1				1	158	pr324		15	20	pr283		10	12	pr281		30	40			t2m	t3m	t4m												
-Formidable		1	1	1	1		1				1	158	pr324		20	25	pr283		12	14	pr281		40	50			t3m	t4m													
-Splashing		1	1	1	1		1				1	157	pr325	358	100	1	pr282		15	25	pr281		20	30			t1m	t2m	t3m	t4m											
-Splashing		1	1	1	1		1				1	157	pr325	358	100	1	pr282		35	45	pr281		30	40			t2m	t3m	t4m												
-Splashing		1	1	1	1		1				1	157	pr325	358	100	1	pr282		45	50	pr281		40	50			t3m	t4m													
-Bloody		1	1	1	1		1				1	312	pr311		10	20	pr283		8	10	pr281		20	30			t1m	t2m	t3m	t4m											
-Gory		1	1	1	1		1				1	312	pr311		20	30	pr283		10	12	pr281		30	40			t2m	t3m	t4m												
-Sanguinary		1	1	1	1		1				1	312	pr311		30	40	pr283		12	14	pr281		40	50			t3m	t4m													
-Unhealthy		1	1	1	1		1				1	315	pr317		-40	-30	pr283		8	10	pr281		20	30			t1m	t2m	t3m	t4m											
-Sickly		1	1	1	1		1				1	315	pr317		-60	-50	pr283		10	12	pr281		30	40			t2m	t3m	t4m												
-Diseased		1	1	1	1		1				1	315	pr317		-80	-70	pr283		12	14	pr281		40	50			t3m	t4m													
-Crushing		1	1	1	1		1				1	163	pr312		5	10	pr282		15	20			20	30			t1m	t2m	t3m	t4m											
-Smashing		1	1	1	1		1				1	163	pr312		10	15	pr282		30	35			30	40			t2m	t3m	t4m												
-Obliterating		1	1	1	1		1				1	163	pr312		15	20	pr282		35	40			40	50			t3m	t4m													
-Sparking		1	1	1	1		1				1	164	pr333		60	80	pr282		25	30			20	30			t1m	t2m	t3m	t4m											
-Shocking		1	1	1	1		1				1	164	pr333		70	90	pr282		30	35			30	40			t2m	t3m	t4m												
-Thunderous		1	1	1	1		1				1	164	pr333		80	100	pr282		35	40			40	50			t3m	t4m													
-Chilling		1	1	1	1		1				1	165	pr334	25	60	80	pr282		25	30			20	30			t1m	t2m	t3m	t4m											
-Boreal		1	1	1	1		1				1	165	pr334	25	70	90	pr282		30	35			30	40			t2m	t3m	t4m												
-Glacial		1	1	1	1		1				1	165	pr334	25	80	100	pr282		35	40			40	50			t3m	t4m													
-Smoking		1	1	1	1		1				1	166	pr335		60	80	pr282		25	30			20	30			t1m	t2m	t3m	t4m											
-Molten		1	1	1	1		1				1	166	pr335		70	90	pr282		30	35			30	40			t2m	t3m	t4m												
-Volcanic		1	1	1	1		1				1	166	pr335		80	100	pr282		35	40			40	50			t3m	t4m													
-Poisonous		1	1	1	1		1				1	167	pr336	125	123	163	pr282		25	30			20	30			t1m	t2m	t3m	t4m											
-Envenomed		1	1	1	1		1				1	167	pr336	125	143	184	pr282		30	35			30	40			t2m	t3m	t4m												
-Plagued		1	1	1	1		1				1	167	pr336	125	163	205	pr282		35	40			40	50			t3m	t4m													
-Runic		1	1	1	1		1				1	168	pr337		8	10	pr282		25	30			20	30			t1m	t2m	t3m	t4m											
-Taboo		1	1	1	1		1				1	168	pr337		10	12	pr282		30	35			30	40			t2m	t3m	t4m												
-Occult		1	1	1	1		1				1	168	pr337		12	14	pr282		35	40			40	50			t3m	t4m													
-Stygian		1	1	1	1		1				1	169	pr338		690	690	pr282		50	60			80	100			t1m	t2m	t3m												
-Lustful		1	1	1	1		1				1	169	pr339		885	885	pr282		50	60			60	75			t1m	t2m	t3m												
-Vampiric		1	1	1	1		1				1	169	pr340		697	697	pr282		35	40			40	50			t1m	t2m	t3m												
-Bovine		1	1	1	1		1				1	169	pr341		391	391	pr282		35	40			40	50			t1m	t2m	t3m												
-Reanimated		1	1	1	1		1				1	169	pr342		698	698	pr282		50	60			50	60			t1m	t2m	t3m												
-Ghastly		1	1	1	1		1				1	169	pr343		732	732	pr282		35	40			40	50			t1m	t2m	t3m												
+Champion's		1	1	1	1		1				1	150	pr286		30	60											t1m	t2m	t3m	t4m											
+Flaming		1	1	1	1		1				1	151	pr295		5	10	pr283		25	35	pr284		3	4			t1m	t2m	t3m	t4m											
+Ember		1	1	1	1		1				1	151	pr295		10	15	pr283		35	45	pr284		4	5			t2m	t3m	t4m												
+Smoldering		1	1	1	1		1				1	151	pr295		15	20	pr283		45	50	pr284		5	6			t3m	t4m													
+Hibernal		1	1	1	1		1				1	152	pr297		5	10	pr283		25	30	pr282		15	20			t1m	t2m	t3m	t4m											
+Snowflake		1	1	1	1		1				1	152	pr297		10	15	pr283		30	35	pr282		20	25			t2m	t3m	t4m												
+Shivering		1	1	1	1		1				1	152	pr297		15	20	pr283		35	40	pr282		25	30			t3m	t4m													
+Static		1	1	1	1		1				1	153	pr296		5	10	pr283		25	40	pr284		3	4			t1m	t2m	t3m	t4m											
+Glowing		1	1	1	1		1				1	153	pr296		10	15	pr283		35	45	pr284		4	5			t2m	t3m	t4m												
+Arcing		1	1	1	1		1				1	153	pr296		15	20	pr283		45	50	pr284		5	6			t3m	t4m													
+Toxic		1	1	1	1		1				1	154	pr298		5	10	pr283		30	40	pr282		5	10			t1m	t2m	t3m	t4m											
+Pestilent		1	1	1	1		1				1	154	pr298		10	15	pr283		40	50	pr282		10	15			t2m	t3m	t4m												
+Septic		1	1	1	1		1				1	154	pr298		15	20	pr283		50	60	pr282		15	20			t3m	t4m													
+Magic		1	1	1	1		1				1	155			5	10	pr283		25	35	pr282		10	15																	
+Arcane		1	1	1	1		1				1	155			10	15	pr283		35	45	pr282		15	20																	
+Ancient		1	1	1	1		1				1	155			15	20	pr283		45	50	pr282		20	25																	
+Promoted		1	1	1	1		1				1	300	pr285		1	1	pr284		3	4	pr282		15	20																	
+Elevated		1	1	1	1		1				1	300	pr285		1	1	pr284		4	5	pr282		20	25																	
+Ascended		1	1	1	1		1				1	300	pr285		1	1	pr284		5	6	pr282		30	35																	
+Silver		1	1	1	1		1				1	156	pr300		10	20	pr283		15	20	pr282		15	20			t1m	t2m	t3m	t4m											
+Shining		1	1	1	1		1				1	156	pr300		20	30	pr283		30	35	pr282		20	25			t2m	t3m	t4m												
+Opulent		1	1	1	1		1				1	156	pr300		30	40	pr283		35	40	pr282		25	30			t3m	t4m													
+Fast		1	1	1	1		1				1	305	pr299		40	60	pr283		30	40	pr284		3	4			t1m	t2m	t3m	t4m											
+Speedy		1	1	1	1		1				1	305	pr299		60	80	pr283		40	50	pr284		4	5			t2m	t3m	t4m												
+Ludicrous		1	1	1	1		1				1	305	pr299		80	100	pr283		50	60	pr284		5	6			t3m	t4m													
+Large		1	1	1	1		1				1	311	pr311		10	20	pr283		30	40	pr284		5	6			t1m	t2m	t3m	t4m											
+Huge		1	1	1	1		1				1	311	pr311		20	30	pr283		40	50	pr284		6	7			t2m	t3m	t4m												
+Colossal		1	1	1	1		1				1	311	pr311		30	40	pr283		50	60	pr284		7	8			t3m	t4m													
+Strong		1	1	1	1		1				1	158	pr325		10	15	pr284		4	5	pr282		10	15			t1m	t2m	t3m	t4m											
+Mighty		1	1	1	1		1				1	158	pr325		15	20	pr284		5	6	pr282		15	20			t2m	t3m	t4m												
+Formidable		1	1	1	1		1				1	158	pr325		20	25	pr284		6	7	pr282		20	25			t3m	t4m													
+Splashing		1	1	1	1		1				1	157	pr326	358	100	1	pr283		15	25	pr282		5	10			t1m	t2m	t3m	t4m											
+Splashing		1	1	1	1		1				1	157	pr326	358	100	1	pr283		35	45	pr282		10	15			t2m	t3m	t4m												
+Splashing		1	1	1	1		1				1	157	pr326	358	100	1	pr283		45	50	pr282		15	20			t3m	t4m													
+Bloody		1	1	1	1		1				1	312	pr312		5	10	pr284		4	5	pr282		5	10			t1m	t2m	t3m	t4m											
+Gory		1	1	1	1		1				1	312	pr312		10	15	pr284		5	6	pr282		10	15			t2m	t3m	t4m												
+Sanguinary		1	1	1	1		1				1	312	pr312		15	20	pr284		6	7	pr282		15	20			t3m	t4m													
+Unhealthy		1	1	1	1		1				1	315	pr318		-40	-30	pr284		3	4	pr282		5	10			t1m	t2m	t3m	t4m											
+Sickly		1	1	1	1		1				1	315	pr318		-60	-50	pr284		4	5	pr282		10	15			t2m	t3m	t4m												
+Diseased		1	1	1	1		1				1	315	pr318		-80	-70	pr284		5	6	pr282		15	20			t3m	t4m													
+Crushing		1	1	1	1		1				1	163	pr313		15	25	pr283		15	20	pr282		5	10			t1m	t2m	t3m	t4m											
+Smashing		1	1	1	1		1				1	163	pr313		25	35	pr283		30	35	pr282		10	15			t2m	t3m	t4m												
+Obliterating		1	1	1	1		1				1	163	pr313		35	45	pr283		35	40	pr282		15	20			t3m	t4m													
+Sparking		1	1	1	1		1				1	164	pr334		60	80	pr283		25	30	pr282		5	10			t1m	t2m	t3m	t4m											
+Shocking		1	1	1	1		1				1	164	pr334		70	90	pr283		30	35	pr282		10	15			t2m	t3m	t4m												
+Thunderous		1	1	1	1		1				1	164	pr334		80	100	pr283		35	40	pr282		15	20			t3m	t4m													
+Chilling		1	1	1	1		1				1	165	pr335	25	60	80	pr283		25	30	pr282		5	10			t1m	t2m	t3m	t4m											
+Boreal		1	1	1	1		1				1	165	pr335	25	70	90	pr283		30	35	pr282		10	15			t2m	t3m	t4m												
+Glacial		1	1	1	1		1				1	165	pr335	25	80	100	pr283		35	40	pr282		15	20			t3m	t4m													
+Smoking		1	1	1	1		1				1	166	pr336		60	80	pr283		25	30	pr282		5	10			t1m	t2m	t3m	t4m											
+Molten		1	1	1	1		1				1	166	pr336		70	90	pr283		30	35	pr282		10	15			t2m	t3m	t4m												
+Volcanic		1	1	1	1		1				1	166	pr336		80	100	pr283		35	40	pr282		15	20			t3m	t4m													
+Poisonous		1	1	1	1		1				1	167	pr337	125	123	163	pr283		25	30	pr282		5	10			t1m	t2m	t3m	t4m											
+Envenomed		1	1	1	1		1				1	167	pr337	125	143	184	pr283		30	35	pr282		10	15			t2m	t3m	t4m												
+Plagued		1	1	1	1		1				1	167	pr337	125	163	205	pr283		35	40	pr282		15	20			t3m	t4m													
+Runic		1	1	1	1		1				1	168	pr338		8	10	pr283		25	30	pr282		5	10			t1m	t2m	t3m	t4m											
+Taboo		1	1	1	1		1				1	168	pr338		10	12	pr283		30	35	pr282		10	15			t2m	t3m	t4m												
+Occult		1	1	1	1		1				1	168	pr338		12	14	pr283		35	40	pr282		15	20			t3m	t4m													
+Stygian		1	1	1	1		1				1	169	pr339		690	690	pr283		50	60	pr282		30	35			t1m	t2m	t3m												
+Lustful		1	1	1	1		1				1	169	pr340		885	885	pr283		50	60	pr282		25	30			t1m	t2m	t3m												
+Vampiric		1	1	1	1		1				1	169	pr341		697	697	pr283		35	40	pr282		15	20			t1m	t2m	t3m												
+Bovine		1	1	1	1		1				1	169	pr342		391	391	pr283		35	40	pr282		15	20			t1m	t2m	t3m												
+Reanimated		1	1	1	1		1				1	169	pr343		698	698	pr283		50	60	pr282		20	25			t1m	t2m	t3m												
+Ghastly		1	1	1	1		1				1	169	pr344		732	732	pr283		35	40	pr282		15	20			t1m	t2m	t3m												
+Blood Letting		1	1	1	3		2				4	200	pr254		1	1											weap	ring	circ	tors	helm	shld									
+Murderous		100	1	1	17		12				4	200	pr254		2	5											weap	circ	tors	helm	shld										
+Blood Sucking		100	1	1	22		16				4	200	pr254		1	3											jewl	tors	helm	shld											
+Blood Sucking		100	1	1	16		12				4	200	pr254		1	3											weap	ring													
+Channeling		100	1	1	14		14				3	201	pr245		1	1											mcha														
+Cold		100	1	1	14		14				3	201	pr246		1	1											mcha														
+Cinder		100	1	1	14		14				3	201	pr244		1	1											mcha														
+Morbid		100	1	1	14		14				3	201	pr247		1	1											mcha														
+Sparkling		100	1	1	14		14				3	201	pr248		1	1											mcha														
+Discharging		100	1	1	28		28				3	201	pr245		1	2											mcha														
+Frigid		100	1	1	28		28				3	201	pr246		1	2											mcha														
+Wildfire		100	1	1	28		28				3	201	pr244		1	2											mcha														
+Malicious		100	1	1	28		28				3	201	pr247		1	2											mcha														
+Effervescent		100	1	1	28		28				3	201	pr248		1	2											mcha														
+Conduit		100	1	1	42		42				2	201	pr245		2	3											mcha														
+Numbing		100	1	1	42		42				2	201	pr246		2	3											mcha														
+Inferno		100	1	1	42		42				2	201	pr244		2	3											mcha														
+Infectious		100	1	1	42		42				2	201	pr247		2	3											mcha														
+Scintillating		100	1	1	42		42				2	201	pr248		2	3											mcha														
+Visceral		100	1	1	75		69				1	105	pr29		301	400									1	blac	miss	amaz	knif	club	mace	tkni	taxe	aspe							
+Divine		100	1	1	45		37				1	142	pr101		326	450	pr99		276	350						lgld	miss														
+Celestial		100	1	1	55		41				1	123	pr100		301	400	pr98		201	300					1	dgld	miss														
+Grandmaster's		100	1	1	69		61				4	111	pr15		251	300	pr29		151	200					1	dgld	miss														
+Supporting		1	1	1	25		18				2	105	pr29		10	20											tors	shld													
+Reinforcing		1	1	1	35		28				2	105	pr29		20	40											tors	shld													
+Empowering		1	1	1	45		38				2	105	pr29		40	60											tors	shld													
+Bolstering		1	1	1	55		48				2	105	pr29		60	80											tors	shld													
+Fortifying		1	1	1	65		58				2	105	pr29		80	120											tors	shld													
+Lancer's		100	1	1	60		45	ama			1	125	pr124	2	3	3									1	lgld	aspe														
+Archer's		100	1	1	60		45	ama			1	125	pr124		3	3									1	lgld	miss														
+Artificer's		100	1	1	33		25				2	122	pr133	3													weap	shld	tors					thro							
+Artificer's		100	1		33		25				2	122	pr133	3													weap	shld	helm	tors				thro							
+Lancer's		100	1		60		45	ama			1	125	pr124	2	3	3									1	lgld	circ	glov													
+Maiden's		1	1	1	36		65	ama			1	125	pr67		1	1											helm	shld	tors												950000
+Monk's		1	1	1	65		58	pal			1	125	pr68		1	1											tors	shld	helm												950000
+Summoner's		1	1	1	65		58	nec			1	125	pr69		1	1											tors	shld	helm												950000
+Angel's		1	1	1	65		58	sor			1	125	pr70		1	1											tors	shld	helm												950000
+Slayer's		1	1	1	65		58	bar			1	125	pr71		1	1											tors	helm	shld												950000
+Shaman's		100	1	1	65		58	dru			1	125	pr121		1	1											tors	shld	helm												950000
+Magekiller's		100	1	1	36		27	ass			1	125	pr122		1	1											tors	shld	helm												950000
+Cerulean		100	1	1	49		41				2	115	pr11		21	30									1	cblu	jewl														
+Lancer's		100	1		60		45	ama			1	125	pr124	2	3	3									1	lgld															

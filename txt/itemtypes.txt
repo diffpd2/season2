@@ -28,7 +28,7 @@ wand	wand	rod		1	1	rarm	larm								1					2	2	2		1	nec										weap	0
 staf	staf	rod		1	1	rarm	larm								1					5	6	6		1	sor										weap	0	
 bow 	bow	miss			1	rarm	larm	bowq							1					3	4	6	1	3											weap	0	
 axe 	axe	mele	gen	1	1	rarm	larm								1					4	5	6		3											weap	0	
-club	club	blun	gen	1	1	rarm	larm								1					3	4	6		3											weap	0	
+club	club	blun	gen	1	1	rarm	larm								1					3	4	6		3	dru										weap	0	
 swor	swor	mele	gen	1	1	rarm	larm								1					3	4	6		3											weap	0	
 hamm	hamm	blun	gen	1	1	rarm	larm								1					3	4	6		3											weap	0	
 knif	knif	mele	asm	1	1	rarm	larm								1					2	3	3		3											weap	0	
@@ -67,7 +67,7 @@ pala	pala	clas													1									1			pal									0
 sorc	sorc	clas													1									1			sor									0	
 assn	assn	clas	asm												1									2			ass									0	
 drui	drui	clas													1									1			dru									0	
-h2h 	h2h	mele	assn	1	1	rarm	larm								1					2	3	3		2			ass								weap	0	
+h2h 	h2h	mele	assn	1	1	rarm	larm								1					2	3	3		2	ass		ass								weap	0	
 orb 	orb	weap	sorc	1	1	rarm	larm								1					2	3	3		1	sor		sor								weap	0	
 head	head	shld	necr	1	1	rarm	larm								1					2	3	3		1	nec		nec								armo	0	
 ashd	ashd	shld	pala	1	1	rarm	larm								1					3	4	4		1			pal								armo	0	
@@ -91,7 +91,7 @@ ajav	ajav	jave	amaz	1	1	rarm	larm			1	1	1	1		1									1			ama								misc	0
 h2h2	h2h2	h2h		1	1	rarm	larm								1					2	3	3		2	ass		ass								weap	0	
 mboq	mboq	bowq			1	rarm	larm		bow		1			1	1									3											misc	0	
 mxbq	mxbq	xboq			1	rarm	larm		xbow		1			1	1									3											misc	0	
-asm 	asm			1	1	rarm	larm								1					2	3	3		2	ass		ass								weap	0	
+asm 	asm			1	1	rarm	larm								1					2	3	3		2			ass								weap	0	
 gem0	gem0	gem														1		1						3											misc	0	
 gem1	gem1	gem														1		1						3											misc	0	
 gem2	gem2	gem														1		1						3											misc	0	
@@ -199,3 +199,4 @@ r33g	r33g	rung	r1pg										1			1								3												0
 r1pg	r1pg												1			1								3												0	
 ubr 	ubr												1			1								3												0	
 ubor	ubor												1			1								3												0	
+pvpm	pvpm															1								3												0	

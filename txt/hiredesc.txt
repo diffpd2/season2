@@ -8,3 +8,4 @@ off 	off	0
 fire	fire	0
 cold	cold	0
 ltng	ltng	0
+mght	mght	0
