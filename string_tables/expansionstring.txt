@@ -2042,7 +2042,7 @@ Skillld222	the eyes of your enemies}summon ravens to peck out
 Skillan222	Raven
 Skillname223	Poison Creeper
 Skillsd223	summon disease spreading vine
-Skillld223	disease to all it contacts}summon a vine that spreads
+Skillld223	contacts and reduces their poison resistance}summon a vine that spreads disease to all it
 Skillan223	Psn Creep
 Skillname223	Werewolf
 Skillsd223	transform into a werewolf
@@ -2821,7 +2821,7 @@ Desolating	Desolating
 Mesa	Plains of Torment
 Ice Cave	Ancestral Trial
 Palace	Horadrim Tower
-Arcane	Horazon's Memory
+ArcaneMap	Horazon's Memory
 Kurast	Ruins of Viz-Jun
 River Of Blood	River Of Blood
 Sewers	Sewers of Harrogath
@@ -2843,3 +2843,38 @@ Dark Abyss	Dark Abyss
 Aidans Scar	Aidan's Scar
 Hadriels Hand	Hadriel's Hand
 scrb	ÿc4Horadrim Scarab
+Fall of Caldeum Map	Fall of Caldeum
+Blood Letting	Blood Letting
+Murderous	Murderous
+Blood Sucking	Blood Sucking
+Channeling	Channeling
+Cold	Cold
+Cinder	Cinder
+Morbid	Morbid
+Sparkling	Sparkling
+Discharging	Discharging
+Frigid	Frigid
+Wildfire	Wildfire
+Malicious	Malicious
+Effervescent	Effervescent
+Conduit	Conduit
+Numbing	Numbing
+Inferno	Inferno
+Infectious	Infectious
+Shining	Shining
+Visceral	Visceral
+True Silver	True Silver
+Quetzalcoatl	Quetzalcoatl
+Cyclopean Roar	Cyclopean Roar
+Sankekur's Fall	Sankekur's Fall
+Mage Slayer	Mage Slayer
+Kalans Legacy	Kalan's Legacy
+Tempest	Tempest
+Fall of Caldeum	The Fall of Caldeum
+Pandemonium Citadel	The Pandemonium Citadel
+Reziarfgs Lair	Reziarfg's Lair
+Supporting	Supporting
+Reinforcing	Reinforcing
+Empowering	Empowering
+Bolstering	Bolstering
+Fortifying	Fortifying

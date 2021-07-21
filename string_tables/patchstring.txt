@@ -1272,7 +1272,7 @@ of Vim	of Vim
 of Hindrance	of Hindrance
 of Aversion	of Aversion
 of Permeability	of Permeability
-ModStrRepCharge1	Replenish 1 Charge in 6 Seconds
+ModStrRepCharge1	Replenish 1 Charge in 3 Seconds
 MapGlobMF	ÿc0Magic Find:ÿc3
 MapGlobExp	ÿc0Experience:ÿc3
 MapGlobGF	ÿc0Gold Find:ÿc3
@@ -1353,6 +1353,7 @@ StrAvunaos	ÿc4Avunaos the Rotten
 StrBelial	ÿc4Belial Lord of Lies
 StrBolts	Bolts Fired: 
 StrLifeHeal	Life Recovered: 
+ubtm	ÿc8Pandemonium Talisman
 dcma	ÿc8Vision of Terror
 dcho	ÿc8Black Soulstone
 dcbl	ÿc8Pure Demonic Essence
@@ -1383,3 +1384,25 @@ ThroneBoss	ÿc4Indio The Insane
 torajanBoss	ÿc4The Great Worm
 ScarabDesc	ÿc1Dangerous Group Content}ÿc0Cube with a Tier 3 map to create a Dungeon
 MapAtkCastSpeed	Attack and Cast Speed
+AddFireDmg	Added Fire Damage: 
+AddColdDmg	Added Cold Damage: 
+AddLtngDmg	Added Lightning Damage: 
+StrEnemyPoisonRes	Enemy Poison Resistance: 
+ChargeUpSkillDesc2	can only be used with dual claw weapons}of charges you have available and deplete on the third attack}consecutive hits add bonuses based on the amount}}Charge-up Skill
+ThornsATD	Attacker Takes Damage of 
+UberTristDesc	Use at the blood fountain in Harrogath
+DCloneDesc	Use at the blood fountain in Harrogath
+GustReduction	Gust's Cooldown Is Reduced By 2 Seconds
+ExtraSkeleWar	You May Summon 2 Additional Skeleton Warriors
+ExtraSkeleMage	You May Summon 2 Additional Skeleton Mages
+ExtraHydra	You May Summon 1 Additional Hydra
+ExtraValk	You May Summon 1 Additional Valkyrie
+joustreduction	Joust's Cooldown Is Reduced By 0.5 Seconds
+ExtraSkeleMageGrim	You May Summon 6 Additional Skeleton Mages
+ModitemdamMagisk	To Magic Skill Damage
+bloodwarplifereduction	Bloodwarp Costs 2% Less Health
+StrJoustReducedCd	Cooldown reduced by 0.1 per base point
+StrMultishotPierce	damage every time they pierce}Arrows deal 50% reduced
+act2hireTraitorBoss	ÿc4Waheed The Traitor
+PandemoniumBoss	ÿc4Dark Commander Alma
+spiderboss	ÿc4Reziarfg
